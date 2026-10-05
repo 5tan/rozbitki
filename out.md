@@ -1,3 +1,14 @@
+# Rozbitki
+
+albo dwudziesto-miesięczny pobyt na wyspach auklandzkich  
+
+OPOWIEŚĆ PRAWDZIWA
+
+F.E. Reynal 
+
+W.g. 3-ciego wydania francuzkiego
+z dziewiętnastoma rycinami
+
 <!-- page 1 -->
 <!-- page 2 -->
 <!-- page 3 -->
