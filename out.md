@@ -1,4 +1,4 @@
-# Rozbitki
+## Rozbitki
 
 albo dwudziesto-miesięczny pobyt na wyspach auklandzkich  
 
@@ -32,7 +32,7 @@ z dziewiętnastoma rycinami
 <!-- page 14 -->
 <!-- page 15 -->
 
-# DO MOJEJ MATKI
+## DO MOJEJ MATKI
 
 Droga i kochana Matko!
 
@@ -56,7 +56,7 @@ RAYNAL.
 
 <!-- page 17 -->
 
-# DO CZYTELNIKA
+## DO CZYTELNIKA
 
 Kiedym, powróciwszy do Francyi po dwudziestu latach tułaczki i po szczęśliwem wybrnięciu ze straszliwej przygody, odważył się przedsięwziąć napisanie tej książki, nie miałem, ani nawet mieć mogłem żadnej żyłki literackiej. Byłem daleko mniej obeznany z piórem niż z oszczepem, toporem lub strzelbą. Ograniczyłem się więc na skromnem i rzetelnem opowiedzeniu tego, com widział, com robił i czuł podczas jednej z najcięższych prób, na jakie tylko istota ludzka wystawiona być może.
 
@@ -71,8 +71,6 @@ Nie sądzę, bym się mylił. Książka ta okaże dowodnie młodym czytelnikom, 
 Wszystkim zaś, którym przychodzi walczyć z przeciwnościami życia, opowieść moja dostarczyć może błogiej pociechy, że nawet w położeniu na pozór najokropniejszem i najbardziej rozpaczliwem, nie należy się poddawać zwątpieniu, i że przy pomocy siły woli, sprężystości i niezachwianej ufności w Opatrzność, można zawsze podołać najgorszemu losowi, a nawet wyjść z tych zapasów zwycięzko.
 
 <!-- page 19 -->
-
-# ROZBITKI NA AUKLANDACH
 
 ## WSTĘP
 
@@ -90,27 +88,15 @@ Urodziłem się we wsi Moissac, w departamencie Tarnu i Garronny. Zacząłem zal
 
 Wielką mi przykrość sprawiła konieczność opuszczenia kolegijum w Montauban, gdzie wówczas pobierałem nauki, gdyż już wtedy zaczynałem rozumieć konieczność wykształcenia dla każdego, kto chce rozpocząć samoistne życie na świecie. Brat mój i siostra również odebrani zostali ze szkoły, byli jednak jeszcze zbyt dziecinnymi, by się kłopotać mogli skutkami spadłego na nas nieszczęścia.
 
-Ojciec mój, który za młodu studyjował prawo i zamierzał zostać adwokatem, dzięki skromnej swej fortunce, był później w możności porzucenia tego zamiaru i pędził życie na ustroniu według swych skromnych i prostych upodobań. Nadeszła jednak chwila, gdy się ujrzał zmuszonym wyrzec tego miłego wczasu i wziąć się do pracy produkcyjnej. Postanowił wówczas przenieść się do Bordeaux, gdzie było mu daleko łatwiej niż w małem miasteczku korzystnie spożytkować swe zdolności. Matka, kobieta dziwnej sta-
-
-<!-- page 21 -->
-
-łości charakteru, dawała nam wszystkim doskonały przykład rezygnacyi i odwagi.
+Ojciec mój, który za młodu studyjował prawo i zamierzał zostać adwokatem, dzięki skromnej swej fortunce, był później w możności porzucenia tego zamiaru i pędził życie na ustroniu według swych skromnych i prostych upodobań. Nadeszła jednak chwila, gdy się ujrzał zmuszonym wyrzec tego miłego wczasu i wziąć się do pracy produkcyjnej. Postanowił wówczas przenieść się do Bordeaux, gdzie było mu daleko łatwiej niż w małem miasteczku korzystnie spożytkować swe zdolności. Matka, kobieta dziwnej sta<!-- page 21 -->łości charakteru, dawała nam wszystkim doskonały przykład rezygnacyi i odwagi.
 
 Co do mnie, to życie śród walk z losem i niedostatku, śród którego widocznie wyczerpywali swe siły moi rodzice, natchnęło mię gorącem pragnieniem przyjścia im w pomoc. Ulżenie im kłopotów chwili obecnej i powrócenie do dawnej pomyślności było nieustannie przedmiotem mych myśli. Dla dojścia do tego celu, jeden tylko widziałem środek. Środkiem tym było siąść na okręt, zostać marynarzem, puścić się w świat, by na obcej ziemi, na końcu świata, jeśliby to było koniecznem, szukać dostatków, których Francyja nie chciała mi dostarczyć. Słyszałem nieraz o osobach, które opuściwszy w takiż sam sposób ojczyznę, wracały do niej później bogatemi, a przynajmniej nie znającemi niedostatku. Dlaczegóż więc i ja nie mógłbym być równie szczęśliwym? Może też być, iż myśl ta dlatego tak mi się uśmiechała, żem, wczytując się na kilka lat przedtem w pewnego rodzaju książki, nabrał nadzwyczajnego upodobania do podróży i przygód. Rodzice moi nie stawiali żadnych przeszkód moim zamiarom, których słuszności nie omieszkałem im bynajmniej wyjaśniać; przyszło więc do tego, żem miał wyruszyć w świat w charakterze praktykanta na majtka na okręcie la Virginie et Gabrielle, statku trzymasztowym, o stu tonnach objętości, który miał się puścić w drogę do Indyj Wschodnich pod dowództwem kapitana Loquay, dobrego przyjaciela mego ojca. Dzielny ten człowiek przyrzekł mnie wziąć w swoją opiekę, kształcić w obranym przezemnie zawodzie, a szczerze powiedzieć mogę, iż nigdy pewno żadna obietnica z większą gorliwością wypełnianą nie była. Kapitan Loquay stał się najlepszym mym przyjacielem, to też wspomnienie jego nigdy nie zatrze się w mej pamięci.
 
-Pamiętam dobrze, było to 23 grudnia 1844 roku, gdy nadeszła stanowcza chwila wsiadania na okręt. Cóż to za data, co za okropna chwila! Pożegnanie z rodzicami, których tak serdecznie kochałem, wyrywanie się z ich objęć, rzucanie się w nie na nowo, przymusowa od nich ucieczka, a potem znalezienie się nagle śród ciemności na pokładzie statku, przygotowanego do drogi, poczucie jego ruchu,
-
-<!-- page 22 -->
-
-opuszczenie portu, oddalanie się od lądu i unoszenie się w nieznane krainy! Nie, zaprawdę, są to wrażenia, które się opisać nie dadzą.
+Pamiętam dobrze, było to 23 grudnia 1844 roku, gdy nadeszła stanowcza chwila wsiadania na okręt. Cóż to za data, co za okropna chwila! Pożegnanie z rodzicami, których tak serdecznie kochałem, wyrywanie się z ich objęć, rzucanie się w nie na nowo, przymusowa od nich ucieczka, a potem znalezienie się nagle śród ciemności na pokładzie statku, przygotowanego do drogi, poczucie jego ruchu, <!-- page 22 -->opuszczenie portu, oddalanie się od lądu i unoszenie się w nieznane krainy! Nie, zaprawdę, są to wrażenia, które się opisać nie dadzą.
 
 Świt, a z nim powrót światła, pokrzepił moje zbolałe serce. Wirginija i Gabryjela, robiąc wciąż po osiem węzłów na godzinę, posuwała się bez przerwy coraz dalej. Wybrzeże rysowało się już tylko na widnokręgu w postaci wąskiej białawej smugi, a wkrótce nawet znikło nam z oczu zupełnie. Bezgraniczne morze otaczało mię dokoła; sklepienie nieba po raz pierwszy przedstawiło się mym oczom w całej swej rozległości; wszędzie miałem przed sobą nieskończoność. Wielkość obrazu uniosła mię swą wspaniałością; uczułem w sobie poważny i uroczysty zapał; umysł mój ogarnięty został jedyną myślą o Istocie najwyższej, sprawcy i panu wszechświata i poczułem w sobie niepohamowany pociąg błagania Jej o pomoc i opiekę, to też modliłem się gorąco. Od tej chwili, w całym przebiegu mego życia, myśl o obecności Boga, o jego potędze, nigdy mię nie opuszczała i nie przestawała być pociechą w strapieniach. Niepodobieństwem jest, ażeby marynarz, zostający zawsze pod wrażeniem nieskończoności, będący zawsze w styczności a częstokroć i w walce z niepewnemi siłami przyrody, mógł być kiedy pozbawionym uczucia religijnego.
 
-Nie omieszkałem zaraz zapoznać się z próbkami życia marynarskiego. Nie mam tu bynajmniej na myśli owych zarówno śmiesznych jak i dokuczliwych przypadłości, będących wynikiem kołysania się statku, a które bardzo rzadko omijają nowicyjuszów. Nawyknienie, a po części i obawa stania się przedmiotem pośmiewiska towarzyszów podróży, pozwoliły mi bardzo prędko zapanować nad chorobą, ale wkrótce, bo zaraz na drugi dzień, miałem sposobność zaznajomienia się z burzą. Stary ocean postanowił widocznie odrazu mnie przyzwyczaić do wybryków swego zmiennego humoru, ażebym na przyszłość mógł uniknąć niespodzianek. W ciągu kilku chwil ponura mgła otoczyła nas ze wszech stron; wiatr zaczął dąć ze wściekłością; bałwany wznosiły się potwornymi kłębami, które co chwila szorowały po pokładzie i zabrały nam wkrótce trzy łodzie, oszczędziwszy tylko szalupę. Przyczepiony do jednej z drabinek,
-
-<!-- page 23 -->
-
-tylnego masztu, ujrzałem nagle z przerażeniem cieślę, zabierającego się do ścięcia wielkiego masztu. Luzowaliśmy się ustawicznie dla ciągłego poruszania pomp. Pędzony wiatrem, przewrócony na bok wskutek nieustannej nawałnicy, która mu ani na chwilę do zwykłego położenia wrócić nie dawała, okręt nasz zwrócił się w tył. Oczekiwaliśmy lada chwila rozbicia się o drobne wysepki lub rafy, ciągnące się wzdłuż francuzkiego wybrzeża; uważaliśmy się już za zgubionych.
+Nie omieszkałem zaraz zapoznać się z próbkami życia marynarskiego. Nie mam tu bynajmniej na myśli owych zarówno śmiesznych jak i dokuczliwych przypadłości, będących wynikiem kołysania się statku, a które bardzo rzadko omijają nowicyjuszów. Nawyknienie, a po części i obawa stania się przedmiotem pośmiewiska towarzyszów podróży, pozwoliły mi bardzo prędko zapanować nad chorobą, ale wkrótce, bo zaraz na drugi dzień, miałem sposobność zaznajomienia się z burzą. Stary ocean postanowił widocznie odrazu mnie przyzwyczaić do wybryków swego zmiennego humoru, ażebym na przyszłość mógł uniknąć niespodzianek. W ciągu kilku chwil ponura mgła otoczyła nas ze wszech stron; wiatr zaczął dąć ze wściekłością; bałwany wznosiły się potwornymi kłębami, które co chwila szorowały po pokładzie i zabrały nam wkrótce trzy łodzie, oszczędziwszy tylko szalupę. Przyczepiony do jednej z drabinek,<!-- page 23 --> tylnego masztu, ujrzałem nagle z przerażeniem cieślę, zabierającego się do ścięcia wielkiego masztu. Luzowaliśmy się ustawicznie dla ciągłego poruszania pomp. Pędzony wiatrem, przewrócony na bok wskutek nieustannej nawałnicy, która mu ani na chwilę do zwykłego położenia wrócić nie dawała, okręt nasz zwrócił się w tył. Oczekiwaliśmy lada chwila rozbicia się o drobne wysepki lub rafy, ciągnące się wzdłuż francuzkiego wybrzeża; uważaliśmy się już za zgubionych.
 
 Na szczęście burza nie długo trwała; mogliśmy wkrótce znowu rozwinąć żagle i puściliśmy się znowu ku równikowi, a pogoda wciąż nam odtąd sprzyjała. W sto cztery dni po opuszczeniu Bordeaux przybiliśmy do wyspy Bourbon, zwanej dziś wyspą Zjednoczenia. Stąd odbyliśmy, jedna po drugiej, aż dwie wyprawy do Indyj, podczas których zwiedziliśmy Pondiszery i inne główniejsze porty wybrzeża koromandelskiego, poczem wróciliśmy do Francyi. Ponieważ kapitan Loquay zatrzymał się dłużej na wyspie Ś-tej Heleny, powziąłem więc myśl nazbierać sobie pamiątek z grobu Napoleona, mianowicie zaś okruchów kamieni i gałązkę sławnej wierzby; wiedziałem, że te drobnostki będą nieoszacowanymi skarbami w oczach mego dziadka, kochanego staruszka, który ongi brał udział we wszystkich wyprawach Rzeczypospolitej i Cesarstwa, a w dniach mego dzieciństwa dramatycznemi swemi opowieściami unosił mnie niejednokrotnie nieopisanym zapałem. Dusza jego, pomimo upływu czasu i zmiany porządku rzeczy, żyła wciąż tylko wspomnieniami wspaniałej przeszłości.
 
@@ -122,23 +108,15 @@ Przez całe sześć miesięcy poiłem się rozkoszą pobytu w Paryżu na łonie 
 
 Pośpieszyłem na jego wezwanie i w sześć miesięcy potem byłem na Gwadelupie, gdzieśmy się czas jakiś zatrzymali. Podczas powrotnej podróży zastanawiałem się nad mem położeniem. Czas mego terminu marynarskiego już był upłynął, ale zaledwie w odległej przyszłości mogłem przewidywać możność otrzymania dowództwa na własną odpowiedzialność, a ono tylko jedynie mogło mi zapewnić dochody, o jakich marzyłem. Postanowiłem więc porzucić przynajmniej na czas jakiś morskie rzemiosło i osiedlić się w jakiej odległej kolonii, gdzieby łatwiej a przynajmniej w daleko krótszym czasie możliwem było znaleźć środki dojścia do założonego celu. Trzeciego dnia po powrocie do Bordeaux, nie zdążywszy nawet pośpieszyć do Paryża by uściskać rodziców, rozstałem się z kapitanem Loquay, który w zupełności pochwalał me postępowanie, i wstąpiłem na pokład Syreny, pięknego trzymasztowego okrętu, świeżo spuszczonego na wodę. Tu pod dowództwem kapitana Odouard'a, miałem się puścić w drogę ku wyspie Ś-go Maurycego.
 
-Odpływałem pełen odwagi i nadziei. Anim przypuszczał, jak długi szereg lat, po którym pozostanie wspomnienie tak małej liczby chwil powodzenia, tak licznych marzeń, a naostatek tak niezwykłej przygody, w przeszłość się zamieni, zanim znowu będę miał szczęście ujrzeć rodzinę i Francyję. Gdybym mógł przeczuć, że podczas mej nieobecności, śmierć zetnie dwie najmłodsze głowy mej rodziny, że zostawię rodziców na starość osieroconych, w rozpaczy, gdyż nie mogąc odebrać żadnej o mnie wiadomości, musieli stracić na-
-
-<!-- page 25 -->
-
-dzieję ujrzenia mnie; musieli przypuszczać, żem i ja zginął!... Dzięki Ci jednak Boże! który po tylu próbach pozwoliłeś mi prawie zmartwychwstać, by osłodzić mą obecnością ostatnie chwile rodziców i gorliwą opieką i przywiązaniem wynagrodzić im dwadzieścia lat opuszczenia i boleści!
+Odpływałem pełen odwagi i nadziei. Anim przypuszczał, jak długi szereg lat, po którym pozostanie wspomnienie tak małej liczby chwil powodzenia, tak licznych marzeń, a naostatek tak niezwykłej przygody, w przeszłość się zamieni, zanim znowu będę miał szczęście ujrzeć rodzinę i Francyję. Gdybym mógł przeczuć, że podczas mej nieobecności, śmierć zetnie dwie najmłodsze głowy mej rodziny, że zostawię rodziców na starość osieroconych, w rozpaczy, gdyż nie mogąc odebrać żadnej o mnie wiadomości, musieli stracić na<!-- page 25 -->dzieję ujrzenia mnie; musieli przypuszczać, żem i ja zginął!... Dzięki Ci jednak Boże! który po tylu próbach pozwoliłeś mi prawie zmartwychwstać, by osłodzić mą obecnością ostatnie chwile rodziców i gorliwą opieką i przywiązaniem wynagrodzić im dwadzieścia lat opuszczenia i boleści!
 
 Pierwszem doświadczeniem, jakie mi przyniósł początek pobytu na wyspie Ś-go Maurycego, była nauka, by na przyszłość nie bardzo wierzyć w skuteczność listów rekomendacyjnych. Nie mając czasu do stracenia, wyrzekłem się oczekiwania dobrego skutku poleceń, w które mię zaopatrzono, i sam zacząłem się krzątać około swojej sprawy. Znalazłem dla siebie miejsce w jednej z najpiękniejszych plantacyj wyspy, a kiedym po dwu latach praktyki życia plantatorskiego obeznał się dokładnie z uprawą trzciny cukrowej, i fabrykacyją cukru, ośmieliłem się, pomimo niespełna dwudziestu lat wieku, przyjąć na się obowiązki kierownika podobnego zakładu. Ciążyła na mnie wielka odpowiedzialność, to też chwile moje tylko obowiązkowi były poświęcone. Byłem zmuszony codziennie zrywać się o wpół do trzeciej z rana dla rozniecenia ogni w warsztatach, a nie mogłem udać się na spoczynek wcześniej jak o dziewiątej lub dziesiątej wieczorem, kiedy już ognie zagasły. Musiałem wszystkiego doglądać, być w polu ze żniwiarzami, w cukrowni dla doglądania warzenia, pakowania i wysyłki cukru na brzegi morza dla ładowania go na okręty; musiałem być w składach przy rozdziale strawy, w stajni, we młynie, słowem w stu miejscach, gdzie tylko byli ludzie, których pracy sam jeden musiałem doglądać. W sobotę wieczorem bywałem zawsze tak zmęczony, żem nawet często zabraniał posługującemu mi Indyjaninowi przerywać mi spoczynek, choćby nawet szło o posiłek, bo przedewszystkiem wczasu potrzebowałem. Nieraz też zdarzało mi się przesypiać bez przerwy całe dwadzieścia cztery godziny.
 
-Pomimo tych wszystkich trudów i kłopotów z mymi kulisami (robotnikami rasy indyjskiej), ludem upartym i skorym do zwady, tak że pewnego razu byłem zmuszony staczać bójkę z jednym z nich dla skarcenia zuchwalstwa, kiedy indziej znów bronić mego życia prze-
-
-<!-- page 26 -->
-
-ciw napaści całej bandy buntowników, przyczem w obu razach zwycięstwo i utrzymanie mej powagi zawdzięczałem tylko swej zimnej krwi i stanowczości, do których czułem się zmuszonym: pomimo wszystkich tego rodzaju kłopotów byłem zadowolony ze swego stanowiska, z pociechą spoglądałem na coraz pomyślniejszy stan plantacyi, byłem w jak najlepszych stosunkach z właścicielem, pochodzącym ze starożytnej francuzkiej rodziny, odznaczającym się tak przymiotami umysłu jak i serca, słowem wszystko szło jak najlepiej... Wkrótce jednak spotkały mię dwie przygody, z których jedna zniechęciła mnie do położenia obecnego, druga zaś rzuciła mi w oczy złudny obraz świetnej przyszłości, a tym sposobem wpłynęły na zmianę mego trybu życia i na nowo popchnęły na niepewne losy.
+Pomimo tych wszystkich trudów i kłopotów z mymi kulisami (robotnikami rasy indyjskiej), ludem upartym i skorym do zwady, tak że pewnego razu byłem zmuszony staczać bójkę z jednym z nich dla skarcenia zuchwalstwa, kiedy indziej znów bronić mego życia prze<!-- page 26 -->ciw napaści całej bandy buntowników, przyczem w obu razach zwycięstwo i utrzymanie mej powagi zawdzięczałem tylko swej zimnej krwi i stanowczości, do których czułem się zmuszonym: pomimo wszystkich tego rodzaju kłopotów byłem zadowolony ze swego stanowiska, z pociechą spoglądałem na coraz pomyślniejszy stan plantacyi, byłem w jak najlepszych stosunkach z właścicielem, pochodzącym ze starożytnej francuzkiej rodziny, odznaczającym się tak przymiotami umysłu jak i serca, słowem wszystko szło jak najlepiej... Wkrótce jednak spotkały mię dwie przygody, z których jedna zniechęciła mnie do położenia obecnego, druga zaś rzuciła mi w oczy złudny obraz świetnej przyszłości, a tym sposobem wpłynęły na zmianę mego trybu życia i na nowo popchnęły na niepewne losy.
 
 Ową przygodą, co zwichnęła moje dobre usposobienia, była epidemija gorączki tyfoidalnej, tak zacięta, że podobnej nie zdarzyło mi się już przebyć. Rozpostarła się ona po kraju z niesłychaną gwałtownością, dziesiątkując biednych mieszkańców. Naszej plantacyi srodze się dała we znaki. Ubywało nam z dziesięciu ludzi na dzień, lecz nareszcie zaraza zaczęła się zmniejszać, ale mimo to, wycieńczony pracą i doznanemi wzruszeniami, ja sam dostałem się w jej szpony. Wyszedłem wprawdzie cało, ale osłabienie ciała i umysłu wcale ustąpić nie chciało, a uporczywość tego stanu przypisywałem szkodliwości klimatu wyspy.
 
-Druga przygoda była wręcz przeciwnej natury i ukazała mi jak najzłudniejsze na przyszłość widoki. W owym czasie, a było to w roku 1852 ku końcowi trzeciego roku mego zarządu plantacyją, rozeszła się nagle po świecie wielka nowina o odkryciu kopalń złota w Australii. Na wyspę Ś-go Maurycego przyniósł ją statek, przybywający z Sydney. W tej chwili góry Błękitne, Ophir, Victoria stały się jedynym przedmiotem rozmowy, celem wszelkich zabiegów i pożądliwości. Mówiono tylko o ogromnych fortunach, zdobytych w ciągu dni kilku; o bryłach złota, ważących do pięćdziesięciu i stu funtów, znajdowanych na samej powierzchni gruntu albo w bardzo małej głębokości; o żebrakach, rolnikach, robotnikach lub majtkach, wiodących podczas powrotu stamtąd życie wielkich panów, rozsy-
+Druga przygoda była wręcz przeciwnej natury i ukazała mi jak najzłudniejsze na przyszłość widoki. W owym czasie, a było to w roku 1852 ku końcowi trzeciego roku mego zarządu plantacyją, rozeszła się nagle po świecie wielka nowina o odkryciu kopalń złota w Australii. Na wyspę Ś-go Maurycego przyniósł ją statek, przybywający z Sydney. W tej chwili góry Błękitne, Ophir, Victoria stały się jedynym przedmiotem rozmowy, celem wszelkich zabiegów i pożądliwości. Mówiono tylko o ogromnych fortunach, zdobytych w ciągu dni kilku; o bryłach złota, ważących do pięćdziesięciu i stu funtów, znajdowanych na samej powierzchni gruntu albo w bardzo małej głębokości; o żebrakach, rolnikach, robotnikach lub majtkach, wiodących podczas powrotu stamtąd życie wielkich panów, rozsy<!-- page 29 -->pujących złoto garściami, popełniających pod wpływem szału największe niedorzeczności, jak kąpiele w winie szampańskiem, lub zapalanie cygar pieniędzmi papierowymi, za które całe rodziny w ciągu kilku miesięcy wyżywićby się mogły. Mówiono nakoniec o niesłychanych tłumach ludzi, napływających do Australii ze wszystkich świata zakątków; o wspaniałych okrętach, pozostawianych na los szczęścia w portach Sydney'u i Melbourne'u, opuszczonych przez załogi, oficerów, a nawet samych kapitanów, bo wszystko, co żyło, biegło po złoto. Mówiono, co prawda, i o gorzkich zawodach, o przejściach okropnych, straszliwej nędzy; ale to były w oczach wszystkich słabe zaledwie ujemne strony obrazu, który wszystkich oczy zwracał ku sobie.
 
 <!-- page 27 -->
 
@@ -146,61 +124,34 @@ Druga przygoda była wręcz przeciwnej natury i ukazała mi jak najzłudniejsze 
 
 <!-- page 28 -->
 
-<!-- page 29 -->
 
-pujących złoto garściami, popełniających pod wpływem szału największe niedorzeczności, jak kąpiele w winie szampańskiem, lub zapalanie cygar pieniędzmi papierowymi, za które całe rodziny w ciągu kilku miesięcy wyżywićby się mogły. Mówiono nakoniec o niesłychanych tłumach ludzi, napływających do Australii ze wszystkich świata zakątków; o wspaniałych okrętach, pozostawianych na los szczęścia w portach Sydney'u i Melbourne'u, opuszczonych przez załogi, oficerów, a nawet samych kapitanów, bo wszystko, co żyło, biegło po złoto. Mówiono, co prawda, i o gorzkich zawodach, o przejściach okropnych, straszliwej nędzy; ale to były w oczach wszystkich słabe zaledwie ujemne strony obrazu, który wszystkich oczy zwracał ku sobie.
+Po krótkiem wahaniu się postanowiłem porzucić obowiązek i opuścić wyspę Ś-tego Maurycego, by za przykładem tylu innych próbować szczęścia w Australii. I w lutym 1853 roku puściłem się w drogę na lichym statku, który po pięćdziesięciu sześciu dniach drogi wysadził mię w Port-Philipp. Skorom tylko stanął w granicach Australii, uważałem za konieczne obeznać się z językiem angielskim i przepędziłem dwa miesiące ucząc się go na jednym z pakiebotów, kursujących między Sydney'em i Melbournem. Wylądowanie moje w murach tego miasta nie odbyło się pod pomyślną wróżbą. Statek nasz, przy samem wejściu do portu, wieczorem, śród gęstej mgły, natrafił na skałę, a wskutek gwałtowności uderzenia przechyliwszy się na bok, nie mógł się podnieść. Prawie u kresu podróży, tak straszne niepowodzenie! Bałwany rozpostarły się nad nami; rzucały się wściekle na pomost, porwały nam dwu ludzi, majtka i kucharza i obu w nurtach oceanu pogrążyły. Uderzenia szły jedno za drugiem z nadzwyczajną szybkością, ogromny wyłom ukazał się na przodzie statku, który też zaczął iść na dno. Na szczęście morze nie było w tem miejscu głębokiem i część wielkiego masztu z wielkiem bocianiem gniazdem pozostała nad wodą, wystając na jakie piętnaście stóp ponad fale. Wdrapawszy się na sam szczyt masztu, przebyliśmy noc całą w takiem zawieszeniu. Owe kilka godzin wydały nam się wiekami; z niewypowiedzianą trwogą<!-- page 30 --> patrzyliśmy na straszne bałwany, idące do nas jakby do szturmu, lękając się co chwila, by który, żarłoczniejszy od innych, nie pozbawił nas i tego schronienia. Nareszcie dzień zaświtał, spostrzeżono nas, zabrano do łodzi i wysadzono na bruk Melbourne'u. Na trzeci dzień po tym wypadku byłem już w drodze do kopalń.
 
-Po krótkiem wahaniu się postanowiłem porzucić obowiązek i opuścić wyspę Ś-tego Maurycego, by za przykładem tylu innych próbować szczęścia w Australii. I w lutym 1853 roku puściłem się w drogę na lichym statku, który po pięćdziesięciu sześciu dniach drogi wysadził mię w Port-Philipp. Skorom tylko stanął w granicach Australii, uważałem za konieczne obeznać się z językiem angielskim i przepędziłem dwa miesiące ucząc się go na jednym z pakiebotów, kursujących między Sydney'em i Melbournem. Wylądowanie moje w murach tego miasta nie odbyło się pod pomyślną wróżbą. Statek nasz, przy samem wejściu do portu, wieczorem, śród gęstej mgły, natrafił na skałę, a wskutek gwałtowności uderzenia przechyliwszy się na bok, nie mógł się podnieść. Prawie u kresu podróży, tak straszne niepowodzenie! Bałwany rozpostarły się nad nami; rzucały się wściekle na pomost, porwały nam dwu ludzi, majtka i kucharza i obu w nurtach oceanu pogrążyły. Uderzenia szły jedno za drugiem z nadzwyczajną szybkością, ogromny wyłom ukazał się na przodzie statku, który też zaczął iść na dno. Na szczęście morze nie było w tem miejscu głębokiem i część wielkiego masztu z wielkiem bocianiem gniazdem pozostała nad wodą, wystając na jakie piętnaście stóp ponad fale. Wdrapawszy się na sam szczyt masztu, przebyliśmy noc całą w takiem zawieszeniu. Owe kilka godzin wydały nam się wiekami; z niewypowiedzianą trwogą
-
-<!-- page 30 -->
-
-patrzyliśmy na straszne bałwany, idące do nas jakby do szturmu, lękając się co chwila, by który, żarłoczniejszy od innych, nie pozbawił nas i tego schronienia. Nareszcie dzień zaświtał, spostrzeżono nas, zabrano do łodzi i wysadzono na bruk Melbourne'u. Na trzeci dzień po tym wypadku byłem już w drodze do kopalń.
-
-Przepędziłem jedenaście miesięcy w Australii; pierwsze trzy śród złotonośnych ziem prowincyi Victoria, osiem zaś następnych w takichże okolicach Nowej Południowej Walii, głównie nad brzegami rzeki Turon i jej dopływów. Nie mogę powiedzieć, by mi los sprzyjał mniej, niż innym towarzyszom. Znajdowałem tyle złota, że mi starczyło na opędzenie codziennych potrzeb, a nawet na zbieranie pewnych zapasów na nieprzewidziany wypadek. Z tem wszystkiem nie osiągnąłem założonego celu; nie chciałem zaś wracać na łono rodziny inaczej, jak, zdobywszy środki do życia dostatniego na jej łonie. Nieraz już traciłem odwagę; ale zawsze w chwili przystępu rozpaczy udawało mi się znaleźć ślad żyły, obiecujący zdobycie skarbów; wracała więc na nowo odwaga i wytrwałość. Może być, żem nadto był chciwy; możem mniej miał rozsądku niż jakiś dzielny majtek irlandzki, który przez cały czas mego pobytu w kopalniach Wiktoryi był mym wiernym towarzyszem i szczerym przyjacielem. Ów poczciwy Mac-Lure to tylko miał na celu, by zebrać sumę dostateczną na powrót do ojczyzny, kupno małego folwarku i zagospodarowanie się w nim na łonie rodziny. Kiedyśmy w chwilach odpoczynku siadali pod namiotem, piekąc przy ogniu kotlety baranie lub rozrywając się kurzeniem lulki, on opowiadał mi swe zamiary, kreślił obrazy przyszłego swego szczęścia. Cieszył się zawczasu myślą, jak podczas długich wieczorów zimowych, zasiadłszy przed kominem pomiędzy staruszką matką i żoną i popijając dobry grog, opowiadać będzie awanturnicze przygody dzieciom, drapiącym się na jego kolana. I dzielny Mac-Lure doprowadził do skutku swoje zamiary. W kilka lat później, przebywając w dolinach gór Błękitnych, otrzymałem od niego list, pisany z Irlandyi. Donosił mi w nim, że przyszedł nareszcie do posiadania tak upragnionego folwarczku, że matka jego pod własnym dachem pędziła spokojnie chwile
-
-<!-- page 31 -->
-
-starości, że znalazł żonę, jakiej pragnął, że szklanka grogu bynajmniej mu nie szkodzi i że ma niepłonną nadzieję, iż Bóg nie poskąpi mu dzieci... Był więc szczęśliwym! Umiarkowanie jego otrzymało należną nagrodę.
+Przepędziłem jedenaście miesięcy w Australii; pierwsze trzy śród złotonośnych ziem prowincyi Victoria, osiem zaś następnych w takichże okolicach Nowej Południowej Walii, głównie nad brzegami rzeki Turon i jej dopływów. Nie mogę powiedzieć, by mi los sprzyjał mniej, niż innym towarzyszom. Znajdowałem tyle złota, że mi starczyło na opędzenie codziennych potrzeb, a nawet na zbieranie pewnych zapasów na nieprzewidziany wypadek. Z tem wszystkiem nie osiągnąłem założonego celu; nie chciałem zaś wracać na łono rodziny inaczej, jak, zdobywszy środki do życia dostatniego na jej łonie. Nieraz już traciłem odwagę; ale zawsze w chwili przystępu rozpaczy udawało mi się znaleźć ślad żyły, obiecujący zdobycie skarbów; wracała więc na nowo odwaga i wytrwałość. Może być, żem nadto był chciwy; możem mniej miał rozsądku niż jakiś dzielny majtek irlandzki, który przez cały czas mego pobytu w kopalniach Wiktoryi był mym wiernym towarzyszem i szczerym przyjacielem. Ów poczciwy Mac-Lure to tylko miał na celu, by zebrać sumę dostateczną na powrót do ojczyzny, kupno małego folwarku i zagospodarowanie się w nim na łonie rodziny. Kiedyśmy w chwilach odpoczynku siadali pod namiotem, piekąc przy ogniu kotlety baranie lub rozrywając się kurzeniem lulki, on opowiadał mi swe zamiary, kreślił obrazy przyszłego swego szczęścia. Cieszył się zawczasu myślą, jak podczas długich wieczorów zimowych, zasiadłszy przed kominem pomiędzy staruszką matką i żoną i popijając dobry grog, opowiadać będzie awanturnicze przygody dzieciom, drapiącym się na jego kolana. I dzielny Mac-Lure doprowadził do skutku swoje zamiary. W kilka lat później, przebywając w dolinach gór Błękitnych, otrzymałem od niego list, pisany z Irlandyi. Donosił mi w nim, że przyszedł nareszcie do posiadania tak upragnionego folwarczku, że matka jego pod własnym dachem pędziła spokojnie chwile<!-- page 31 --> starości, że znalazł żonę, jakiej pragnął, że szklanka grogu bynajmniej mu nie szkodzi i że ma niepłonną nadzieję, iż Bóg nie poskąpi mu dzieci... Był więc szczęśliwym! Umiarkowanie jego otrzymało należną nagrodę.
 
 Z tego długiego ustępu mego życia tysiące wspomnień pozostały w mej pamięci. Same już te wspomnienia starczyłyby na spisanie sporej książki, do złożenia której może się kiedy i zabiorę. Tutaj jednak poprzestanę tylko na przytoczeniu trzech wypadków, z których każdy o mało co o śmierć mię nie przyprawił, a których opis może dać pewne wyobrażenie o niebezpieczeństwach wszelkiego rodzaju, grożących w każdej chwili poszukiwaczom złota.
 
-Dwa z tych wypadków odnosiły się do pierwszych wystąpień moich w zawodzie górniczym. Wraz z Mac-Lurem osiadłem na piaskach kopalni Forest-Creek, u stóp góry Aleksandra, to jest na obszernej dolinie, której płaszczyzna ożywioną była licznymi białymi namiotami i pokrytą mnóstwem jam, w których pilnie pracowało ze czterdzieści lub pięćdziesiąt tysięcy górników. Pewnego razu, zmordowany grzebaniem w swej jamie i przemywaniem następnie wykopanej ziemi, trapiony przytem pragnieniem a nie mogąc go zaspokoić dla braku herbaty, zwykłego naszego napoju, a nawet wody gorącej, byłem tyle nierozsądnym, żem się aż napił ohydnej wody z kałuży. Niewstrzemięźliwość ta sprowadziła na mnie natychmiast silny atak choleryczny. Wijąc się w okropnych boleściach i przypuszczając, że użycie jakiegoś gwałtownie rozgrzewającego środka przyniesie mi ulgę albo też szybko położy kres moim cierpieniom, wychyliłem potężną szklanicę wódki, zaostrzonej łyżeczką pieprzu. Los mi sprzyjał... wyzdrowiałem. Wkrótce jednak i mnie i Mac-Lureowi zagroziło nieszczęście innego rodzaju, które byłoby dla nas daleko nieznośniejsze nawet od utraty życia. O mało co nie straciliśmy wzroku. Kiedyśmy pewnego razu zajęci byli przemywaniem złotonośnego piasku, niezliczone roje nader dokuczliwych i niezmiernie upartych much tak nas napastować zaczęły, żeśmy się nie mogli powstrzymać od opędzania ich pomoczonemi w błotnistej wodzie rękami. Kał w tej wodzie zawarty, dostawszy się do oczu, wywo-
+Dwa z tych wypadków odnosiły się do pierwszych wystąpień moich w zawodzie górniczym. Wraz z Mac-Lurem osiadłem na piaskach kopalni Forest-Creek, u stóp góry Aleksandra, to jest na obszernej dolinie, której płaszczyzna ożywioną była licznymi białymi namiotami i pokrytą mnóstwem jam, w których pilnie pracowało ze czterdzieści lub pięćdziesiąt tysięcy górników. Pewnego razu, zmordowany grzebaniem w swej jamie i przemywaniem następnie wykopanej ziemi, trapiony przytem pragnieniem a nie mogąc go zaspokoić dla braku herbaty, zwykłego naszego napoju, a nawet wody gorącej, byłem tyle nierozsądnym, żem się aż napił ohydnej wody z kałuży. Niewstrzemięźliwość ta sprowadziła na mnie natychmiast silny atak choleryczny. Wijąc się w okropnych boleściach i przypuszczając, że użycie jakiegoś gwałtownie rozgrzewającego środka przyniesie mi ulgę albo też szybko położy kres moim cierpieniom, wychyliłem potężną szklanicę wódki, zaostrzonej łyżeczką pieprzu. Los mi sprzyjał... wyzdrowiałem. Wkrótce jednak i mnie i Mac-Lureowi zagroziło nieszczęście innego rodzaju, które byłoby dla nas daleko nieznośniejsze nawet od utraty życia. O mało co nie straciliśmy wzroku. Kiedyśmy pewnego razu zajęci byli przemywaniem złotonośnego piasku, niezliczone roje nader dokuczliwych i niezmiernie upartych much tak nas napastować zaczęły, żeśmy się nie mogli powstrzymać od opędzania ich pomoczonemi w błotnistej wodzie rękami. Kał w tej wodzie zawarty, dostawszy się do oczu, wywo<!-- page 32 -->łał tak gwałtowne zapalenie, żeśmy oczu wcale otworzyć nie mogli. Chcąc niechcąc tedy, musieliśmy całe dnie i noce, przykuci do nędznych tapczanów, pozostawać w zupełnej bezczynności. Nie potrafię opisać strasznych fizycznych i moralnych udręczeń, jakie znosić musiałem, będąc przez dziewięć dni zupełnie pozbawionym wzroku. Ponieważ wypadki ociemnienia wcale nie są rzadkie pomiędzy poszukiwaczami złota, byłem przeto pewny, żem już na zawsze wzrok utracił. Widziałem się już zupełnie opuszczonym, niezdolnym do zapracowania na życie, a zatem zgubionym w tym rozległym na pół dzikim kraju, gdzie człowiekowi daleko więcej niż gdzieindziej potrzebne są wszystkie zmysły. Pragnąłem więc śmierci, a szał mój doszedł raz nawet do takiego stopnia, żem sam odebrać sobie życie postanowił. Szukałem rewolweru, który zwykle w gotowości spoczywał pod mą poduszką, i gdyby nie roztropność Mac-Lure'a, który, lękając się szalonych wybryków mej rozpaczy, wcześnie go był stamtąd usunął, byłbym niezawodnie powiększył liczbę samobójców. Serdecznie też potem dziękowałem Bogu, który używszy za narzędzie mego przyjaciela, uchronił mię od nieszczęścia stawienia się przed Jego obliczem pod ciężarem tak strasznej zbrodni.
 
-<!-- page 32 -->
-
-łał tak gwałtowne zapalenie, żeśmy oczu wcale otworzyć nie mogli. Chcąc niechcąc tedy, musieliśmy całe dnie i noce, przykuci do nędznych tapczanów, pozostawać w zupełnej bezczynności. Nie potrafię opisać strasznych fizycznych i moralnych udręczeń, jakie znosić musiałem, będąc przez dziewięć dni zupełnie pozbawionym wzroku. Ponieważ wypadki ociemnienia wcale nie są rzadkie pomiędzy poszukiwaczami złota, byłem przeto pewny, żem już na zawsze wzrok utracił. Widziałem się już zupełnie opuszczonym, niezdolnym do zapracowania na życie, a zatem zgubionym w tym rozległym na pół dzikim kraju, gdzie człowiekowi daleko więcej niż gdzieindziej potrzebne są wszystkie zmysły. Pragnąłem więc śmierci, a szał mój doszedł raz nawet do takiego stopnia, żem sam odebrać sobie życie postanowił. Szukałem rewolweru, który zwykle w gotowości spoczywał pod mą poduszką, i gdyby nie roztropność Mac-Lure'a, który, lękając się szalonych wybryków mej rozpaczy, wcześnie go był stamtąd usunął, byłbym niezawodnie powiększył liczbę samobójców. Serdecznie też potem dziękowałem Bogu, który używszy za narzędzie mego przyjaciela, uchronił mię od nieszczęścia stawienia się przed Jego obliczem pod ciężarem tak strasznej zbrodni.
-
-Szczęście jednak wcale mi się uśmiechnąć nie chciało. Wkrótce spadła na mnie nowa przygoda, z której prawdziwie cudem tylko cało wyszedłem, a która wpłynęła na skrócenie pobytu mego w Australii. Byłem podówczas zajęty eksploatacyją łożyska strugi Palmers-Oackey-Creek, jednego z dopływów rzeki Turon. Pewnego razu, gdy wszyscy ludzie, których do pomocy przyjąłem, udali się na posiłek południowy, o który i mój żołądek gwałtownie się już upominać zaczynał, powziąłem nagle myśl wejścia do lochu wykopanego z mego polecenia przy samym stoku góry, dla przekonania się czy nie należałoby nowymi podeprzeć go słupami, [by] deszcz nie dostał się na dno, gdy nagle część jego sklepienia osypała się na mnie. Zostałem przewrócony i zawalony potężną masą ziemi. Krzyczałem, ile mi sił starczyło, ale niestety ludzie moi zanadto byli oddaleni, by głos mój mógł dojść ich uszu. Uważałem się już za
-
-<!-- page 33 -->
-
-stanowczo skazanego na śmierć w tem ciasnem więzieniu, lecz na szczęście ziemia osypana była pulchna i krucha; chwyciwszy się więc rozpacznych wysiłków, poczułem, że więzienie moje się powiększa, a zdwoiwszy usiłowania potrafiłem się po niejakim czasie wydobyć z mego grobu. Zbity, zbolały, na pół umarły, ledwo się wlokąc, zdołałem jednak dostać się do mych towarzyszów. Nie miałem wprawdzie żadnej kości złamanej, ale przez zgniecenie musiałem ulec jakiemuś wewnętrznemu szwankowi, albowiem popadłem w długą chorobę. Nie mogąc z niej wyjść, zmuszony byłem udać się do Sydney, gdzie po ośmiu dopiero miesiącach zupełnie wróciłem do zdrowia.
+Szczęście jednak wcale mi się uśmiechnąć nie chciało. Wkrótce spadła na mnie nowa przygoda, z której prawdziwie cudem tylko cało wyszedłem, a która wpłynęła na skrócenie pobytu mego w Australii. Byłem podówczas zajęty eksploatacyją łożyska strugi Palmers-Oackey-Creek, jednego z dopływów rzeki Turon. Pewnego razu, gdy wszyscy ludzie, których do pomocy przyjąłem, udali się na posiłek południowy, o który i mój żołądek gwałtownie się już upominać zaczynał, powziąłem nagle myśl wejścia do lochu wykopanego z mego polecenia przy samym stoku góry, dla przekonania się czy nie należałoby nowymi podeprzeć go słupami, [by] deszcz nie dostał się na dno, gdy nagle część jego sklepienia osypała się na mnie. Zostałem przewrócony i zawalony potężną masą ziemi. Krzyczałem, ile mi sił starczyło, ale niestety ludzie moi zanadto byli oddaleni, by głos mój mógł dojść ich uszu. Uważałem się już za <!-- page 33 -->stanowczo skazanego na śmierć w tem ciasnem więzieniu, lecz na szczęście ziemia osypana była pulchna i krucha; chwyciwszy się więc rozpacznych wysiłków, poczułem, że więzienie moje się powiększa, a zdwoiwszy usiłowania potrafiłem się po niejakim czasie wydobyć z mego grobu. Zbity, zbolały, na pół umarły, ledwo się wlokąc, zdołałem jednak dostać się do mych towarzyszów. Nie miałem wprawdzie żadnej kości złamanej, ale przez zgniecenie musiałem ulec jakiemuś wewnętrznemu szwankowi, albowiem popadłem w długą chorobę. Nie mogąc z niej wyjść, zmuszony byłem udać się do Sydney, gdzie po ośmiu dopiero miesiącach zupełnie wróciłem do zdrowia.
 
 Taka jest w krótkich słowach historyja smutnych kolei, jakie poprzedziły straszną przygodę, stanowiącą ostatni epizod mego awanturniczego życia, a zarazem przedmiot niniejszego opowiadania.
 
 <!-- page 34 -->
 
-# ROZDZIAŁ I.
+## ROZDZIAŁ I.
 
-## CEL NASZEJ WYPRAWY. — DWUMASZTOWY OKRĘT „GRAFTON” — ODJAZD.
+### CEL NASZEJ WYPRAWY. — DWUMASZTOWY OKRĘT „GRAFTON” — ODJAZD.
 
 Było to w roku 1863. Po długiej kuracyi w Sydney zdołałem nareszcie pozbyć się skutków tylko co opisanego wypadku, ale zniechęcony zanadto skąpo wynagrodzonymi trudami jedenastoletniego pobytu w kopalniach złota, żyłem tylko myślą powrotu do Francyi na łono rodziny. Stanowczo już postanowiłem opuścić Australiję, a nawet robiłem przygotowania do wyjazdu, gdy nagle, uczyniona mi wówczas propozycyja odrazu zmieniła wszystkie moje plany i rzuciła mnie na nowe przygody.
 
 Niejaki Karol Sarpy, z którym się jeszcze we Francyi poznałem, a spotkawszy przypadkiem w Sydney, zaprzyjaźniłem, prowadził w tem mieście wraz z jakimś negocyjantem handel bławatny. Pewnego razu zwierzył mi się on z powziętym niedawno projektem, o którym ani on, ani jego spólnik nikomu dotąd nie wspominali, a którego wykonanie czynił zależnem od przyjęcia w nim przezemnie udziału.
 
-Miał on słuszne powody do mniemania, że na wyspie Campbell, leżącej na oceanie Spokojnym, nieco na południe Nowej Zelandyi, znajdować się muszą pokłady srebronośnej cyny. Był pewnym, że ta niewielka wyspa będzie bardzo łatwa do zbadania pod tym względem i liczył na moją wprawę w poszukiwaniu żył metalowych. Pragnął więc, bym z początkiem nadchodzącej pięknej pory puścił się
-
-<!-- page 35 -->
-
-małym statkiem na zwiedzenie tej wyspy, gdzie w razie niepowodzenia wyprawy pod względem górniczym, mógłbym, jak twierdził, upolować wielką liczbę fok, których tłuszcz i dosyć cenne skóry wynagrodziłyby sowicie koszta wyprawy. Moglibyśmy więc założyć na tej wyspie kolonije dla prowadzenia jednego lub drugiego z tych rodzajów przemysłu, a nawet i obu razem, jeżeliby to było możliwem. W razie pomyślnego obrotu rzeczy miałem pośpiesznie wracać do Sydney, by naprzód nie dać się wyprzedzić w żądaniu od rządu australijskiego koncesyi na eksploatowanie tej wyspy, a powtóre, by natychmiast z dostateczną liczbą ludzi i stosownemi narzędziami puścić się tam z powrotem, dla dostania się na wyspę przed nadejściem burzliwej pory roku. Wówczas miałem pozostać na wyspie dla kierowania robotami w charakterze administratora kolonii. „W razie nawet zupełnego niepowodzenia, rzekł mi w końcu Sarpy, cóż ci będzie znaczyło opóźnienie powrotu do ojczyzny o jakie dwa, a najwyżej trzy miesiące”.
+Miał on słuszne powody do mniemania, że na wyspie Campbell, leżącej na oceanie Spokojnym, nieco na południe Nowej Zelandyi, znajdować się muszą pokłady srebronośnej cyny. Był pewnym, że ta niewielka wyspa będzie bardzo łatwa do zbadania pod tym względem i liczył na moją wprawę w poszukiwaniu żył metalowych. Pragnął więc, bym z początkiem nadchodzącej pięknej pory puścił się <!-- page 35 --> małym statkiem na zwiedzenie tej wyspy, gdzie w razie niepowodzenia wyprawy pod względem górniczym, mógłbym, jak twierdził, upolować wielką liczbę fok, których tłuszcz i dosyć cenne skóry wynagrodziłyby sowicie koszta wyprawy. Moglibyśmy więc założyć na tej wyspie kolonije dla prowadzenia jednego lub drugiego z tych rodzajów przemysłu, a nawet i obu razem, jeżeliby to było możliwem. W razie pomyślnego obrotu rzeczy miałem pośpiesznie wracać do Sydney, by naprzód nie dać się wyprzedzić w żądaniu od rządu australijskiego koncesyi na eksploatowanie tej wyspy, a powtóre, by natychmiast z dostateczną liczbą ludzi i stosownemi narzędziami puścić się tam z powrotem, dla dostania się na wyspę przed nadejściem burzliwej pory roku. Wówczas miałem pozostać na wyspie dla kierowania robotami w charakterze administratora kolonii. „W razie nawet zupełnego niepowodzenia, rzekł mi w końcu Sarpy, cóż ci będzie znaczyło opóźnienie powrotu do ojczyzny o jakie dwa, a najwyżej trzy miesiące”.
 
 Wiedząc, jak łatwo umysł Sarpy'ego zapalał się do rozmaitych przedsięwzięć, radziłem mu się dobrze zastanowić nad przedmiotem tej propozycyi. Sam zaś rozmyślałem nad nią przez resztę dnia. Jakkolwiek silnem było pragnienie ujrzenia znów rodziny i ojczyzny po siedemnastoletniem oddaleniu, jednakże upajałem się myślą osiągnięcia nareszcie rzeczywistych korzyści z tak długiego w tych stronach pobytu i zdobycia fortuny. Sarpy zresztą miał zupełną słuszność, twierdząc, że w razie niepowodzenia opóźnię tylko o trzy miesiące powrót do ojczyzny, gdy przeciwnie w razie pomyślnego obrotu rzeczy, na któryśmy prawie na pewno liczyli, powróciłbym wprawdzie do ojczyzny później o jaki rok lub nawet dwa lata, ale za to w położeniu, o jakiem od tak dawna marzyłem. Tego rodzaju rozumowania przezwyciężyły wreszcie tęsknotę za ojczyzną i postanowiłem przyjąć propozycyję.
 
-Zaraz też nazajutrz pośpieszyłem zawiadomić o tem spólników, zwróciłem jednak uwagę ich na to, że porzuciwszy od tak dawna zawód żeglarski, obawiałem się przyjąć dowództwo wyprawy na czas pobytu na morzu, a wolałem natomiast być przez ten czas podrzędną
-
-<!-- page 36 -->
-
-figurą; co tem było słuszniejszem, że po założeniu kolonii, której miałem być głową, potrzebować będziemy kogoś do bezustannego krążenia między Sydney'em i wyspą Campbell, dla sprowadzania nam potrzebnych zapasów i zabierania stamtąd naszych wyrobów. Byłem więc zdania, że należy odrazu wybrać na dowódcę człowieka, któremuby zupełnie zaufać było można, i którego dla większej rękojmi możnaby nawet przypuścić do spółki w interesie.
+Zaraz też nazajutrz pośpieszyłem zawiadomić o tem spólników, zwróciłem jednak uwagę ich na to, że porzuciwszy od tak dawna zawód żeglarski, obawiałem się przyjąć dowództwo wyprawy na czas pobytu na morzu, a wolałem natomiast być przez ten czas podrzędną<!-- page 36 --> figurą; co tem było słuszniejszem, że po założeniu kolonii, której miałem być głową, potrzebować będziemy kogoś do bezustannego krążenia między Sydney'em i wyspą Campbell, dla sprowadzania nam potrzebnych zapasów i zabierania stamtąd naszych wyrobów. Byłem więc zdania, że należy odrazu wybrać na dowódcę człowieka, któremuby zupełnie zaufać było można, i którego dla większej rękojmi możnaby nawet przypuścić do spółki w interesie.
 
 Projektodawcy uznali moje rozumowanie za słuszne, to też bez zwłoki udaliśmy się w tym celu do pewnego, wytrawnego marynarza, nazwiskiem Musgrave. Był to trzydziestoletni Amerykanin, który obecnie osiadł w Sydney przy swoim wuju a spólniku Sarpy'ego.
 
@@ -208,11 +159,7 @@ Kapitan Tomasz Musgrave był dzielnym dowódcą, wybornym żeglarzem, odbywał j
 
 Grafton, niewielka dwumasztówka, był wprawdzie przykrótki, lecz dzięki dosyć znacznej stosunkowo szerokości mógł pomieścić sześćdziesiąt pięć do osiemdziesięciu beczek towaru, nie będąc zbytecznie przeładowanym. Statek ten tylko co powrócił z wielokrotnie już powtarzanej podróży pomiędzy Sydney'em i New-Castle, służył bowiem do transportu węgla kamiennego, którego dobywanie stanowi główny przemysł okolic tego ostatniego portu, leżącego na tem samem co Sydney wybrzeżu, mniej więcej o sto dwadzieścia kilometrów na północ.
 
-W głębi swej jamy, ponad samym tramem, Grafton mieści piętnaście beczek balastu, złożonego przeważnie ze starego żelastwa. Ponad tą komorą wisiała mocno zbudowana podłoga, która, utrzy-
-
-<!-- page 37 -->
-
-mując balast we właściwem położeniu, udogodniała zarazem ładowanie i wyładowywanie węgla. Wspomniony już balast był zupełnie dostateczny do zapewnienia statkowi należytej równowagi wówczas, gdy bez żadnego ładunku wracał do New-Castle'u, co zwykle co tydzień się powtarzało.
+W głębi swej jamy, ponad samym tramem, Grafton mieści piętnaście beczek balastu, złożonego przeważnie ze starego żelastwa. Ponad tą komorą wisiała mocno zbudowana podłoga, która, utrzy<!-- page 37 -->mując balast we właściwem położeniu, udogodniała zarazem ładowanie i wyładowywanie węgla. Wspomniony już balast był zupełnie dostateczny do zapewnienia statkowi należytej równowagi wówczas, gdy bez żadnego ładunku wracał do New-Castle'u, co zwykle co tydzień się powtarzało.
 
 Z tem wszystkiem, przedsiębiorąc naszą wyprawę, w ciągu której mogliśmy być bardzo często narażeni na gwałtowne uderzenia ze strony wiatrów i samego morza, uważaliśmy za stosowne dodać jeszcze dziesięć beczek ładunku, na którą to objętość składały się bałwany piaskowca, nader pospolitego w Sydney'u kamienia, a nadto dwadzieścia okseftów wody, któreśmy bardzo starannie upakowali na spodzie okrętu. Oksefty te miały służyć na pomieszczenie tłuszczu z fok, którego zbieraniem, a zarazem i wyprawą skór tych zwierząt, pragnęliśmy zatrudnić naszą załogę dla pokrycia kosztów tej pierwszej wyprawy, w czasie gdy ja będę zajęty badaniem wyspy i szukaniem kopalni ołowiu.
 
@@ -220,11 +167,7 @@ Mieliśmy też zamiar, jeżeli czas na to pozwoli, pobieżnie rzucić okiem na w
 
 Zaopatrzywszy okręt w żywność mniej więcej na cztery miesiące i zgodziwszy dwu majtków oraz kucharza, z których ostatni miał też być naszym służącym i w razie potrzeby pomagać majtkom, Musgrave i ja pożegnaliśmy naszych spólników.
 
-Przy tem ostatniem widzeniu się umówiliśmy się jeszcze co do bardzo ważnego dla nas przedmiotu. Puszczaliśmy się na morze bardzo niebezpieczne, prawie ciągle nawiedzane przez burze, a nadto mieliśmy zawijać do portów bardzo mało znanych, i na ogólnych mapach, w które jedynie byliśmy zaopatrzeni, bardzo niedokładnie oznaczonych, można przeto było bardzo łatwo przewidywać jakieś niebezpieczeństwa, a w szczególności burze na jakichś bezludnych wybrzeżach. Trzeba przeto było starać się o ile możności przeciw podobnym wypadkom się zabezpieczyć. Umówiliśmy się tedy, że jeżeli
-
-<!-- page 38 -->
-
-nieobecność nasza przeciągnie się dłużej nad cztery miesiące, wówczas nasi spólnicy będą obowiązani urządzić wyprawę dla poszukiwania nas; w razie zaś braku środków na wyekwipowanie drugiego okrętu wystąpią w tym względzie z prośbą o pomoc do zarządu Nowej Południowej Walii, który według wszelkiego prawdopodobieństwa wysłałby za nami jaki statek wojenny, albo w najgorszym razie przedsięwziąłby najwłaściwsze według niego środki do zasięgnięcia jakichkolwiek wiadomości o naszym losie.
+Przy tem ostatniem widzeniu się umówiliśmy się jeszcze co do bardzo ważnego dla nas przedmiotu. Puszczaliśmy się na morze bardzo niebezpieczne, prawie ciągle nawiedzane przez burze, a nadto mieliśmy zawijać do portów bardzo mało znanych, i na ogólnych mapach, w które jedynie byliśmy zaopatrzeni, bardzo niedokładnie oznaczonych, można przeto było bardzo łatwo przewidywać jakieś niebezpieczeństwa, a w szczególności burze na jakichś bezludnych wybrzeżach. Trzeba przeto było starać się o ile możności przeciw podobnym wypadkom się zabezpieczyć. Umówiliśmy się tedy, że jeżeli<!-- page 38 --> nieobecność nasza przeciągnie się dłużej nad cztery miesiące, wówczas nasi spólnicy będą obowiązani urządzić wyprawę dla poszukiwania nas; w razie zaś braku środków na wyekwipowanie drugiego okrętu wystąpią w tym względzie z prośbą o pomoc do zarządu Nowej Południowej Walii, który według wszelkiego prawdopodobieństwa wysłałby za nami jaki statek wojenny, albo w najgorszym razie przedsięwziąłby najwłaściwsze według niego środki do zasięgnięcia jakichkolwiek wiadomości o naszym losie.
 
 Po przyjęciu tego żądania przez naszych spólników Musgrave udał się na pożegnanie z żoną i z dziećmi, ja zaś poszedłem już prosto na pokład Graftona, dla rozpoczęcia ostatnich przygotowań do odpłynięcia. W godzinę potem przybył i Musgrave, poczem podnieśliśmy kotwicę i pełni najlepszej otuchy skierowaliśmy się ku wyspie Campbell. Działo się to 12 Listopada 1863 roku.
 
@@ -232,9 +175,9 @@ Nie mogę tu pominąć jednego bardzo ważnego dla nas szczegółu. Wziąłem ja
 
 <!-- page 39 -->
 
-# ROZDZIAŁ II.
+## ROZDZIAŁ II.
 
-## TOWARZYSZE PODRÓŻY. — UDERZENIE FALI. — PRZYBYCIE NA WYSPĘ CAMPBELL.
+### TOWARZYSZE PODRÓŻY. — UDERZENIE FALI. — PRZYBYCIE NA WYSPĘ CAMPBELL.
 
 Opuszczając nas, przewodnik portowy w te odezwał się słowa: „God speed you, gentlemen, and take care, we shall soon have a southerly burst”. (Niech was Bóg prowadzi, panowie, ale strzeżcie się, bo wkrótce od południa nadciągnie zawierucha). Jakoż w niespełna godzinę po tem pożegnaniu ujrzeliśmy czarne i groźne jej przednie straże. Zaledwie starczyło nam czasu na postawienie naszej dwumasztówki w gotowości na jej przyjęcie. W jednej chwili nikt z nas nie miał nic na głowie; czapki i kapelusze uleciały na morze jakby na wyścigi, a włosy nasze w jednej chwili zostały najokropniej potargane. Lecz po tym gwałtownym ataku wicher zostawił nas w spokoju, chociaż na południu dokazywał jeszcze przez resztę nocy i cały dzień następny.
 
@@ -262,11 +205,7 @@ Wybawcom swoim odpłacał się Harry spełnianiem na okręcie obowiązków kuchc
 
 Było nas tedy pięciu, a każdy do innej należał narodowości, tak, żeśmy mieli na statku reprezentantów Ameryki, Norwegii, Portugalii i Francyi (tej ostatniej ja byłem przedstawicielem). Z tem wszystkiem porozumiewaliśmy się ze sobą jak najlepiej, ponieważ wszyscy umieliśmy po angielsku, i tego tylko języka wciąż używaliśmy.
 
-Wszyscy moi towarzysze byli dobrze oswojeni z morzem, ale ja tylko jeden z pomiędzy nich prowadziłem życie górnika w kraju
-
-<!-- page 42 -->
-
-niecywilizowanym, jakim było wnętrze Australii, ta surowa szkoła, w której nabywa się umiejętności liczenia tylko na siebie, dochodzenia do wszystkiego własnym tylko przemysłem i walczenia na każdym kroku z dziewiczą i oporną przyrodą. A chociaż przezwyciężanie trudności, z któremi tam bezustannie walczyć przychodzi, nie może stanowić podstawy do pysznienia się ze zwycięstw, ale za to obdarza nas męską ufnością w siebie, która nas przygotowuje do stawiania czoła wszelkim przeciwnościom.
+Wszyscy moi towarzysze byli dobrze oswojeni z morzem, ale ja tylko jeden z pomiędzy nich prowadziłem życie górnika w kraju<!-- page 42 --> niecywilizowanym, jakim było wnętrze Australii, ta surowa szkoła, w której nabywa się umiejętności liczenia tylko na siebie, dochodzenia do wszystkiego własnym tylko przemysłem i walczenia na każdym kroku z dziewiczą i oporną przyrodą. A chociaż przezwyciężanie trudności, z któremi tam bezustannie walczyć przychodzi, nie może stanowić podstawy do pysznienia się ze zwycięstw, ale za to obdarza nas męską ufnością w siebie, która nas przygotowuje do stawiania czoła wszelkim przeciwnościom.
 
 Wkrótce się okaże, jak bardzom winszować sobie był winien wszystkich prób, jakie mię spotkały. Przekonałem się wówczas, że nie dosyć nawet drogo opłaciłem doświadczenie, które tak ważnem było nie tylko dla mnie, ale, śmiało rzec mogę, i dla moich towarzyszów, pośród wyjątkowych okoliczności, w jakicheśmy się nagle znaleźli.
 
@@ -278,9 +217,9 @@ Lecz czas już wrócić do mego opowiadania, co w tej chwili uskutecznię przez 
 
 **15.** Druga godzina rano. Cisza. Na południu pojawiają się groźne oznaki, u zenitu niebo czyste, barometr opada. Istny deszcz gwiaździsty od strony P.P.Z. ku Pd.Pd.W., zacząwszy od tej pory ciągnie się do samego świtu. Widok niezrównany. O 6 rano zrywa się wicher południowy; jesteśmy zmuszeni do lawirowania (*).
 
-**16.** Wicher P.P.W., wciąż się wzmagający. Posuwamy się, mając przód okrętu zwrócony na Pd.W. Na pokładzie wszystko dobrze.
+> *(\*) Lawirować znaczy prowadzić okręt po drodze wężykowatej, kiedy wiatr jest nieprzychylny, aby tym sposobem nie oddalać się bardzo od żądanego kierunku. W tym celu należy wciąż tak zwracać statek, by wypadkowa dwu sił go popychających, tj. oporu wody i działania wiatru, pędziły statek w kierunku wprost przeciwnym temu, w jakimby dążył pod wpływem samego wiatru.*
 
-*(\*) Lawirować znaczy prowadzić okręt po drodze wężykowatej, kiedy wiatr jest nieprzychylny, aby tym sposobem nie oddalać się bardzo od żądanego kierunku. W tym celu należy wciąż tak zwracać statek, by wypadkowa dwu sił go popychających, tj. oporu wody i działania wiatru, pędziły statek w kierunku wprost przeciwnym temu, w jakimby dążył pod wpływem samego wiatru.*
+**16.** Wicher P.P.W., wciąż się wzmagający. Posuwamy się, mając przód okrętu zwrócony na Pd.W. Na pokładzie wszystko dobrze.
 
 <!-- page 43 -->
 
@@ -294,11 +233,7 @@ Lecz czas już wrócić do mego opowiadania, co w tej chwili uskutecznię przez 
 
 Odbywam dyżur. Spostrzegam w kajucie Musgrave'a siedzącego na stole, z głową opartą na dłoniach. Staję przy sterze w miejsce Alick'a, który nim kierował od początku dyżuru.
 
-Nadeszła jedenasta. Olśniony światłem błyskawic, bez żadnej przerwy po sobie następujących, z trudnością zaledwie mogę obserwować busolę. Nagle padam jak długi, rzucony gwałtownie daleko od miejsca, gdziem się znajdował. Skutek to gwałtownego uderzenia fali, które wyrwało część parapetu i zmieniło położenie balastu. Statek przechyla się na bok, nie mogąc wrócić do zwykłego położenia. Trochę potłuczony i cały zlany do nitki, podnoszę się i biegnę schwycić na nowo drąg steru. Musgrave pnie się na maszt, Alick dąży za nim, dwaj inni, wybiegłszy z kryjówki u przodu statku, zdążają za nimi. We czterech zdołali nareszcie opanować, a następnie zwinąć wielki żagiel, a w trakcie tego okręt z początku powoli, potem zaś bardzo szybko zwraca się pod wpływem steru, którego drąg
-
-<!-- page 44 -->
-
-pod wiatr zwróciłem. Obecnie statek pędzi jak szalony po fali i ucieka przed burzą, robiąc po siedem węzłów na godzinę, pomimo zwinięcia wszystkich żagli; ciągle jednak pozostaje mocno pochylony na bok.
+Nadeszła jedenasta. Olśniony światłem błyskawic, bez żadnej przerwy po sobie następujących, z trudnością zaledwie mogę obserwować busolę. Nagle padam jak długi, rzucony gwałtownie daleko od miejsca, gdziem się znajdował. Skutek to gwałtownego uderzenia fali, które wyrwało część parapetu i zmieniło położenie balastu. Statek przechyla się na bok, nie mogąc wrócić do zwykłego położenia. Trochę potłuczony i cały zlany do nitki, podnoszę się i biegnę schwycić na nowo drąg steru. Musgrave pnie się na maszt, Alick dąży za nim, dwaj inni, wybiegłszy z kryjówki u przodu statku, zdążają za nimi. We czterech zdołali nareszcie opanować, a następnie zwinąć wielki żagiel, a w trakcie tego okręt z początku powoli, potem zaś bardzo szybko zwraca się pod wpływem steru, którego drąg<!-- page 44 --> pod wiatr zwróciłem. Obecnie statek pędzi jak szalony po fali i ucieka przed burzą, robiąc po siedem węzłów na godzinę, pomimo zwinięcia wszystkich żagli; ciągle jednak pozostaje mocno pochylony na bok.
 
 Musgrave odbiera mi ster i pozostaje sam na pokładzie, wszyscy zaś pozostali schodkami u przodu okrętu położonymi, zbiegamy na dół opatrzeni w latarnię. Co za okropny widok! Wszystko tam do góry nogami przewrócone i pomieszane bezładnie. Kamienie, beczki i wory z solą leżą w nieładzie na bocznej ścianie, która tym sposobem przedstawia dno okrętu. Całe szczęście, że piętnaście beczek żelaza, dobrze przytrzymywane przez dolną podłogę, nie mogły zmienić położenia. Inaczej bowiem i okręt musiałby wywrócić koziołka, a my wraz z Graftonem spoczywalibyśmy już dawno na dnie oceanu.
 
@@ -310,11 +245,7 @@ Na owe dwie godziny, które Jerzy miał przepędzić przy sterze, Alick i kuchar
 
 Na zewnątrz burza huczała wciąż z tą samą gwałtownością.
 
-**20.** Okręt ciągle przygotowany na przyjęcie wiatru. Wiatr
-
-<!-- page 45 -->
-
-dął już tylko w przerwach. Morze, chociaż jeszcze mocno wzburzone, zaczynało się wygładzać. Barometr idzie w górę.
+**20.** Okręt ciągle przygotowany na przyjęcie wiatru. Wiatr<!-- page 45 --> dął już tylko w przerwach. Morze, chociaż jeszcze mocno wzburzone, zaczynało się wygładzać. Barometr idzie w górę.
 
 **21.** 4 godzina rano. Rozwinęliśmy napowrót żagle, ponieważ statek, nie mając żadnego punktu podpory, kołysał się szalenie na mocno jeszcze wzburzonej powierzchni morza. — 8 godzina. Wiwat! Mamy wreszcie coś gorącego na śniadanie; pierwszy to od trzech dni tego rodzaju posiłek.
 
@@ -334,24 +265,20 @@ Południe. Słońce się ukazało, można było zrobić obserwacyje, które nam 
 
 **30.** O kwadrans na pierwszą wszedłszy na bocianie gniazdo, spostrzegłem ziemię w odległości mniej więcej trzydziestu pięciu mil.
 
-4-ta po południu. Mgła rozpościera się nad oceanem, zakrywając nam ziemię nieprzejrzaną zasłoną. Mgła jest tak gęstą,
-
-<!-- page 46 -->
-
-że nie możemy rozróżniać żadnego przedmiotu na drugim końcu statku. Roztropność każe nam nieco zwinąć żagle i zwrócić się nieco ku pełnemu morzu, by przy nadchodzącej nocy nie wpaść na skały.
+4-ta po południu. Mgła rozpościera się nad oceanem, zakrywając nam ziemię nieprzejrzaną zasłoną. Mgła jest tak gęstą,<!-- page 46 --> że nie możemy rozróżniać żadnego przedmiotu na drugim końcu statku. Roztropność każe nam nieco zwinąć żagle i zwrócić się nieco ku pełnemu morzu, by przy nadchodzącej nocy nie wpaść na skały.
 
 **1 grudnia, 7-ma rano.** Mgła opada, lecz nie widzimy już ziemi. Zwracamy statek, zmierzając znów ku wyspie Campbell.
 
 **2**, 8 godzina. Zawijamy do portu Abraham's Bosom, położonego w Pd.W. stronie wyspy. 11-ta godzina. Zarzuciliśmy kotwicę na głębokości pięciu siągów (\*), przy końcu zatoki.
 
-*(\*) Miara biasse, siąg od długości wyciągniętych rąk, mniej więcej 1,60 metra.*
+> *(\*) Miara biasse, siąg od długości wyciągniętych rąk, mniej więcej 1,60 metra.*
 
 
 <!-- page 47 -->
 
-# ROZDZIAŁ III.
+## ROZDZIAŁ III.
 
-## BEZOWOCNOŚĆ POSZUKIWAŃ. — CHOROBA. — OPUSZCZENIE CAMPBELL.
+### BEZOWOCNOŚĆ POSZUKIWAŃ. — CHOROBA. — OPUSZCZENIE CAMPBELL.
 
 Zaledwie zwinięto żagle, natychmiast w towarzystwie Musgrave'a wysiadłem na ląd. Nie widzieliśmy dotąd w zatoce żadnej foki; ale ponieważ byliśmy w samym środku lata, sądziliśmy przeto, że owe zwierzęta, chcąc w chłodzie przepędzić upał dzienny, pochowały się w wysoką trawę lub gęste zarośla, pokrywające wybrzeże.
 
@@ -387,13 +314,7 @@ Poprzestając na zebraniu tych wiadomości, postanowiliśmy wracać do statku, o
 
 Zbliżywszy się, musieliśmy aż kijów swych użyć, by zmusić albatrosy do opuszczenia gniazd, których broniły z całą dzielnością, na jaką siły ich zdobyć się mogły. Zdobyliśmy tym sposobem kilka jaj, ale jedno z nich tylko było tak świeżem, by na pokarm użytem być mogło. Ciekawi jego smaku, ugotowaliśmy je. Żółtko było wyborne, białko jednak wydało nam się nieco za gęstem; słowem, bardzo mało różniło się ono w smaku od gęsiego lub kaczego.
 
-Po całodziennem prawie chodzeniu po gruncie wilgotnym i miękkim, który przy każdem stąpnięciu uginał się pod nogami, jak
-
-Rozbitki na Auklandach.
-
-<!-- page 52 -->
-
-gąbka, przybyliśmy już nad wieczorem do okrętu niezmiernie strudzeni, tem bardziej, że bardzo często przychodziło nam się drapać na skały.
+Po całodziennem prawie chodzeniu po gruncie wilgotnym i miękkim, który przy każdem stąpnięciu uginał się pod nogami, jak <!-- page 52 -->gąbka, przybyliśmy już nad wieczorem do okrętu niezmiernie strudzeni, tem bardziej, że bardzo często przychodziło nam się drapać na skały.
 
 Nazajutrz Alick musiał mnie zastąpić w towarzyszeniu Musgrave'owi w nowej wycieczce, czułem się bowiem niezdrowym, a nawet miałem gorączkę. Wkrótce zmuszony byłem schronić się do kajuty i położyć się w łóżko, które ledwie za miesiąc miałem opuścić. Byłem tak mocno chory, że bardzo się już zanosiło na to, że wcale nie opuszczę wyspy Campbell. Musgrave tak dalece już zwątpił o mem wyzdrowieniu, że zaczął się kłopotać o miejsce, w któremby mnie pochować było najlepiej. Sam mi to potem wyznał, winszując mi zarazem, żem mu oszczędził tak przykrego obowiązku.
 
@@ -403,11 +324,7 @@ Trudy podróży i wycieczek tak prędko po wyjściu z ciężkiej choroby, na sku
 
 Podczas mej przymusowej bezczynności Musgrave prowadził wciąż poszukiwania pokładów cyny, ale bez żadnego skutku. Albo więc nie udało mu się trafić na ich ślad, albo też ich wcale nie było.
 
-Co zaś do lwów morskich albo innych gatunków fok, to były tu one nader rzadkimi. Przez cały miesiąc postoju naszej dwumasztówki w przystani Abraham's Bosom udało nam się ich zaledwie pięć upolować, z których jedna tylko była bardzo tłusta. Jedna owa foka dała nam przeszło sto pięćdziesiąt litrów tłuszczu. Osobliwe to zwierzę, którego ciężar wynosić musiał przynajmniej sześćset kilogramów, zajęło oczywiście ważne miejsce w naszych wspomnieniach, a w rozmowach naszych nadawaliśmy mu zawsze miano
-
-<!-- page 53 -->
-
-Old-Christmas (stary zwierz z Bożego Narodzenia), ponieważ w dzień Bożego Narodzenia zostało zabite.
+Co zaś do lwów morskich albo innych gatunków fok, to były tu one nader rzadkimi. Przez cały miesiąc postoju naszej dwumasztówki w przystani Abraham's Bosom udało nam się ich zaledwie pięć upolować, z których jedna tylko była bardzo tłusta. Jedna owa foka dała nam przeszło sto pięćdziesiąt litrów tłuszczu. Osobliwe to zwierzę, którego ciężar wynosić musiał przynajmniej sześćset kilogramów, zajęło oczywiście ważne miejsce w naszych wspomnieniach, a w rozmowach naszych nadawaliśmy mu zawsze miano <!-- page 53 --> Old-Christmas (stary zwierz z Bożego Narodzenia), ponieważ w dzień Bożego Narodzenia zostało zabite.
 
 Ponieważ dłuższy pobyt na wyspie Campbell zdawał nam się zbytecznym, postanowiliśmy przeto opuścić ją, nie puszczając się już w bardziej południowe okolice. Najrozsądniej było zwrócić się już ku Sydney'owi, poprzestając jedynie na zwiedzeniu prawie na drodze doń leżących wysp Auklandzkich.
 
@@ -431,30 +348,21 @@ Musgrave mi powiada, że w stronie Pn.Z. spostrzegł gromadę Auklandów, mniej 
 
 10 rano. Umiarkowany powiew dolądowy, niebo pogodne, barometr się podnosi.
 
-Płyniemy wzdłuż lądu. Piękna pogoda zachęca mnie do wyjścia na pokład dla odetchnięcia świeżem powietrzem i korzystania z widoku na wyspę Adama. Jestem jednak tak osłabiony, że ledwo mogę się utrzymać na nogach i ujść kilka kroków. Musgrave woła
-
-<!-- page 54 -->
-
-Jerzego na tył okrętu, by mu kazać przynieść mój materac i oprzeć go na drzwiczkach kajuty; potem sam mi pomaga do wydobycia się na pokład, na którym przez czas jakiś utrzymuję się na nogach, opierając się o drabinę, gdy tymczasem dobry ten towarzysz dodaje mi odwagi do dalszych wysileń, winszując tego, com już zrobić potrafił. Sił mi jednak braknie i jestem zmuszony na nowo rozciągnąć się na materacu, by z głową opartą na poduszkach bez trudu napawać się widokiem.
+Płyniemy wzdłuż lądu. Piękna pogoda zachęca mnie do wyjścia na pokład dla odetchnięcia świeżem powietrzem i korzystania z widoku na wyspę Adama. Jestem jednak tak osłabiony, że ledwo mogę się utrzymać na nogach i ujść kilka kroków. Musgrave woła<!-- page 54 --> Jerzego na tył okrętu, by mu kazać przynieść mój materac i oprzeć go na drzwiczkach kajuty; potem sam mi pomaga do wydobycia się na pokład, na którym przez czas jakiś utrzymuję się na nogach, opierając się o drabinę, gdy tymczasem dobry ten towarzysz dodaje mi odwagi do dalszych wysileń, winszując tego, com już zrobić potrafił. Sił mi jednak braknie i jestem zmuszony na nowo rozciągnąć się na materacu, by z głową opartą na poduszkach bez trudu napawać się widokiem.
 
 Co to za rozkosz czuć ogrzewający wpływ promieni słonecznych na zbolałe członki, po tak długiem przebywaniu w cieniu kajuty na twardej i wilgotnej pościeli! Jak orzeźwiająco i przyjemnie muska po twarzy lekki powiew wiatru! Co to za szczęście czuć odradzające się swe siły, jakby na nowo życie zaczynać, kiedy się już jedną nogą w zimnym grobie znajdowało! Kiedy pomyślę o tem, żem był tak bliski śmierci na tym zapadłym krańcu świata, w oddaleniu od wszystkich ukochanych, nie uścisnąwszy im nawet ręki na pożegnanie, uczuwam całą rozkosz przychodzenia do zdrowia. A jednak iluż to ludzi w ten sam sposób poginęło! I dopiero gdy po długim lat szeregu przypadek sprowadza nowego przybysza ku ich szczątkom, to zimna jego uwaga: „Zdaje się, że mię tu już inni poprzedzili”, jest jedyną mową pogrzebową nad ich grobem. Z niezrównanem też wylaniem serca składałem w owej chwili dzięki Niebu, że mi oszczędziło tak smutnego losu.
 
-Jesteśmy zaledwie o trzy kilometry od wyspy Adama, i dobrze rozpoznać możemy olbrzymie nadbrzeżne jej skały, o które wzburzone jeszcze morze z trzaskiem rozbija swe fale. Niejedna z nich, wpadając w jakieś wydrążenie, wywołuje huk jakby armatniego strzału, którego odgłos aż do nas wiatr przynosi. W pośrodku wyspy, jak dwie olbrzymie brodawki, sterczą obok siebie dwa zaokrąglone stożki. Musgrave zamierza za pomocą sekstansu wymierzyć ich wysokość; obliczenia jego przypisują wyższemu dwa tysiące pięćset, niższemu zaś dwa tysiące dwieście stóp. Kilka potoków bieży po pochyłościach tych gór, tworząc mnóstwo iskrzących się wodospadów. Potoki te, przybiegłszy na skraj skał nadbrzeżnych,
-
-<!-- page 55 -->
-
-dają ostatni skok i po długim spadku dostają się do morza w postaci białej pary, w której kroplach rozkłada się światło słoneczne, ukazując naszym oczom wszystkie kolory tęczy.
+Jesteśmy zaledwie o trzy kilometry od wyspy Adama, i dobrze rozpoznać możemy olbrzymie nadbrzeżne jej skały, o które wzburzone jeszcze morze z trzaskiem rozbija swe fale. Niejedna z nich, wpadając w jakieś wydrążenie, wywołuje huk jakby armatniego strzału, którego odgłos aż do nas wiatr przynosi. W pośrodku wyspy, jak dwie olbrzymie brodawki, sterczą obok siebie dwa zaokrąglone stożki. Musgrave zamierza za pomocą sekstansu wymierzyć ich wysokość; obliczenia jego przypisują wyższemu dwa tysiące pięćset, niższemu zaś dwa tysiące dwieście stóp. Kilka potoków bieży po pochyłościach tych gór, tworząc mnóstwo iskrzących się wodospadów. Potoki te, przybiegłszy na skraj skał nadbrzeżnych, <!-- page 55 -->dają ostatni skok i po długim spadku dostają się do morza w postaci białej pary, w której kroplach rozkłada się światło słoneczne, ukazując naszym oczom wszystkie kolory tęczy.
 
 Piękność obrazu i łagodność powietrza w zachwyt mię wprawiają. Krew moja, zbiedzona tak niedawno minioną gorączką, tak powolnie krąży w żyłach, że zaledwie czuję uderzenia pulsu. Nie przypuszczałem nigdy możliwości doznawania podobnej rozkoszy. Na twarzach wszystkich towarzyszów znać radość z mego pojawienia się na pokładzie; mają przynajmniej w chwili wolnej od pracy zwrócić do kogo słów kilka lub się w przechodzie uśmiechnąć.
 
 Już i trzecia po południu. Okrążyliśmy wyspę Adama i mamy przed sobą wyspę Aukland. Po stronie północnej brzeg jej przedstawia się bardzo nieregularnie; wydaje się on mocno poszarpanym, a przy poziomie możemy odróżnić kilka pasów raf, ledwie nad wodę wystających. Woda, rozbijając się o nie, tworzy znaczne smugi piany. Smugi te zdają się ciągnąć na jakie dziesięć mil w otwarte morze, w stronę północno-wschodnią. Przed nami widać wspaniałą zatokę. Otwór jej ma ze trzy kilometry szerokości, licząc od jednego do drugiego z ograniczających ją przylądków. Zatoka owa nosi miano Portu Carnleya. Ujęci jej powabami, postanawiamy zawinąć do niej zamiast płynąć dalej do Portu Rossa, zwanego też Sarah's Bosom, i położonego na samym północnym krańcu wyspy.
 
-
 <!-- page 56 -->
 
-# ROZDZIAŁ IV.
+## ROZDZIAŁ IV.
 
-## UKAZANIE SIĘ FOK. — WYSPY AUKLANDZKIE. — STRASZNA NOC. ROZBICIE.
+### UKAZANIE SIĘ FOK. — WYSPY AUKLANDZKIE. — STRASZNA NOC. ROZBICIE.
 
 Wiatr dmie wciąż od zachodu; jest on niby lekki, lecz przybiega od strony lądu i od czasu do czasu silniej uderza z zatoki. Statek jednak łatwo lawiruje, mając wszystkie żagle rozwinięte. Po kilku zwrotach dostajemy się między dwa brzegi, gdzie morze jest zupełnie spokojne. Jerzy jest przy sterze; Alick wychylony na zewnątrz i przywiązany do osady drabiny rzuca w morze od czasu do czasu sondę, gdy tymczasem Harry w kuchni gotuje nam obiad. Musgrave przy pomocy lunety śledzi wybrzeże i nagle z twarzą wesołą do mnie podchodzi:
 
@@ -488,11 +396,7 @@ Słońce kryło się już poza górami, to też ja powróciłem do kajuty i od d
 
 Po tych słowach zapalił fajkę i wyszedł na pokład, skąd przez jakiś czas dochodził mnie odgłos jego kroków, tam i napowrót skierowanych.
 
-Zaczynałem znowu zasypiać, pomimo przykrego uczucia z powodu naszego krytycznego położenia, gdy nagle na nowo zostałem zbudzony łoskotem sprawionym przez ulewny deszcz, który istnie potokami spadał na pokład. Usłyszałem też zaraz donośny głos
-
-<!-- page 59 -->
-
-Musgrave'a, wydającego rozkazy, skąd wnioskowałem, że wiatr na nowo się zrywał.
+Zaczynałem znowu zasypiać, pomimo przykrego uczucia z powodu naszego krytycznego położenia, gdy nagle na nowo zostałem zbudzony łoskotem sprawionym przez ulewny deszcz, który istnie potokami spadał na pokład. Usłyszałem też zaraz donośny głos <!-- page 59 -->Musgrave'a, wydającego rozkazy, skąd wnioskowałem, że wiatr na nowo się zrywał.
 
 Deszcz lał przez całą noc bez żadnej przerwy. O świcie znaleźliśmy się na równi z półwyspem i mogliśmy widzieć długi pas wody, idący ku południowi i zwracający się potem ku zachodowi, gdy tymczasem druga część zatoki zwracała się ku północy. Myśmy obrali ten ostatni kierunek.
 
@@ -512,11 +416,7 @@ O pół do jedenastej, po jednej z tych przerw zwodniczych, podczas których gie
 
 O północy poczuliśmy pierwsze uderzenie. Było ono wprawdzie lekkiem, lecz za niem poszły coraz silniejsze, w miarę zbliżania się statku do skał. Każde nowe wstrząśnienie ściskało nam serce, każde z nich bowiem było zapowiedzią coraz pewniejszą smutnego losu, jaki nas rzeczywiście czekał.
 
-Pozostał nam jednak jeszcze promyk nadziei. Uderzenia następowały przy niskim stanie wody, przypływ zaś, który się obecnie
-
-<!-- page 61 -->
-
-zaczynał, coraz więcej wody przynosił nam pod okręt. Burza też mogła się uspokoić w ciągu czterech godzin przypływu, a co się tyczy Graftona, to był on tak dobrze zbudowany, spojenia jego były tak mocne, że pomimo silnych ciosów, jakie już otrzymał, ani kropla wody nie mogła się dostać do wnętrza.
+Pozostał nam jednak jeszcze promyk nadziei. Uderzenia następowały przy niskim stanie wody, przypływ zaś, który się obecnie<!-- page 61 --> zaczynał, coraz więcej wody przynosił nam pod okręt. Burza też mogła się uspokoić w ciągu czterech godzin przypływu, a co się tyczy Graftona, to był on tak dobrze zbudowany, spojenia jego były tak mocne, że pomimo silnych ciosów, jakie już otrzymał, ani kropla wody nie mogła się dostać do wnętrza.
 
 Niestety jednak i ta słaba nadzieja wkrótce nas opuściła: burza, zamiast się zmniejszać, coraz bardziej się wzmagała, wiatr przeszedł w prawdziwy uragan, który w miarę przybytku wody coraz bardziej posuwał nas ku brzegowi.
 
@@ -526,11 +426,7 @@ Ponieważ byliśmy w samym środku lata południowego, przeto po upływie niespe
 
 Jedna godzina! Jest to rzecz bardzo małej wagi dla tego, kto ją spędza w zwykłych warunkach życia; nam jednak, zostającym pod ciągłą obawą utracenia ostatniego schronienia i dostania się w morskie odmęty, czyli, co na jedno wychodzi, utonięcia lub roztrzaskania o skały, ten czas niedługi wiekiem się wydawał.
 
-Skoro tylko zaświtało, towarzysze moi wyszli spod płótna dla rozejrzenia się po okolicy. Wiatr dął wciąż z taką samą wściekłością; deszcz nie przestawał też lać, a raczej smagać nas w kie-
-
-<!-- page 62 -->
-
-runku prawie poziomym. Od czasu do czasu gwałtowna zawieja podnosiła ogromne bałwany, których pianę w postaci gęstych chmur unosiła na setki metrów w górę. Od każdego boku okrętu odbijały się wściekłe fale, by potem, odsuwając się w podskokach, rozbijać się o brzeg skalisty, odległy od nas nie więcej nad pięćdziesiąt metrów. Na tej małej przestrzeni, oddzielającej nas od lądu, woda nie była tak wzburzona; Grafton, który już teraz był nieużytecznym sprzętem, stanowił tamę dla bałwanów, i sam znosząc ich ciosy, osłaniał tym sposobem od ich wściekłości część wybrzeża.
+Skoro tylko zaświtało, towarzysze moi wyszli spod płótna dla rozejrzenia się po okolicy. Wiatr dął wciąż z taką samą wściekłością; deszcz nie przestawał też lać, a raczej smagać nas w kie<!-- page 62 -->runku prawie poziomym. Od czasu do czasu gwałtowna zawieja podnosiła ogromne bałwany, których pianę w postaci gęstych chmur unosiła na setki metrów w górę. Od każdego boku okrętu odbijały się wściekłe fale, by potem, odsuwając się w podskokach, rozbijać się o brzeg skalisty, odległy od nas nie więcej nad pięćdziesiąt metrów. Na tej małej przestrzeni, oddzielającej nas od lądu, woda nie była tak wzburzona; Grafton, który już teraz był nieużytecznym sprzętem, stanowił tamę dla bałwanów, i sam znosząc ich ciosy, osłaniał tym sposobem od ich wściekłości część wybrzeża.
 
 Szalupa nasza, wątła łódź, mająca cztery metry długości, półtora szerokości, a pół metra głębokości, zbudowana z jednocentymetrowych desek cedrowych, była za pomocą grubych lin przytwierdzona ponad główną ścianą statku. Pomimo swej lekkości potrafiła się dotąd oprzeć uderzeniom bałwanów. Szło teraz o odwiązanie jej i spuszczenie na wodę, dla dostania się na brzeg. Zadanie to było bardzo niebezpiecznem, ale zarazem przedstawiało jedyny środek ocalenia się; gdyż co chwila obawialiśmy się, by Grafton nie uległ pod ciosami fal, które jak gdyby się uwzięły, bezustannem miotaniem się nań, w drobne go rozbić kawałki.
 
@@ -538,17 +434,11 @@ Nie doznawszy innego szwanku prócz kilku kontuzyj, towarzysze moi potrafili nar
 
 Chociaż pod względem pożytku niewiele więcej wart byłem od sprzętów, które trzeba było zostawiać, towarzysze moi nie chcieli mię jednak opuścić. Po zniesieniu do łodzi najpotrzebniejszych sprzętów, przygotowanych już zawczasu na pokładzie, pomogli mi zejść do niej i sami obok mnie zajęli miejsca.
 
-Z pomiędzy lin, zabranych ze statku, Musgrave wybrał najdłuższą i przywiązał ją do obrączki utwierdzonej w jednym boku statku, a potem, przesuwając po niej ręce, pozwolił jej się rozwijać, pókiśmy nie przybyli na dostatecznie małą odległość od skały. Wówczas przywiązał ją do tyłu łodzi, tak by ta, pomimo wiatru i fal pchających ją ku brzegowi, nie mogła posuwać się dalej. Po zrobieniu tego Alick przywiązał drugą linę do przodu łódki, a sam, przy-
+Z pomiędzy lin, zabranych ze statku, Musgrave wybrał najdłuższą i przywiązał ją do obrączki utwierdzonej w jednym boku statku, a potem, przesuwając po niej ręce, pozwolił jej się rozwijać, pókiśmy nie przybyli na dostatecznie małą odległość od skały. Wówczas przywiązał ją do tyłu łodzi, tak by ta, pomimo wiatru i fal pchających ją ku brzegowi, nie mogła posuwać się dalej. Po zrobieniu tego Alick przywiązał drugą linę do przodu łódki, a sam, przy<!-- page 64 --><!-- page 65 -->wiązawszy się do drugiego jej końca, z narażeniem życia rzucił się w wodę.
 
 <!-- page 63 -->
 
 ![Związani ze sobą, bylibyśmy niechybnie zginęli w odmętach morskich.](img/05_zwiazani.jpg)
-
-<!-- page 64 -->
-
-<!-- page 65 -->
-
-wiązawszy się do drugiego jej końca, z narażeniem życia rzucił się w wodę.
 
 Była to ostatnia chwila straszliwej trwogi, albowiem ocalenie wszystkich zależało od siły i zręczności Alicka. W chłopcu tym jednak pod pozorną powłoką bezwładności ukrywało się dzielne serce, a jak większa część jego ziomków, był doskonałym pływakiem. Morze wzdymało się i wrzało dokoła niego, on jednak zachowywał krew zimną; pozwolił naprzód fali rozbić się o brzeg, a potem w dwu raźnych rzutach dostał się na kraniec skały, do której się silnie przyczepił. W przeciągu czasu, gdy jedna fala się cofała, a druga nie miała jeszcze czasu zmieść go z jego stanowiska, wdrapał się na miejsce nieco więcej wzniesione, do którego bałwany już nie dochodziły. W chwilę potem koniec liny był już mocno przywiązany do drzewa, stojącego blisko brzegu.
 
@@ -566,33 +456,23 @@ Oczywiście staraliśmy się koniecznie zabrać jeszcze ze sobą wszystko, co na
 
 <!-- page 67 -->
 
-# ROZDZIAŁ V.
+## ROZDZIAŁ V.
 
-## CHWILA ROZPACZY. — BUDOWA SZAŁASU. — WALKA LWÓW MORSKICH. — OBŁAWA NA JEDNO Z TYCH ZWIERZĄT.
+### CHWILA ROZPACZY. — BUDOWA SZAŁASU. — WALKA LWÓW MORSKICH. — OBŁAWA NA JEDNO Z TYCH ZWIERZĄT.
 
 Wiatr dął wciąż gwałtownie, a deszcz ani na chwilę nie ustawał.
 
-Przemokli już od wczoraj, szczękaliśmy z zimna zębami. Nic więc dziwnego, że pierwsza nasza myśl zwrócona była ku rozniecęniu ognia. Żaden z nas jednak nie miał krzesiwka. Podczas daremnych nad tym przedmiotem rozmyślań, Harry wydał nagle okrzyk radości. Grzebiąc machinalnie w kieszeniach, natrafił przypadkiem na malutkie pudełko zapałek. Ale niestety woda morska dostała się aż do nich i zupełnie przemoczyła. Na radosny okrzyk Henryka Jerzy pobiegł w sąsiednie zarośla, skąd wkrótce powrócił z pękiem prawie suchego chrustu, znalezionego pod pniem jakiegoś drzewa. Wtedy Henryk zaczął nadzwyczaj ostrożnie pocierać jedną z zapałek, by przypadkiem nie obłupać przemokłej masy, ogień jednak nie chciał się pokazać. Powtórzył próbę z drugą, trzecią i czwartą; usiłowania jednak były daremne, ani jedna zapalić się nie chciała. Wszyscy, otoczywszy go w koło, z trwogą, prawie nie oddychając, staraliśmy się dopatrzeć choćby najmniejszej iskierki. Zniechęcony Henryk zaprzestał na chwilę swych usiłowań, potrzeba jednak ognia przemogła chęć oszczędzenia zapałek, to też po pewnym przeciągu czasu próby na nowo się rozpoczęły. Tym razem szczęśliwiej nam poszło; po kilku potarciach uszu naszych doszedł leciu-
-
-<!-- page 68 -->
-
-chny trzask; na odgłos jego serca żywiej zabiły; wszyscy skupiliśmy się koło Henryka, by utworzyć lepszą tamę przeciw wiatrowi, a tym sposobem o ile możności zabezpieczyć słaby płomyczek. Wkrótce też zajaśniało przyjemne światełko, a drewka na dobre zaczęły się palić. Alick pobiegł natychmiast po wodę słodką do pobliskiego strumyka, a za powrotem przystawił do ognia kociełek. Po upływie kwadransa ze smakiem zapijaliśmy herbatę, chrupiąc biskwity i rozgrzewając przy ogniu skostniałe członki.
+Przemokli już od wczoraj, szczękaliśmy z zimna zębami. Nic więc dziwnego, że pierwsza nasza myśl zwrócona była ku rozniecęniu ognia. Żaden z nas jednak nie miał krzesiwka. Podczas daremnych nad tym przedmiotem rozmyślań, Harry wydał nagle okrzyk radości. Grzebiąc machinalnie w kieszeniach, natrafił przypadkiem na malutkie pudełko zapałek. Ale niestety woda morska dostała się aż do nich i zupełnie przemoczyła. Na radosny okrzyk Henryka Jerzy pobiegł w sąsiednie zarośla, skąd wkrótce powrócił z pękiem prawie suchego chrustu, znalezionego pod pniem jakiegoś drzewa. Wtedy Henryk zaczął nadzwyczaj ostrożnie pocierać jedną z zapałek, by przypadkiem nie obłupać przemokłej masy, ogień jednak nie chciał się pokazać. Powtórzył próbę z drugą, trzecią i czwartą; usiłowania jednak były daremne, ani jedna zapalić się nie chciała. Wszyscy, otoczywszy go w koło, z trwogą, prawie nie oddychając, staraliśmy się dopatrzeć choćby najmniejszej iskierki. Zniechęcony Henryk zaprzestał na chwilę swych usiłowań, potrzeba jednak ognia przemogła chęć oszczędzenia zapałek, to też po pewnym przeciągu czasu próby na nowo się rozpoczęły. Tym razem szczęśliwiej nam poszło; po kilku potarciach uszu naszych doszedł leciu<!-- page 68 -->chny trzask; na odgłos jego serca żywiej zabiły; wszyscy skupiliśmy się koło Henryka, by utworzyć lepszą tamę przeciw wiatrowi, a tym sposobem o ile możności zabezpieczyć słaby płomyczek. Wkrótce też zajaśniało przyjemne światełko, a drewka na dobre zaczęły się palić. Alick pobiegł natychmiast po wodę słodką do pobliskiego strumyka, a za powrotem przystawił do ognia kociełek. Po upływie kwadransa ze smakiem zapijaliśmy herbatę, chrupiąc biskwity i rozgrzewając przy ogniu skostniałe członki.
 
 Po skończeniu posiłku wszyscy moi towarzysze rozeszli się w różne strony, w nadziei wynalezienia jakiej groty albo przynajmniej wydrążenia w skale, gdziebyśmy mogli złożyć nasze zapasy, a przytem sami się schronić przed niepogodą. Przed odejściem jednak nazbierali w pobliżu spore wiązki suchych gałęzi i złożyli je przy mnie. Nie będąc z powodu osłabienia zdatnym do czego innego, miałem poruczonem podczas ich nieobecności podtrzymywać ogień, równie cenny dla nas w tem wyjątkowem położeniu, jak był niegdyś dla rzymskich kapłanek Westy. Jak dla nich wówczas, tak dla nas dzisiaj było to warunkiem bytu.
 
 Zabierając się do mej czynności, spostrzegłem, że i ziemia pod stosem płonęła, tak że wkrótce utworzyło się pod nim wydrążenie. Zrozumiałem wówczas, a następnie stanowczo się przekonałem, że grunt wyspy stanowił rodzaj bagnistego torfowiska, utworzonego przez rozkład szczątków roślinnych, nagromadzonych na jej skalistej podstawie. Powłoka ta była miękka, gąbczasta i zawsze nasiąknięta wodą. Grubość jej na wybrzeżu wynosiła od jednego do dwu metrów, a w miarę oddalania się odeń i podnoszenia się gruntu stawała się coraz cieńsza.
 
-Łatwo zrozumieć, jakie smutne ogarnęły mię myśli, kiedym został samotny przy ogniu. Myśl moja zwróciła się ku rodzinie, tej garstce drogich osób, dla których miłość moja zdwoiła się w tej chwili. Znajdowaliśmy się obecnie na przeciwnych krańcach ziemi. Jak i kiedy potrafię się wydostać z tej odludnej wysepki, leżącej poza granicami zamieszkanego świata? Pytanie to nieustannie przychodziło mi do głowy, a odpowiedzią na nie bywało zawsze: może i ni-
+Łatwo zrozumieć, jakie smutne ogarnęły mię myśli, kiedym został samotny przy ogniu. Myśl moja zwróciła się ku rodzinie, tej garstce drogich osób, dla których miłość moja zdwoiła się w tej chwili. Znajdowaliśmy się obecnie na przeciwnych krańcach ziemi. Jak i kiedy potrafię się wydostać z tej odludnej wysepki, leżącej poza granicami zamieszkanego świata? Pytanie to nieustannie przychodziło mi do głowy, a odpowiedzią na nie bywało zawsze: może i ni<!-- page 70 --><!-- page 71 -->gdy! Ogarnęła mię nadzwyczajna rozpacz; łzy gwałtem cisnęły się do oczu; płakałem jak dziecko.
 
 <!-- page 69 -->
 
 ![Wkrótce też zajaśniało przyjemne światełko.](img/06_swiatelko.jpg)
-
-<!-- page 70 -->
-
-<!-- page 71 -->
-
-gdy! Ogarnęła mię nadzwyczajna rozpacz; łzy gwałtem cisnęły się do oczu; płakałem jak dziecko.
 
 Śród takich myśli zacząłem wzywać pomocy Boga i rozmyślać o tej Istocie nieskończonej, wszechpotężnej, rządzącej światem. Na wilgotnej ziemi padłem na kolana i przedstawiając Mu swą boleść, błagałem o litość nade mną i mymi towarzyszami niedoli.
 
@@ -603,8 +483,6 @@ Od tejże chwili powziąłem stałe postanowienie zwalczania i odpędzania wszel
 Ożywiony tą myślą, zebrałem wszystkie siły i wyszedłem z zaimprowizowanego naprędce szałasu, w którym dotąd zostawałem pomiędzy przedmiotami, ocalonymi z okrętu. Z kociełkiem w jednej ręce, drugą zaś czepiając się gałęzi, które napotykałem po drodze, dostałem się nareszcie do strumienia. Jakkolwiek droga przezemnie przebyta nie przenosiła czterdziestu metrów, doszedłszy jednak do celu, musiałem usiąść na pniu drzewa dla odpoczynku. Następnie napełniłem kociełek, a dumny ze swego czynu, puściłem się z powrotem i postawiłem go przy ogniu, ciesząc się zawczasu przyjemnem zdziwieniem towarzyszów, gdy za powrotem poczęstuję ich gorącą herbatą i radością, z jaką biedni ludziska po zmęczeniu i zmoknięciu do niej się zabiorą.
 
 W godzinę może zaczęli się zjawiać jeden po drugim. Z ubrania ich ściekały potoki wody, a twarze wszystkich były ponure, żaden bowiem nie znalazł nawet najlichszego schronienia.
-
-Rozbitki na Auklandach.
 
 <!-- page 72 -->
 
@@ -622,11 +500,7 @@ I zwracając głównie mowę do Musgrave'a, przypomniałem mu przyrzeczenie nasz
 
 „Gdyby sobie nawet o nas przypomnieli — odparł tenże — to i tak kazaliby nas szukać na wyspie Campbell, lecz nie prędzej jak po trzech albo czterech miesiącach. A któż zaręczy, że zechcą nam słowa dotrzymać? Mogą przypuszczać, żeśmy znaleźli pokłady cyny, żeśmy już rozpoczęli ich eksploatacyję, a czyżby zechcieli pozwolić na to, by ktoś inny, szukając nas, dowiedział się o nich i postarał się uprzedzić nas w wyjednaniu ustąpienia wyspy? Interes własny będzie ich niezawodnie odstręczał od podobnego kroku.”
 
-— Jakkolwiek wielką może być władza interesu nad sercem ludzkiem — mówiłem z kolei — to, według mnie, nie należy się obawiać podobnie nieludzkiego postępku. Znam dobrze Sarpy'ego, jest on przyjacielem moim z lat dziecinnych i gotówbym ręczyć za jego uczciwość. Co do jego wspólnika, to jest on przecie twoim krewnym, przywiązanie więc jego powinno być dostateczną rękojmią spełnienia obietnicy. Statek zaś, wysłany przez nich na Camp-
-
-<!-- page 73 -->
-
-bell, nie znalazłszy nas tam, przybędzie bez żadnej wątpliwości na Auklandy, leżące prawie po drodze.
+— Jakkolwiek wielką może być władza interesu nad sercem ludzkiem — mówiłem z kolei — to, według mnie, nie należy się obawiać podobnie nieludzkiego postępku. Znam dobrze Sarpy'ego, jest on przyjacielem moim z lat dziecinnych i gotówbym ręczyć za jego uczciwość. Co do jego wspólnika, to jest on przecie twoim krewnym, przywiązanie więc jego powinno być dostateczną rękojmią spełnienia obietnicy. Statek zaś, wysłany przez nich na Camp<!-- page 73 -->bell, nie znalazłszy nas tam, przybędzie bez żadnej wątpliwości na Auklandy, leżące prawie po drodze.
 
 — Jeżeli jednak inaczej się stanie! — wyjąkał Musgrave. — Ach, moja żono i moje biedne dzieci! Cóż się z wami stanie, jeśli już do was nie wrócę?
 
@@ -642,25 +516,13 @@ Moja otucha podniosła nieco odwagę strapionych towarzyszów. „Próbujmy” �
 
 Puścili się też zaraz na taką wyprawę, która pomimo wiatru i fal jak najlepiej się powiodła. Powrócili ze wszystkimi niezbędnymi nam przedmiotami, a potem poszli w zarośla szukać jak najlepszego miejsca na zbudowanie baraku.
 
-Zarośla nas otaczające były bardzo gęste, prawie niepodobne do przebycia, szczególniej zaś na wybrzeżu, gdzie, jakem to wyżej już powiedział, warstwa ziemi torfiastej była daleko grubszą. Była to nadzwyczajnie poplątana gęstwina krzaków, paproci i traw wszelkiego rodzaju, ponad którą górowały trzy gatunki roślin. Najszcze-
-
-<!-- page 74 -->
-
-gólniejszym z nich była odmiana żelazodrzewu (eucalyptus), z pniem na trzydzieści do czterdziestu centymetrów grubym i bardzo cienką korą. Pień ten wygina się zwykle w najdziwaczniejsze kształty, będące wynikiem nieustannej walki z wiatrami. Zdaje się, że w chwili swobody od nacisku wiatrów zaczynają one gwałtownie rosnąć w kierunku normalnym, to jest pionowym, lecz wkrótce, ulegając gwałtownej napaści, znowu się krzywią, zaczynają czołgać po ziemi, by znowu w innem miejscu raptownie się wyprostować i na nowo być przyciśniętemi do ziemi. Bardzo często drzewa tego rodzaju nie mogą się wcale podnieść do góry i czołgają się niejako po ziemi, znikając gdzieniegdzie pod wzgórkami próchnicy, uwieńczonymi bujną zielonością, gdy tymczasem części ich widzialne porosłe są przeróżnymi gatunkami mchów. Większe gałęzie doznają również smutnego losu pnia; zdradzając na każdym kroku chęć pięcia się ku niebu, muszą one na równi z pniem przyjmować kierunek poziomy. Pokrywają się jednak za to gęstym liściem, który, niby dach opiekuńczy, daje przytułek pomniejszym krzewinom i błotnym roślinom. Dwoma innymi gatunkami większych przedstawicieli państwa flory na wyspie są: sosna górska i jakieś drzewo o białej korze i szerokich, pięknej zielonej barwy liściach.
+Zarośla nas otaczające były bardzo gęste, prawie niepodobne do przebycia, szczególniej zaś na wybrzeżu, gdzie, jakem to wyżej już powiedział, warstwa ziemi torfiastej była daleko grubszą. Była to nadzwyczajnie poplątana gęstwina krzaków, paproci i traw wszelkiego rodzaju, ponad którą górowały trzy gatunki roślin. Najszcze<!-- page 74 -->gólniejszym z nich była odmiana żelazodrzewu (eucalyptus), z pniem na trzydzieści do czterdziestu centymetrów grubym i bardzo cienką korą. Pień ten wygina się zwykle w najdziwaczniejsze kształty, będące wynikiem nieustannej walki z wiatrami. Zdaje się, że w chwili swobody od nacisku wiatrów zaczynają one gwałtownie rosnąć w kierunku normalnym, to jest pionowym, lecz wkrótce, ulegając gwałtownej napaści, znowu się krzywią, zaczynają czołgać po ziemi, by znowu w innem miejscu raptownie się wyprostować i na nowo być przyciśniętemi do ziemi. Bardzo często drzewa tego rodzaju nie mogą się wcale podnieść do góry i czołgają się niejako po ziemi, znikając gdzieniegdzie pod wzgórkami próchnicy, uwieńczonymi bujną zielonością, gdy tymczasem części ich widzialne porosłe są przeróżnymi gatunkami mchów. Większe gałęzie doznają również smutnego losu pnia; zdradzając na każdym kroku chęć pięcia się ku niebu, muszą one na równi z pniem przyjmować kierunek poziomy. Pokrywają się jednak za to gęstym liściem, który, niby dach opiekuńczy, daje przytułek pomniejszym krzewinom i błotnym roślinom. Dwoma innymi gatunkami większych przedstawicieli państwa flory na wyspie są: sosna górska i jakieś drzewo o białej korze i szerokich, pięknej zielonej barwy liściach.
 
 Obejrzawszy starannie okoliczne zarośla, towarzysze moi wybrali pośród nich jedno nie bardzo zarośnięte miejsce i zaraz zabrali się do zupełnego oczyszczenia go. Nie zapomnieli też sprowadzić z okrętu dwu motyk, dwu rydlów żelaznych i oskardu, w któreśmy się zaopatrzyli dla poszukiwań na wyspie Campbell. Pomiędzy rupieciami okrętowymi znalazł się jeszcze świder, jakiś stary toporek i młotek. Były to wszystkie narzędzia, jakiemi mogliśmy rozporządzać. Zrównawszy i oczyściwszy za ich pomocą wybraną miejscowość, czterej moi towarzysze rozpostarli na niej szałas.
 
-Ja tymczasem do powierzonej mi czynności wartalki dodałem jeszcze obowiązek kucharza. Zabrałem się więc do przygotowywania obiadu, który, prawdę powiedziawszy, niewiele zachodu i znajomości sztuki kucharskiej z mej strony wymagał, ponieważ dyspozy-
-
-<!-- page 75 -->
-
-<!-- page 76 -->
+Ja tymczasem do powierzonej mi czynności wartalki dodałem jeszcze obowiązek kucharza. Zabrałem się więc do przygotowywania obiadu, który, prawdę powiedziawszy, niewiele zachodu i znajomości sztuki kucharskiej z mej strony wymagał, ponieważ dyspozy<!-- page 75 --><!-- page 77 --><!-- page 76 -->cyja do niego nie mogła obejmować nic innego prócz gotowanego pekeflejszu, biskwitów i herbaty.
 
 ![Wkrótce rozciągnęliśmy się na ziemi](img/07_na_ziemi.jpg)
-
-<!-- page 77 -->
-
-cyja do niego nie mogła obejmować nic innego prócz gotowanego pekeflejszu, biskwitów i herbaty.
 
 Po posileniu się Musgrave wziął mię pod rękę i poprowadził do nowego mieszkania, gdy tymczasem inni zabrali się do przenoszenia wszystkich zapasów. Przed otworem szałasu buchnął wkrótce suty ogień, do czuwania nad którym w nocy każdy miał kilkogodzinny dyżur odbywać. Nie mając potem nic lepszego do roboty, każdy wyciągnął się na kilku sprowadzonych z okrętu deskach, pragnąc odpocząć nieco.
 
@@ -672,11 +534,7 @@ Wszyscy moi towarzysze na łoskot ten zerwali się na równe nogi, a Alick, któ
 
 W niewielkiej odległości od naszego namiotu ujrzeliśmy dwa lwy morskie, toczące z sobą zaciętą walkę. Ukazanie się nasze nie zaniepokoiło ich wcale, wiodły bowiem bój dalej z niemniejszą zajadłością.
 
-Każdy z tych lwów mógł mieć około półtrzecia metra długości i ze dwa metry obwodu w ramionach. W dalszym ciągu ciało ich
-
-<!-- page 78 -->
-
-zwężało się coraz bardziej i kończyło się dwiema niewielkiemi płetwami. Było ono pokryte krótkim, gęstym i gładkim włosem koloru czekolady. Przednie płetwy, długie na czterdzieści do pięćdziesięciu centymetrów, z wierzchniej strony porastały cieńszą i delikatniejszą, płową albo raczej bronzową sierścią, od spodu zaś pokryte były grubą, czarną i pomarszczoną skórą. Wielkie te płetwy łączyły się z kadłubem za pośrednictwem krótkich i grubych ramion. Łopatki, podobnie jak szyję i część głowy pokrywała gęsta grzywa szarożelazistej barwy, którą walczący zapaśnicy mocno najeżali i od czasu do czasu gniewnie nią wstrząsali.
+Każdy z tych lwów mógł mieć około półtrzecia metra długości i ze dwa metry obwodu w ramionach. W dalszym ciągu ciało ich <!-- page 78 -->zwężało się coraz bardziej i kończyło się dwiema niewielkiemi płetwami. Było ono pokryte krótkim, gęstym i gładkim włosem koloru czekolady. Przednie płetwy, długie na czterdzieści do pięćdziesięciu centymetrów, z wierzchniej strony porastały cieńszą i delikatniejszą, płową albo raczej bronzową sierścią, od spodu zaś pokryte były grubą, czarną i pomarszczoną skórą. Wielkie te płetwy łączyły się z kadłubem za pośrednictwem krótkich i grubych ramion. Łopatki, podobnie jak szyję i część głowy pokrywała gęsta grzywa szarożelazistej barwy, którą walczący zapaśnicy mocno najeżali i od czasu do czasu gniewnie nią wstrząsali.
 
 Przyciśnięte jeden do drugiego dwa te potwory, o pałających oczach, rozdętych i wydających głośne sapanie nozdrzach, i wywiniętych i drżących z gniewu wargach, nacierały na siebie bezustannie groźnemi paszczami, uzbrojonemi w ogromne kły i uwieńczonemi szczecinowatym wąsem. Kąsając się zajadle, wyrywały sobie często kawały mięsa, a za każdym razem zadawały głębokie rany, z których krew strumieniami wyciekała. Śmiałość, ich siła i zaciętość prawdziwie stawiały je na równi ze strasznymi lądowymi imiennikami, królami puszcz afrykańskich.
 
@@ -694,30 +552,21 @@ Jednakże, kiedyśmy już wracali z naszej wycieczki, lekki szelest w pobliskich
 
 Jakoż wkrótce ujrzałem ich wracających, przyczem każdy dźwigał na grzbiecie jakąś część zwierzęcia.
 
-Ale i powrót ten nie obył się bez trudności. Chcąc się uchronić od niewygodnej przeprawy przez zarośla, postępowali oni po brzegu morza. Musieli więc to brodzić po pas w wodzie, by okrążyć pionowe skały nadbrzeżne, to znowu z ciężarem swoim wdzierać się na skały, narażając się w pierwszym razie na porwanie przez prąd, w drugim zaś na stoczenie się w jakąś przepaść. Szczęściem jednak, nic im się złego nie stało; przybyli zdrowi i cało, zgięci tylko
-
-<!-- page 80 -->
-
-pod swym ciężarem, zmoczeni wodą morską i zbroczeni krwią, sączącą się z ciepłego jeszcze ciała foki.
+Ale i powrót ten nie obył się bez trudności. Chcąc się uchronić od niewygodnej przeprawy przez zarośla, postępowali oni po brzegu morza. Musieli więc to brodzić po pas w wodzie, by okrążyć pionowe skały nadbrzeżne, to znowu z ciężarem swoim wdzierać się na skały, narażając się w pierwszym razie na porwanie przez prąd, w drugim zaś na stoczenie się w jakąś przepaść. Szczęściem jednak, nic im się złego nie stało; przybyli zdrowi i cało, zgięci tylko<!-- page 80 --> pod swym ciężarem, zmoczeni wodą morską i zbroczeni krwią, sączącą się z ciepłego jeszcze ciała foki.
 
 Po obmyciu się wodą ze strumienia i wysuszeniu przed ogniem zabrali się wreszcie do posiłku, który im tymczasem przygotowałem; a potem Musgrave, Jerzy i Alick, korzystając z odpływu, wybrali się na pokład Graftona po rzeczy, których dotychczas stamtąd nie mogliśmy zabrać.
 
 Przez ten czas Henryk i ja zajęliśmy się gospodarstwem. Wynieśliśmy poza namiot wszystkie zapasy, narzędzia, co wszystko dotąd w nieładzie porozrzucane było po kątach szałasu i zmoczone wodą morską lub deszczową, i wszystko to wraz z deskami, na których spaliśmy w nocy, rozłożyliśmy dla wysuszenia na słońcu. Potem zaś na środku szałasu roznieciliśmy ogień, by wysuszyć i ziemię, a tym sposobem siedzibę naszą o ile możności jak najzdrowszą uczynić.
 
-
 <!-- page 81 -->
 
-# ROZDZIAŁ VI.
+## ROZDZIAŁ VI.
 
-## NIEBIESKIE MUCHY. — NASZE PTAKI. — PIERWSZA PIECZEŃ Z FOKI. — PROJEKT ZBUDOWANIA DOMU. — WSPÓLNA MODLITWA.
+### NIEBIESKIE MUCHY. — NASZE PTAKI. — PIERWSZA PIECZEŃ Z FOKI. — PROJEKT ZBUDOWANIA DOMU. — WSPÓLNA MODLITWA.
 
 Nieznośną plagą wysp Auklandzkich jest niezmierne mnóstwo wielkich much, niebiesko zabarwionych. Mniej delikatne od much europejskich, owady te doskonale znoszą zimno i dlatego przez cały rok wszędzie ich pełno. Nie drętwiejąc nawet na zimę i w tej porze roku składają swe jajeczka, najliczniej jednak rozradzają się w czasie silnej mgły, ulewnych deszczów lub dni wilgotnych. Ponieważ zaś na Auklandach mgły, wilgoć i deszcze panują prawie bezustannie, przeto kraj ten jest prawdziwym rajem dla much. Kawałek gnijącego drzewa, podległy rozkładowi głąb paproci, albo nawet każda roślina, o którą przechodząc otarł się lew morski, nadewszystko zaś miejsce spoczynku tych zwierząt, są ulubionemi dla tych much miejscowościami; zbierają się też w nich masami i tam się lęgną.
 
-Obrzydłe te owady stanowiły dla nas nieznośną plagę, przeciwko której musieliśmy przedsiębrać wszelkie środki ostrożności. Naszły one w wielkiej liczbie nasz szałas i wszędzie zostawiały ślady swej obecności. Gdy Henryk poruszał wszystkie sprzęty dla wyniesienia ich na słońce, zrywały się całymi rojami; nie chciały przecież opuścić szałasu, tylko siadały na jego ścianach. Wkrótce przecież po zapaleniu ognia, pod wpływem zapewne dymu, wpadły w jakąś niespokojność, zerwały się do lotu i pokrążywszy czas jakiś
-
-<!-- page 82 -->
-
-wokoło ognia, przyczem wydawały brzęk bardzo niemiły, wyniosły się nakoniec na powietrze.
+Obrzydłe te owady stanowiły dla nas nieznośną plagę, przeciwko której musieliśmy przedsiębrać wszelkie środki ostrożności. Naszły one w wielkiej liczbie nasz szałas i wszędzie zostawiały ślady swej obecności. Gdy Henryk poruszał wszystkie sprzęty dla wyniesienia ich na słońce, zrywały się całymi rojami; nie chciały przecież opuścić szałasu, tylko siadały na jego ścianach. Wkrótce przecież po zapaleniu ognia, pod wpływem zapewne dymu, wpadły w jakąś niespokojność, zerwały się do lotu i pokrążywszy czas jakiś <!-- page 82 -->wokoło ognia, przyczem wydawały brzęk bardzo niemiły, wyniosły się nakoniec na powietrze.
 
 „Nie ma tego złego, coby na dobre nie wyszło” — powiada przysłowie, któremu w tym razie zupełną przyznać muszę słuszność. Owe bowiem dokuczliwe muchy ściągnęły pod nasz namiot wiele pięknych ptaków, których towarzystwo, a nadewszystko śpiew, sprawiały nam wielką przyjemność. Nie straszyliśmy nigdy miłych tych stworzonek, to też ustawicznie koło nas krążyły i siadały na pobliskich krzakach nie dalej jak na długość ręki.
 
@@ -725,11 +574,7 @@ Pierwszym z tych gości była śliczna ptaszyna niebieska z szarawą piersią, o
 
 Mieliśmy też za sąsiadki w pobliskich zaroślach małe zielone z czerwonemi główkami papużki, których obecność w zimnym i wilgotnym klimacie wyspy zdziwiła nas bardzo, ponieważ ptaki te gnieżdżą się zwykle w pasie międzyzwrotnikowym lub okolicach nie bardzo odeń odległych. Pomimo to nasze papugi zdawały się być zupełnie zdrowemi i zadowolonemi ze swego losu. Nie zdaje mi się niepodobnem, iżby obecność ich na wyspie była tylko skutkiem jakiegoś uraganu, który kiedyś przyniósł tu z Nowej Zelandyi kilka sztuk tych ptaszków, które znalazłszy na wyspie dobrą ochronę w zawsze liściem pokrytych krzakach, a przytem wielką obfitość ziarna na pożywienie, zaaklimatyzowały się na niej.
 
-Najpospolitszym jednak, a zarazem najciekawszym ze wszystkich skrzydlatych mieszkańców wyspy jest jakiś ptak brunatny z żółtawym brzuszkiem. Jest on owadożernym i nie mniej od pierwszego na muchy łakomym. Wielkością dorównywa on kanarkowi
-
-<!-- page 83 -->
-
-i podobną jak tenże odznacza się wesołością. Pogoda czy słota, on się o to bynajmniej nie troszczy i zawsze śpiewa na całe gardło. Ileśmy tylko razy przedzierali się przez zarośla, zawsze ponad nami krążyło mnóstwo tych ptaków, gdy inne przyglądały się nam z gałązek. Wyprawiały nam one jakby serenady i najeżając swe piórka, oraz zwracając się jeden do drugiego, jakby się tym sposobem wzajemnie pobudzać chciały do śpiewu, wydobywały z piersi swych głośne i melodyjne pieśni. Czasami dla dodania im większej jeszcze ochoty zabawiałem się sam wygwizdywaniem im urywków jakichś melodyj, a wówczas wszystko, co żyło, przepełniało śpiewem powietrze, tak iż mogłem sądzić, że się znajduję w ptaszarni.
+Najpospolitszym jednak, a zarazem najciekawszym ze wszystkich skrzydlatych mieszkańców wyspy jest jakiś ptak brunatny z żółtawym brzuszkiem. Jest on owadożernym i nie mniej od pierwszego na muchy łakomym. Wielkością dorównywa on kanarkowi<!-- page 83 --> i podobną jak tenże odznacza się wesołością. Pogoda czy słota, on się o to bynajmniej nie troszczy i zawsze śpiewa na całe gardło. Ileśmy tylko razy przedzierali się przez zarośla, zawsze ponad nami krążyło mnóstwo tych ptaków, gdy inne przyglądały się nam z gałązek. Wyprawiały nam one jakby serenady i najeżając swe piórka, oraz zwracając się jeden do drugiego, jakby się tym sposobem wzajemnie pobudzać chciały do śpiewu, wydobywały z piersi swych głośne i melodyjne pieśni. Czasami dla dodania im większej jeszcze ochoty zabawiałem się sam wygwizdywaniem im urywków jakichś melodyj, a wówczas wszystko, co żyło, przepełniało śpiewem powietrze, tak iż mogłem sądzić, że się znajduję w ptaszarni.
 
 Spotykaliśmy też, ale daleko rzadziej, jakieś ptaki wielkości kosa. Długie pióra ich szyi tworzyły rodzaj lśniącej grzywy brunatnej barwy, jak u koguta. Powyżej piersi od przodu zwieszały im się dwa długie, lekkie i powiewne pióra, które tworzyły jakby szczególny rodzaj wyłogów i nadawały swym właścicielom pozór anglikańskich księży.
 
@@ -737,11 +582,7 @@ Pewien rodzaj ptaków drapieżnych, podobny do europejskich jastrzębi, a bardzo
 
 Kiedyśmy nareszcie za pomocą dymu zdołali się pozbyć chmary much z namiotu, zajęliśmy się mięsem zabitej niedawno foki. Była to roczna samica, ważąca niezawodnie ze sto kilogramów. Skóra jej, przyniesiona przez Musgrave'a, pokryta była krótką i gładką brunatną sierścią z trochę srebrzystym połyskiem. Harry za pomocą sznura zawiesił ćwiartkę tego zwierzęcia na pobliskiej pochyłej gałęzi, a ja rozpaliłem pod nią wielki ogień i poruszając ją od czasu do czasu kijem, upiekłem ją na obiad.
 
-Koło południa towarzysze nasi powrócili z wycieczki na pokład Graftona, przynosząc ze sobą busolę, którą Musgrave stamtąd odjął, kilka żagli, dalej co się dało ocalić z naszych sprzętów stołowych
-
-<!-- page 84 -->
-
-i kuchennych, oraz wielki kocioł żelazny i nasze kufry. Przenieśli też na brzeg wszystkie próżne beczki, zabezpieczywszy je od zabrania przez wodę podczas przypływu.
+Koło południa towarzysze nasi powrócili z wycieczki na pokład Graftona, przynosząc ze sobą busolę, którą Musgrave stamtąd odjął, kilka żagli, dalej co się dało ocalić z naszych sprzętów stołowych<!-- page 84 --> i kuchennych, oraz wielki kocioł żelazny i nasze kufry. Przenieśli też na brzeg wszystkie próżne beczki, zabezpieczywszy je od zabrania przez wodę podczas przypływu.
 
 Po niejakim czasie, zasiadłszy wiankiem naokoło naszej pieczonej foki, zabraliśmy się raźno do jej spożywania. Czarne jej i tłuste mięso wcale nie łechtało mile naszych podniebień, ale trzeba się było do niego przyzwyczaić, innego bowiem nie było. Jeżeli jednak to mięso z młodego zwierzęcia takim nas wstrętem przejmowało, cóżby dopiero było, gdyby przyszło spożywać starą fokę, a przecież można się było spodziewać, że nie zawsze będziemy w możności robienia pod tym względem wyboru.
 
@@ -751,11 +592,7 @@ Fuzyja moja cała rdzą była pokryta; i gdym się zabrał do jej czyszczenia, t
 
 Pod wieczór wszystkie te przedmioty zostały napowrót zebrane i złożone pod namiotem; dzięki wyprawie na okręt, mogliśmy tej nocy zakosztować miłego spoczynku, owinięci suchemi i ciepłemi kołdrami.
 
-Ponieważ jednak zaraz w nocy deszcz na nowo zaczął padać, mieliśmy więc natychmiast sposobność ocenienia niedostateczności naszego płóciennego schronienia w tak niegodziwym klimacie, to też zaraz
-
-<!-- page 85 -->
-
-o świcie postanowiliśmy się zabrać do zbudowania wygodniejszego, bo drewnianego domku.
+Ponieważ jednak zaraz w nocy deszcz na nowo zaczął padać, mieliśmy więc natychmiast sposobność ocenienia niedostateczności naszego płóciennego schronienia w tak niegodziwym klimacie, to też zaraz<!-- page 85 --> o świcie postanowiliśmy się zabrać do zbudowania wygodniejszego, bo drewnianego domku.
 
 Mnie wprawdzie trudno było jeszcze chodzić, zawsze jednak czułem coraz widoczniej powrót sił i potrafiłem wraz z towarzyszami zajść aż do ujścia przepływającego w pobliżu szałasu strumienia. Wpadał on do zatoki prawie naprzeciw rozbitego okrętu. Tuż obok znajdowała się niewielka płaszczyzna, pokryta okruchami skał. Oczyściliśmy ją, o ile było można, z kamieni, by można było wyciągnąć tamtędy naszą łódź w miejsce bezpieczne od fal i przypływu. Nieco wyżej po tej samej stronie strumienia sterczał niewielki wzgórek, najwyżej na 10 metrów wyniesiony, a podobnie jak reszta wybrzeża bujną roślinnością pokryty. Ponieważ staraliśmy się jak najmniej oddalać od Graftona, przeto miejsce to uważaliśmy za najwłaściwsze, tem bardziej że jego względne wyniesienie pozwalałoby jako tako zabezpieczyć się od wilgoci. Tu więc postanowiliśmy zbudować naszą przyszłą siedzibę.
 
@@ -763,11 +600,7 @@ Przez trzy dni z rzędu Musgrave, Jerzy i Alick bezustannie byli zajęci ścinan
 
 Kiedy już dostateczna przestrzeń gruntu została oczyszczona, zajęto się przez dzień następny jej wyrównaniem, a potem postanowiliśmy pomyśleć o zebraniu materyjału budowlanego. Ponieważ jednak drzewa na wyspie rosnące mogły dostarczyć samej tylko krzywizny, wcale niezdatnej na materyjał budowlany, przeto takowy zabrać trzeba było z Graftona. Ściągnięto też z niego zaraz reje i mniejsze maszty, z których miało powstać rusztowanie naszego domku.
 
-Przez tych pięć dni z rzędu prawie ciągle mieliśmy niepogodę. Nawiedziła też nas trąba, zupełnie równa w sile swej poprzedniczce, która nas wyrzuciła na brzeg. Kiedy zaś deszcz i wiatr ustąpiły, niebo pozostało mimo to pokryte gęstemi czarnemi chmurami, które zaledwie może trzecią część światła słonecznego dopuszczały do zie-
-
-<!-- page 86 -->
-
-mi, sprowadzając śród białego dnia jakiś zmrok szarawy i ponury. A jednak był to sam środek lata!
+Przez tych pięć dni z rzędu prawie ciągle mieliśmy niepogodę. Nawiedziła też nas trąba, zupełnie równa w sile swej poprzedniczce, która nas wyrzuciła na brzeg. Kiedy zaś deszcz i wiatr ustąpiły, niebo pozostało mimo to pokryte gęstemi czarnemi chmurami, które zaledwie może trzecią część światła słonecznego dopuszczały do zie<!-- page 86 -->mi, sprowadzając śród białego dnia jakiś zmrok szarawy i ponury. A jednak był to sam środek lata!
 
 Nie mając w tej chwili nic ważniejszego do opisania, ograniczę się na przytoczeniu kilku wyjątków z mego dziennika.
 
@@ -791,19 +624,15 @@ Po tem czytaniu wszyscyśmy padli na kolana i z przejęciem odmówili gorącą m
 
 <!-- page 88 -->
 
-# ROZDZIAŁ VII.
+## ROZDZIAŁ VII.
 
-## BUDOWA RUSZTOWANIA I KOMINA PRZYSZŁEJ CHATY. — WYCIECZKA W ZACHODNIĄ STRONĘ ZATOKI I DO WYSPY POMNIKOWEJ.
+### BUDOWA RUSZTOWANIA I KOMINA PRZYSZŁEJ CHATY. — WYCIECZKA W ZACHODNIĄ STRONĘ ZATOKI I DO WYSPY POMNIKOWEJ.
 
 Mieliśmy już materyjały konieczne do rozpoczęcia budowy dogodniejszej siedziby, szło teraz o jak najlepsze ich zużytkowanie. Pod tym względem miałem pewne doświadczenie i mogłem być dosyć pomocnym. Podczas ostatnich lat mego pobytu w Australii, kiedym był zmuszony dłużej na jednem miejscu przebywać, przywykłem zastępować namiot, który dawniej zawsze rozpinałem, przez jakąś trwalszą siedzibę. Budowałem sobie chatę z kłód drzewa, używając kory do krycia dachu. Nie zapominałem nawet o kominie, który zawsze wznosiłem z kamieni i gliny.
 
 Ponieważ jednak byłem jeszcze za słabym, bym sam mógł przyłożyć rękę do dzieła, przeto moi towarzysze, jako zupełni nowicyjusze w tym względzie, czy to obawiając się zmarnować jakąś sztukę drzewa, czy też będąc w wątpliwości, jaki z niej najlepiej zrobić użytek, bardzo często udawali się tylko do mnie po radę. Atoli po upływie kilku dni i ja sam byłem już w stanie wziąć udział w robocie. Byłem naraz i budowniczym, i mularzem. Po upływie tygodnia stało już rusztowanie naszego domku, którego opisu pominąć tu nie mogę.
 
-W czterech wierzchołkach prostokąta, mającego siedem metrów długości, a pięć szerokości, osadziliśmy w ziemi na głębokość jednego metra cztery mocne słupy narożne, otrzymane przez porąbanie
-
-<!-- page 89 -->
-
-masztów. Dla zapobieżenia głębszemu zapadaniu się ich w miękką ziemię, pod każdy z nich położyliśmy wielki kamień, a potem celem mocniejszego ich osadzenia zasypaliśmy dół drobnymi kamieniami i ziemią i mocnośmy je ubili; każdy z tych słupów wznosił się nad ziemię przeszło na dwa metry i opatrzony był u góry wrębem. Wręby te przeznaczone były do przytwierdzenia i oparcia czterech łat poziomych, przygotowanych z lżejszych sztuk drzewa, sprowadzonych z okrętu. Łaty tak pomiędzy sobą, jak i do wierzchołków słupów, zostały mocno poprzywiązywane sznurami.
+W czterech wierzchołkach prostokąta, mającego siedem metrów długości, a pięć szerokości, osadziliśmy w ziemi na głębokość jednego metra cztery mocne słupy narożne, otrzymane przez porąbanie<!-- page 89 --> masztów. Dla zapobieżenia głębszemu zapadaniu się ich w miękką ziemię, pod każdy z nich położyliśmy wielki kamień, a potem celem mocniejszego ich osadzenia zasypaliśmy dół drobnymi kamieniami i ziemią i mocnośmy je ubili; każdy z tych słupów wznosił się nad ziemię przeszło na dwa metry i opatrzony był u góry wrębem. Wręby te przeznaczone były do przytwierdzenia i oparcia czterech łat poziomych, przygotowanych z lżejszych sztuk drzewa, sprowadzonych z okrętu. Łaty tak pomiędzy sobą, jak i do wierzchołków słupów, zostały mocno poprzywiązywane sznurami.
 
 Wpośrodku dwu mniejszych boków umieściliśmy, jeden naprzeciwko drugiego, dwa inne słupy, mocniejsze i dłuższe od narożnych. Użyliśmy na ten cel najgrubszej rei z naszego statku, przeciętej na dwie połowy. Dwa te słupy wystawały ponad łaty poziome jeszcze na jakie dwa metry, a lekka beleczka, oparta na ich wierzchołkach, stanowić miała górną podporę dachu. Belka ta przechodziła tedy środkiem całego prostokąta na półtora metra nad ziemią.
 
@@ -812,8 +641,6 @@ Na tej belce i łatach podłużnych oparliśmy dalej ukośnie parami, w jednakow
 Krokwie owe przygotowaliśmy sobie z górskich sosen, o których już wyżej wspominałem. Ponieważ chodziło o to, by były zupełnie proste, musieliśmy więc dużo czasu stracić na ich zebranie w tej okolicy, gdzie wszystkie drzewa, nie wyjmując i sosen, są mocno pokrzywione.
 
 Lecz to jeszcze nie wszystko. Wpośrodku większej ściany domku, zwróconej ku wnętrzu wyspy, wbite zostały dwa mocne słupy, które, podtrzymując środek łaty z krokwiami, służyć miały jednocześnie za ramę do drzwi wchodowych. Urządziliśmy zaś wejście z tej strony, by nie było wystawione na wiatr od strony morza. W przeciwnej ścianie były podobneż dwa słupy, które służyć miały za podporę dla komina. Budowa tego ostatniego zajęła nam cały następny tydzień.
-
-Rozbitki na Auklandach.
 
 <!-- page 90 -->
 
@@ -839,11 +666,7 @@ Niedziela, 17 stycznia. Wieje silny wiatr północny, czas pochmurny i groźny, 
 
 Przez kilka dni ostatnich temperatura była bardzo przyjemna, drogo jednak przyszło nam zapłacić za te kilka dni prawdziwego lata. Na brzegach wylęgało się niezliczone mnóstwo drobnych czarnych muszek, których rozmnożeniu się ciepło bardzo sprzyjało. Muchy owe zaszły i na nasz wzgórek.
 
-Owady te kolą równie dotkliwie jak komary i moskity. Twarze nasze i ręce były z ich powodu całkiem opuchnięte. Utrapieńce
-
-<!-- page 92 -->
-
-te jednak nie poprzestawały nawet na tych odkrytych częściach ciała, ale wchodziły pod ubranie, a tak były zapamiętałe w swej złości, że jak tylko która usiadła na skórze, nie można jej już było spędzić. Napróżnośmy machali rękami, dmuchali ile nam sił po temu starczyło, one stulały tylko skrzydła, by jak najmniej przedstawiać oporu, i kłuły nas dalej, wciągając w siebie zapamiętale krew naszą. Trzeba je było koniecznie gnieść na miejscu, to też nic innego nie mogliśmy robić, tylkośmy się ciągle bili po rękach i twarzach.
+Owady te kolą równie dotkliwie jak komary i moskity. Twarze nasze i ręce były z ich powodu całkiem opuchnięte. Utrapieńce<!-- page 92 --> te jednak nie poprzestawały nawet na tych odkrytych częściach ciała, ale wchodziły pod ubranie, a tak były zapamiętałe w swej złości, że jak tylko która usiadła na skórze, nie można jej już było spędzić. Napróżnośmy machali rękami, dmuchali ile nam sił po temu starczyło, one stulały tylko skrzydła, by jak najmniej przedstawiać oporu, i kłuły nas dalej, wciągając w siebie zapamiętale krew naszą. Trzeba je było koniecznie gnieść na miejscu, to też nic innego nie mogliśmy robić, tylkośmy się ciągle bili po rękach i twarzach.
 
 Wyglądaliśmy na manijaków lub epileptyków. Co chwila jeden z nas, dręczony nieznośnem swędzeniem, przestawał pracować, rzucał z gniewem o ziemię narzędzie i zaczynał się opędzać tym małym utrapieńcom, albo nawet trzeć grzbiet o jeden ze słupów rusztowania. Częstokroć wszyscy na taki widok wybuchali głośnym śmiechem, a i sam pacyjent, nie szczędząc przekleństw, nie mógł się od niego wstrzymać.
 
@@ -853,11 +676,7 @@ Poniedziałek, 18. Wszyscy byliśmy zajęci w zaroślach szukaniem, ścinaniem i
 
 Wtorek, 19. Tego ranka, pomimo wciąż pochmurnego nieba, powietrze było daleko lżejsze, a podnoszenie się barometru skłoniło nas do skorzystania z lekkiego wietrzyku wschodniego i zrobienia wycieczki wodnej w zachodnie ramię zatoki.
 
-Zaraz też po śniadaniu zepchnęliśmy na wodę łódź naszą, zaopatrzoną w maszt z żaglem, włożywszy do niej wiosła, motyki, pręt do sondowania i busolę z małą książeczką do zapisywania spostrze-
-
-<!-- page 93 -->
-
-żeń. Każdy z nas zaopatrzył się na tę drogę w duży nóż z futerałem, a ja nadto wziąłem swą fuzyję.
+Zaraz też po śniadaniu zepchnęliśmy na wodę łódź naszą, zaopatrzoną w maszt z żaglem, włożywszy do niej wiosła, motyki, pręt do sondowania i busolę z małą książeczką do zapisywania spostrze<!-- page 93 -->żeń. Każdy z nas zaopatrzył się na tę drogę w duży nóż z futerałem, a ja nadto wziąłem swą fuzyję.
 
 Naprzeciw półwyspu Musgrave'a, przy wejściu do zachodniego ramienia naszej zatoki, sterczy nad wodą wysepka, albo raczej ogromna skała, pokryta bujną roślinnością. Wysepka ta ma kształt klina, którego ostrze zwrócone jest ku zatoce. Ponieważ jest ona oddzielona od lądu bardzo wąskim pasem wody, do którego wejście od strony północnej jest nadto zatamowane rafami, prawie do samej powierzchni wody dochodzącemi, przeto nadaliśmy jej nazwisko Fałszywej. Na drugim końcu cieśniny morze ma do dwudziestu metrów głębokości. Jest to miejsce dosyć dobrze osłonione, dostępne tylko wiatrom południowym, które wprawdzie wieją tu nieczęsto, ale za to bardzo gwałtownie. Przy każdym innym wietrze statek może tu znaleźć bezpieczne schronienie. Dno morskie stanowi pokład piaszczysty, przejęty mnóstwem szczątków muszel i błotnistym mułem; kotwica chwyta go się doskonale.
 
@@ -867,29 +686,17 @@ Po zrobieniu tych obserwacyj puściliśmy się dalej ku zachodowi.
 
 Pas wody, idący w tym kierunku, ma od dwu do czterech kilometrów szerokości, stosownie do tego, czy mniej lub więcej wrzyna się w ląd, i może z dziesięć kilometrów długości. Tak na obu brzegach, jak i w wodzie, spostrzegaliśmy liczne gromady fok. Przybywszy do samego końca tego ramienia zatoki, przejęci zostaliśmy nagle zdumieniem na widok piękności wspaniałego i dzikiego zarazem krajobrazu, jaki się tu oczom naszym przedstawił. Było to miejsce zaiste godne pędzla Salvatora Rosy.
 
-Niech sobie czytelnik wyobrazi szyję do trzech kilometrów długą, a zaledwie na pół kilometra szeroką, zamkniętą jakby dwoma potężnymi murami ze skał, pionowo spadających ku wodzie, a dochodzących do ośmiuset, a nawet tysiąca dwustu stóp wysokości. Skały
+Niech sobie czytelnik wyobrazi szyję do trzech kilometrów długą, a zaledwie na pół kilometra szeroką, zamkniętą jakby dwoma potężnymi murami ze skał, pionowo spadających ku wodzie, a dochodzących do ośmiuset, a nawet tysiąca dwustu stóp wysokości. Skały<!-- page 94 --> te u samej podstawy były mocno powyżłabiane, tworząc liczne groty, w które bezustannie wpadające fale wydawały odgłos głuchy, prawie do nieskończoności powtarzany na wszystkie strony przez odbicia. Ten ciasny przesmyk jest prawdopodobnie tylko ogromną szczeliną w górach i niezawodnie winien swe istnienie wybuchowi wulkanicznemu, który wydobył całą gromadę wysp Auklandzkich z łona oceanu i jednocześnie tym wąwozem oddzielił wyspę Adama od najrozleglejszego lądu. Fale, wpadające tu od zachodu, rozbijają się gwałtownie o wysepkę, która znajdując się w samym końcu już i tak wąskiego przejścia, dzieli je na dwie bardzo niebezpieczne do przebycia odnogi. Północna z nich jest niezmiernie płytka, gdy przeciwnie południowa, mająca może ze sto metrów szerokości, jest nader głęboka. Prąd jednak wody na skutek przypływu i odpływu jest tu tak gwałtowny, że robi cieśninę zupełnie niedostępną dla statków żaglowych. Jedynie tylko chyba parowiec może z jakimi takimi widokami powodzenia odważyć się na podobną wycieczkę (\*).
 
-<!-- page 94 -->
-
-te u samej podstawy były mocno powyżłabiane, tworząc liczne groty, w które bezustannie wpadające fale wydawały odgłos głuchy, prawie do nieskończoności powtarzany na wszystkie strony przez odbicia. Ten ciasny przesmyk jest prawdopodobnie tylko ogromną szczeliną w górach i niezawodnie winien swe istnienie wybuchowi wulkanicznemu, który wydobył całą gromadę wysp Auklandzkich z łona oceanu i jednocześnie tym wąwozem oddzielił wyspę Adama od najrozleglejszego lądu. Fale, wpadające tu od zachodu, rozbijają się gwałtownie o wysepkę, która znajdując się w samym końcu już i tak wąskiego przejścia, dzieli je na dwie bardzo niebezpieczne do przebycia odnogi. Północna z nich jest niezmiernie płytka, gdy przeciwnie południowa, mająca może ze sto metrów szerokości, jest nader głęboka. Prąd jednak wody na skutek przypływu i odpływu jest tu tak gwałtowny, że robi cieśninę zupełnie niedostępną dla statków żaglowych. Jedynie tylko chyba parowiec może z jakimi takimi widokami powodzenia odważyć się na podobną wycieczkę (\*).
+> *(\*) Korweta kolonijalna Victoria jest jedynym statkiem, który próbował tej przeprawy. Wystawioną była podczas niej na wielkie niebezpieczeństwo i jedynie sile swej maszyny winna była ocalenie. Zaledwie przy rozwinięciu maksymum potęgi maszyny, i to z nadzwyczajną trudnością, potrafiła zwalczyć gwałtowność prądu tego przejścia.*
 
 Wspomnionej tylko co wysepce, z powodu jej osobliwego kształtu, daliśmy nazwę Pomnikowej. Od samego dołu jest ona kwadratową i stanowi jakby umyślnie wykute w skale stopnie, na najwyższym z których spoczywa olbrzymi głaz, również o kwadratowej podstawie; wygląda ona rzeczywiście na jakiś wielki grobowiec.
 
-Jak tylko lwy morskie, które występują w tem miejscu bardzo licznie, spostrzegły naszą łódź, natychmiast wszystkie będące w wodzie rzuciły się jakby na jej spotkanie. W bardzo krótkim przeciągu czasu wielka gromada tych potworów otoczyła nas ze wszystkich stron. Były one tym razem daleko śmielsze niż w chwili pierwszego naszego pojawienia się w porcie Carnleya. Kilka większych lwów, przepływając szybko koło łodzi, ośmieliło się nawet chwytać zębami za końce wioseł, któremi od pewnego czasu mu-
-
----
-
-*(\*) Korweta kolonijalna Victoria jest jedynym statkiem, który próbował tej przeprawy. Wystawioną była podczas niej na wielkie niebezpieczeństwo i jedynie sile swej maszyny winna była ocalenie. Zaledwie przy rozwinięciu maksymum potęgi maszyny, i to z nadzwyczajną trudnością, potrafiła zwalczyć gwałtowność prądu tego przejścia.*
+Jak tylko lwy morskie, które występują w tem miejscu bardzo licznie, spostrzegły naszą łódź, natychmiast wszystkie będące w wodzie rzuciły się jakby na jej spotkanie. W bardzo krótkim przeciągu czasu wielka gromada tych potworów otoczyła nas ze wszystkich stron. Były one tym razem daleko śmielsze niż w chwili pierwszego naszego pojawienia się w porcie Carnleya. Kilka większych lwów, przepływając szybko koło łodzi, ośmieliło się nawet chwytać zębami za końce wioseł, któremi od pewnego czasu mu<!-- page 96 --><!-- page 97 -->sieliśmy sobie pomagać, a jeden był tyle zuchwałym, że wyskoczywszy ponad wodę, chwycił za przód łodzi, lecz nie udało mu się jej przechylić. W samą porę wymierzone nań rękami Alicka uderzenie oskardu zmusiło go do puszczenia łodzi i zanurzenia się w wodzie śród wściekłego ryku. Na brzegu jednak łodzi zostały porządne ślady jego zębów. Kilka uderzeń wiosłami, danych na ślepo, skłoniło jego towarzyszów do trzymania się w nieco większej od nas odległości.
 
 <!-- page 95 -->
 
 ![Wyspa Pomnikowa.](img/08_pomnikowa.jpg)
-
-<!-- page 96 -->
-
-<!-- page 97 -->
-
-sieliśmy sobie pomagać, a jeden był tyle zuchwałym, że wyskoczywszy ponad wodę, chwycił za przód łodzi, lecz nie udało mu się jej przechylić. W samą porę wymierzone nań rękami Alicka uderzenie oskardu zmusiło go do puszczenia łodzi i zanurzenia się w wodzie śród wściekłego ryku. Na brzegu jednak łodzi zostały porządne ślady jego zębów. Kilka uderzeń wiosłami, danych na ślepo, skłoniło jego towarzyszów do trzymania się w nieco większej od nas odległości.
 
 Znalazłszy w jednem miejscu brzeg bardzo wygodny do wylądowania, przybiliśmy do lądu i, wydobywszy łódź z wody, zabraliśmy się do spożycia posiłku.
 
@@ -901,12 +708,11 @@ Wracając ze wzgórka, zabiliśmy dwa lwy morskie, które spały spokojnie na pn
 
 Ponieważ przez cały czas podróży z powrotem, dla przeciwnego wiatru, nie mogliśmy korzystać z żagla i trzeba było tym sposobem na przestrzeni osiemnastu kilometrów wciąż popychać się wiosłami, przeto przybywszy wieczorem do naszej nowej osady, nie mogliśmy już ruszać rękami ze zmęczenia.
 
-
 <!-- page 98 -->
 
-# ROZDZIAŁ VIII.
+## ROZDZIAŁ VIII.
 
-## WYKOŃCZENIE NASZEJ CHATKI. — FABRYKACYJA MYDŁA. — NA SZCZYCIE GÓRY. — USTAWIENIE SYGNAŁU. — KORMORANY.
+### WYKOŃCZENIE NASZEJ CHATKI. — FABRYKACYJA MYDŁA. — NA SZCZYCIE GÓRY. — USTAWIENIE SYGNAŁU. — KORMORANY.
 
 Nazajutrz po tej wycieczce zabraliśmy się napowrót do budowy domku.
 
@@ -914,11 +720,7 @@ Paliki, których znaczną liczbę, jak o tem już wspominałem, naścinaliśmy w
 
 Użyliśmy na ten cel grubej, długiej i mocnej trawy, rosnącej gęstemi kępami na brzegach morza i na szczytach skał nadbrzeżnych. Każdy z nas następnego dnia, zaopatrzywszy się w postronek, wyruszył od rana dla zbierania tej trawy i w ciągu dnia przyniósł pod domek po trzy lub cztery ogromne jej wiązki. Ta robota, którą niezawodnie czytelnicy poczytują za rodzaj niejakiej zabawy, połączonej z przyjemnością, w rzeczywistości bardzo nam się dała we znaki.
 
-W kępach przez nas ścinanych, obok świeżych traw znajdowało się wiele suchych, nadzwyczaj twardych, których ostre brzegi były powyszczerbiane na podobieństwo piły. Ponieważ zaś trzeba
-
-<!-- page 99 -->
-
-je było naprzód pochylać, a potem dopiero podcinać od dołu, przeto wracaliśmy wieczorem od tej roboty z formalnie pociętemi i posiekanemi rękami. Wszystkie otrzymane tym sposobem ranki sprawiały nam tak dotkliwe swędzenie, żeśmy niejednokrotnie na całe dnie musieli przerywać robotę.
+W kępach przez nas ścinanych, obok świeżych traw znajdowało się wiele suchych, nadzwyczaj twardych, których ostre brzegi były powyszczerbiane na podobieństwo piły. Ponieważ zaś trzeba<!-- page 99 --> je było naprzód pochylać, a potem dopiero podcinać od dołu, przeto wracaliśmy wieczorem od tej roboty z formalnie pociętemi i posiekanemi rękami. Wszystkie otrzymane tym sposobem ranki sprawiały nam tak dotkliwe swędzenie, żeśmy niejednokrotnie na całe dnie musieli przerywać robotę.
 
 Po zebraniu dostatecznej ilości tej trawy, zabraliśmy się do wiązania jej w niewielkie pęczki, najwyżej grubości ręki. Po związaniu, każdy pęczek przechodził w moje ręce i zostawał w obu końcach zrównanym przez obcięcie siekierą traw, zbyt wystających.
 
@@ -928,11 +730,7 @@ Zaczynając od samej ziemi, przywiązywaliśmy je jedne obok drugich do klepek p
 
 Dla zabezpieczenia ścian naszej chatki od uszkodzeń, które wiatry mogłyby spowodować, poprzytwierdzaliśmy jeszcze i od zewnątrz kilka szeregów palików, przymocowanych do wewnętrznych sznurkami, przewlekanymi przez słomę za pomocą dużej drewnianej iglicy, która wielkością wyrównywała klindze szabli. W górnej części ścian zostawiliśmy trzy małe otwory, w których szczelnie osadzone zostały okienka, dopuszczające niegdyś światło do wnętrza kajuty na Graftonie, a które znaleźliśmy nietkniętemi po rozbiciu. Tym sposobem mieliśmy i okna.
 
-Po ukończeniu tej pracy stan naszych rąk, jeszcze raz pociętych przez ostrą trawę, zmusił nas do kilkodniowego odpoczynku. Spożytkowaliśmy go na naprawę naszej odzieży, która już zaczynała wymagać najtroskliwszej opieki. Żadne wejście w zarośla nie odbyło się bez przyniesienia jej jakiejś szkody przez zawadzenie, a ćwiartowanie fok i przenoszenie ich mięsa ku domowi wystawiało
-
-<!-- page 100 -->
-
-ją na okropne szwanki pod względem czystości. Daremnie każdy z nas ku ochronie czystości odzieży zrobił sobie spodnie z płótna żaglowego, które przywdziewaliśmy zawsze na wierzch, ile razy wypadała potrzeba występować w charakterze myśliwców lub drwali; nie mogliśmy jednak w zupełności zabezpieczyć się od złych wpływów. Woda też źródlana, pomimo żeśmy jej wcale nie oszczędzali, nie mogła zwalczyć coraz bardziej na jaw wychodzących skutków przykrych zajęć, do których codziennie zmuszała nas potrzeba. Byliśmy więc skazani na smutną alternatywę: wystawiania swych sił na największe próby, albo też stania się przedmiotem obrzydliwości dla samych siebie.
+Po ukończeniu tej pracy stan naszych rąk, jeszcze raz pociętych przez ostrą trawę, zmusił nas do kilkodniowego odpoczynku. Spożytkowaliśmy go na naprawę naszej odzieży, która już zaczynała wymagać najtroskliwszej opieki. Żadne wejście w zarośla nie odbyło się bez przyniesienia jej jakiejś szkody przez zawadzenie, a ćwiartowanie fok i przenoszenie ich mięsa ku domowi wystawiało <!-- page 100 -->ją na okropne szwanki pod względem czystości. Daremnie każdy z nas ku ochronie czystości odzieży zrobił sobie spodnie z płótna żaglowego, które przywdziewaliśmy zawsze na wierzch, ile razy wypadała potrzeba występować w charakterze myśliwców lub drwali; nie mogliśmy jednak w zupełności zabezpieczyć się od złych wpływów. Woda też źródlana, pomimo żeśmy jej wcale nie oszczędzali, nie mogła zwalczyć coraz bardziej na jaw wychodzących skutków przykrych zajęć, do których codziennie zmuszała nas potrzeba. Byliśmy więc skazani na smutną alternatywę: wystawiania swych sił na największe próby, albo też stania się przedmiotem obrzydliwości dla samych siebie.
 
 Wtedy to przyszła mi myśl wzięcia się do przygotowania mydła; kiedym o tem wspomniał mym towarzyszom, przyjęli mój projekt z pewnem powątpiewaniem o możności jego urzeczywistnienia i trochę drwiącemi słowami zachęty. Nie mogli pojąć, skąd potrafię sobie zdobyć potrzebne do tego materyały, gdym nigdy nie popisywał się przed nimi znajomością sposobów magicznych lub wszechwładnych słów kabalistycznych. Nic im na to nie odpowiedziałem, zachowując sobie przyjemność trafienia do ich przekonania dopiero skutkami doświadczeń, do których dnia następnego wziąć się zamierzałem.
 
@@ -944,6 +742,9 @@ Zapomniałem powiedzieć dotąd, że pomiędzy przedmiotami ocalonymi z okrętu,
 
 Musgrave ze swej strony co tydzień albo co drugą niedzielę w osobnym swoim dzienniku prowadził treściwy opis naszych przygód (¹).
 
+> 
+*(¹) Ten dziennik Musgrave'a, prowadzony w języku angielskim, również ogłoszony został drukiem. — Przyp. Aut.*
+
 Umówiliśmy się już pomiędzy sobą, na najnieszczęśliwszy przypadek, gdybyśmy byli zmuszeni zginąć na tej odludnej wyspie, że ten, kto wszystkich przeżyje, zamknie oba te dzienniki w blaszane pudełko i ukryje takowe pod kupką kamieni przed drzwiami domku, aby na wypadek zawinięcia w te okolice jakiego statku, załoga jego mogła zabrać tę po nas spuściznę i uwiadomić naszych ziomków, choć może nie współczesnych, o smutnym losie naszego gronka.
 
 **Piątek, 5 lutego.** — Od 30 stycznia dęły kilkakrotnie silne wiatry przeważnie od zachodu i panowały ulewne deszcze. Onegdaj, a szczególniej wczoraj, wiatr był bardzo gwałtowny; dziś ruch powietrza umiarkowany od północo-zachodu, pogoda piękna i ciepło.
@@ -953,10 +754,6 @@ Musgrave, Jerzy i Henryk poszli próbować wycieczki na górę, u stóp której 
 Dzielny ten Norwegczyk, człowiek nader czynny i pracowity, musiał niezawodnie nadużyć swych sił w ostatnich dniach nad znoszeniem wiązek słomy, kamieni i drzewa na wzgórek, to też jego niedomaganie jest tylko prawdopodobnie wynikiem tych nadmiernych wysileń. Oby przynajmniej nie było inaczej.
 
 Od czasu mojej ciężkiej choroby, na widok najlżejszego niedyspozycji którego z towarzyszów doznaję śmiertelnej obawy o ich zdrowie i życie. Jestem pewny, że w obecnych okolicznościach śmierć któregoś z nas bardzo zgubnie by oddziałała na stronę moralną reszty, a tym sposobem mogłaby spowodować najfatalniejsze następstwa. To też w codziennych modlitwach gorące zanoszę prośby do Pana Zastępów, iżby w tak ciężkiem utrapieniu, chociaż tej próby raczył nam oszczędzić.
-
----
-
-*(¹) Ten dziennik Musgrave'a, prowadzony w języku angielskim, również ogłoszony został drukiem. — Przyp. Aut.*
 
 <!-- page 102 -->
 
@@ -968,11 +765,7 @@ Poprzedniego wieczora trzej nasi towarzysze niezmiernie strudzeni wrócili z wyc
 
 Przy posiłku z wielkiem ożywieniem mówili o tem, co widzieli podczas wyprawy na górę, z której prócz tego Musgrave złożył mi oddzielnie szczegółowe sprawozdanie.
 
-Wydostawszy się nie bez trudności z zarośli i minąwszy pas większych drzew, mieli i tam przeprawę bardzo utrudnioną. Grunt stawał się tam coraz bardziej błotnistym, a przytem był zarośnięty
-
-<!-- page 103 -->
-
-mnóstwem krzaków, lijanów i traw najrozmaitszych, które z powodu poplątania się razem, tworzyły zaporę prawie nieprzebytą. Szukając sposobu przedostania się przez gęstwinę, znaleźli nareszcie tuż przy ziemi dziurę, jakby rodzaj tunelu, przez który prawdopodobnie przedostawały się w dalsze okolice niewielkie lwy morskie, chociaż i te zwierzęta musiały to czynić, wyciągając o ile możności swe ciało i spuszczając głowy. Nie było innej rady przedłużenia podróży nad udanie się tą drogą. Pokładli się nasi wędrowcy na brzuchach i z narażeniem się na spotkanie się oko w oko z jakim idącym z przeciwnej strony lwem morskim, poczęli się czołgać w tym ciasnym kanale, przebywając wciąż grunt błotnisty, a nawet niejedną kałużę. Po wydostaniu się z kanału, odzież ich była pokryta warstwą czarnego błota, którą musieli zgarniać nożami.
+Wydostawszy się nie bez trudności z zarośli i minąwszy pas większych drzew, mieli i tam przeprawę bardzo utrudnioną. Grunt stawał się tam coraz bardziej błotnistym, a przytem był zarośnięty<!-- page 103 --> mnóstwem krzaków, lijanów i traw najrozmaitszych, które z powodu poplątania się razem, tworzyły zaporę prawie nieprzebytą. Szukając sposobu przedostania się przez gęstwinę, znaleźli nareszcie tuż przy ziemi dziurę, jakby rodzaj tunelu, przez który prawdopodobnie przedostawały się w dalsze okolice niewielkie lwy morskie, chociaż i te zwierzęta musiały to czynić, wyciągając o ile możności swe ciało i spuszczając głowy. Nie było innej rady przedłużenia podróży nad udanie się tą drogą. Pokładli się nasi wędrowcy na brzuchach i z narażeniem się na spotkanie się oko w oko z jakim idącym z przeciwnej strony lwem morskim, poczęli się czołgać w tym ciasnym kanale, przebywając wciąż grunt błotnisty, a nawet niejedną kałużę. Po wydostaniu się z kanału, odzież ich była pokryta warstwą czarnego błota, którą musieli zgarniać nożami.
 
 Nareszcie ta gęstwina krzaków i krzewin zaczęła rzednąć i w końcu zupełnie ustąpiła miejsca trawie, porastającej gęstemi kępami, podobnie jak na wybrzeżu, chociaż był to inny gatunek i liście jej nie były tak ostre; grunt podnosił się ustawicznie, roślinność rzedniała coraz bardziej, a w końcu zupełnie znikła. Pozostały już tylko szare skały, stanowiące wierzchołek góry.
 
@@ -980,11 +773,7 @@ Tu już trzeba było dosłownie piąć się pod górę, i to chwilami z narażen
 
 Dokoła siebie widzieli same szczyty gór, ostrych kształtów, skały i urwiska. Gdzieniegdzie błyszczący lodnik wspaniale odbijał promienie słoneczne. Po stokach gór spływały rącze potoki, podsycane wodą z chmur, skupiających się ustawicznie u szczytów, a wijąc się w różnych kierunkach, wyglądały na srebrzyste wstęgi, oplatające góry.
 
-Rozpatrując się bliżej w okolicy, poznali wyspę Adama, najbardziej ze wszystkich wyniesioną, która od południa zamykała ho-
-
-<!-- page 104 -->
-
-ryzont. Na zachodzie, w kierunku od północy ku południowi, ciągnął się długi łańcuch najrozmaiciej poszczerbiony i wyglądający na jakąś olbrzymią fortecę. Każda szczerba w jej murach była głęboką przepaścią. Ku północy widać było kilka poprzecznych gałęzi, wybiegających z głównego pnia i coraz bardziej malejących, tak że w końcu zbiegały się na wschodzie z nadbrzeżnemi urwiskami. Odnogi te dzieliły grunt wyspy na kilka głębokich bruzd, w które mniej lub więcej daleko wlewać się musiało morze, tworząc zatoki, których jednak dojrzeć nie było można. Jedną najbliższą z tych bocznych gałęzi gór wieńczyły dwa szczyty, wznoszące się jeden przy drugim, były to góry zwane Szczytem i Grobem Olbrzyma. Jeszcze bliżej od nich na wschodzie widać było odosobnioną skałę z wydrążoną u samego szczytu jaskinią.
+Rozpatrując się bliżej w okolicy, poznali wyspę Adama, najbardziej ze wszystkich wyniesioną, która od południa zamykała ho<!-- page 104 -->ryzont. Na zachodzie, w kierunku od północy ku południowi, ciągnął się długi łańcuch najrozmaiciej poszczerbiony i wyglądający na jakąś olbrzymią fortecę. Każda szczerba w jej murach była głęboką przepaścią. Ku północy widać było kilka poprzecznych gałęzi, wybiegających z głównego pnia i coraz bardziej malejących, tak że w końcu zbiegały się na wschodzie z nadbrzeżnemi urwiskami. Odnogi te dzieliły grunt wyspy na kilka głębokich bruzd, w które mniej lub więcej daleko wlewać się musiało morze, tworząc zatoki, których jednak dojrzeć nie było można. Jedną najbliższą z tych bocznych gałęzi gór wieńczyły dwa szczyty, wznoszące się jeden przy drugim, były to góry zwane Szczytem i Grobem Olbrzyma. Jeszcze bliżej od nich na wschodzie widać było odosobnioną skałę z wydrążoną u samego szczytu jaskinią.
 
 Na dalszem tle obrazu, u północnego krańca wyspy Aukland, dosyć wyraźnie odznaczało się kilka oddzielnych wysp, z których największa i dość płaska musiała być wyspą Enderby.
 
@@ -1010,11 +799,7 @@ Mieliśmy jedną próżną butelkę; Musgrave tedy jeszcze przed udaniem się na
 
 Podczas gdy ja zajęty byłem fabrykacyą mego mydła, Musgrave z dwoma zdrowymi towarzyszami udał się na pokład rozbitego statku, dla dobycia zeń jak największej liczby desek. Przy pomocy żelaznych szczypców trójka ta wyrwała przegrodę, przedzielającą kajutę od spodniej jamy okrętu, i zdobyła tym sposobem pewną liczbę gwoździ, które mogą nam być bardzo przydatne przy sporządzeniu mebli do naszej chatki. Zabrała też wszystko, co jeszcze pozostało z wąskich a długich balów, stanowiących burtę okrętową, z przeznaczeniem ich na podłogę, konieczną dla uczynienia zdrową naszej nowej siedziby.
 
-**Niedziela, 7 lutego.** Lekki wiatr zachodni, czas pogodny, barometr się podnosi. Zaraz rano spuściliśmy łódź naszą na wodę, i udaliśmy się na zatokę w zamiarze zatknięcia sygnału na brzegu
-
-<!-- page 106 -->
-
-półwyspu Musgrave'a, położonego naprzeciw głównego otworu portu Carnleya. Alick, który już zupełnie przyszedł do zdrowia, towarzyszył nam także w tej wyprawie.
+**Niedziela, 7 lutego.** Lekki wiatr zachodni, czas pogodny, barometr się podnosi. Zaraz rano spuściliśmy łódź naszą na wodę, i udaliśmy się na zatokę w zamiarze zatknięcia sygnału na brzegu<!-- page 106 --> półwyspu Musgrave'a, położonego naprzeciw głównego otworu portu Carnleya. Alick, który już zupełnie przyszedł do zdrowia, towarzyszył nam także w tej wyprawie.
 
 Na jednym z cyplów półwyspu, a prawie na środku zatoki, znaleźliśmy miejsce wyniesione ponad największą wysokość przypływu i zupełnie odkryte, które nam się wydało bardzo odpowiednim naszym zamiarom. Wbiliśmy tu tedy w miękką ziemię do znacznej głębokości długą i mocną tykę, z przywiązaną u wierzchu flagą z płótna żaglowego. Tyka ta wzmocnioną jeszcze została przez przywiązanie jej czterema sznurami do wbitych w tym celu w ziemię kołków. Poniżej flagi przywiązaliśmy butelkę, zawierającą informacyję zredagowaną na dwa dni przedtem przez Musgrave'a.
 
@@ -1022,31 +807,21 @@ Podczas tej wycieczki tego ostatniego omal co nie spotkał fatalny przypadek. Ki
 
 Bywaliśmy zwykle zaopatrzeni w pałki, skorośmy się puszczali w zarośla, tym jednak razem Musgrave zamiast pałki wziął moją fuzyję, nabitą przed kilku dniami, której nigdy nie zostawiałem w domu, gdyśmy się wybierali na wodę.
 
-Podczas pościgu za foką, znalazłszy się w odpowiedniej od zwierzęcia odległości, Musgrave strzelił do niego. Pierwsza lufa wypaliła, ponieważ jednak nabita była szrutem, przeto nie wyrządziła foce żadnej krzywdy; widząc to, Musgrave pociągnął za drugi cyngiel, nabój jednak się nie zapalił. Zbiwszy napróżno trzy pistony, zniechęcony strzelec miał zamiar oprzeć kolbę na ziemi, by nabić pierwszą lufę, gdy nagle druga wypaliła. Kula przebiła rondo jego kapelusza tuż przy czole. Z twarzą osmoloną prochem i rysami zmienionymi z powodu nagłego wzruszenia, Musgrave rzucił broń, oparłszy się na chwilę o pień stojącego za nim drzewa. Myśląc, że jest raniony, opuściliśmy polowanie i wszyscy zbiegliśmy
+Podczas pościgu za foką, znalazłszy się w odpowiedniej od zwierzęcia odległości, Musgrave strzelił do niego. Pierwsza lufa wypaliła, ponieważ jednak nabita była szrutem, przeto nie wyrządziła foce żadnej krzywdy; widząc to, Musgrave pociągnął za drugi cyngiel, nabój jednak się nie zapalił. Zbiwszy napróżno trzy pistony, zniechęcony strzelec miał zamiar oprzeć kolbę na ziemi, by nabić pierwszą lufę, gdy nagle druga wypaliła. Kula przebiła rondo jego kapelusza tuż przy czole. Z twarzą osmoloną prochem i rysami zmienionymi z powodu nagłego wzruszenia, Musgrave rzucił broń, oparłszy się na chwilę o pień stojącego za nim drzewa. Myśląc, że jest raniony, opuściliśmy polowanie i wszyscy zbiegliśmy<!-- page 108 --><!-- page 109 --> się do niego, a foka tymczasem, korzystając z zamieszania, dobiegła spokojnie do brzegu i uszła przed pogonią, rzucając się w morze.
 
 <!-- page 107 -->
 
 ![Zabiłem ich dwadzieścia sześć.](img/09_26.jpg)
 
-<!-- page 108 -->
-
-<!-- page 109 -->
-
-się do niego, a foka tymczasem, korzystając z zamieszania, dobiegła spokojnie do brzegu i uszła przed pogonią, rzucając się w morze.
-
 Po ustawieniu sygnału wzięliśmy się do obejrzenia miejscowości, gdyż tak Musgrave jak i ja przy każdej wycieczce na morze mieliśmy zwyczaj zdejmowania planu odpowiedniej części portu. Przyjęliśmy w tym celu system trójkątowania, którego podstawą była nasza busola. Nie zaniedbywaliśmy też nigdy zabierać ze sobą sondy, dla mierzenia głębokości morza.
 
 Podczas powrotnej żeglugi na jednym z cyplów spostrzegliśmy wielkie stado kormoranów. Ptaki te, mające prawie tę samą wielkość co kaczki, bardzo często dają się spotykać na Auklandach. Prawie zawsze siadają one na najniższych ze skał, wysuniętych w zatokę, albo też unoszą się ponad samą powierzchnią fali, polując na sardynki, które stanowią bardzo pożądaną dla nich strawę (\*).
 
+> *(\*) I my próbowaliśmy kilkakrotnie połowu sardynek i fabrykowaliśmy w tym celu sieci z szarpi z płótna żaglowego, ale za każdym razem lwy morskie, chciwie uganiające się za temi rybami, rwały nam sieci; musieliśmy się więc wyrzec tego przysmaku.*
+
 Pragnąc nieco urozmaicić jednostajną naszą strawę, wystrzeliłem dwa razy do kormoranów i zabiłem ich dwadzieścia sześć. Mięso ich, pomimo zbytniego przejęcia tłuszczem, wydało nam się daleko smaczniejszem niż lwów morskich.
 
 Płynąc ciągle wzdłuż pobrzeża, mieliśmy sposobność robienia spostrzeżeń nad budową wyspy. Wydała nam się ona złożoną z bazaltu, trapu, szarawych żużli wulkanicznych, nie bardzo gąbczastych i bardzo twardych, oraz niewielkiej liczby żył jakiegoś zielonawego, miękkiego kamienia. Gdzieniegdzie na brzegach morskich znajdowaliśmy bryły zlepków, złożonych z drobnych kamieni, spojonych ze sobą lawą, która w odłamie miała piękny kolor purpurowy, wpadający czasem w fijoletowawy. Przez cały czas pobytu naszego na Auklandach nie znaleźliśmy nigdy śladu piaskowców, łupków, gliny ani też kredy.
-
----
-
-*(\*) I my próbowaliśmy kilkakrotnie połowu sardynek i fabrykowaliśmy w tym celu sieci z szarpi z płótna żaglowego, ale za każdym razem lwy morskie, chciwie uganiające się za temi rybami, rwały nam sieci; musieliśmy się więc wyrzec tego przysmaku.*
-
-Rozbitki na Auklandach.
 
 <!-- page 110 -->
 
@@ -1058,17 +833,13 @@ Zacząwszy od tego miejsca wiatr zachodni stawał się coraz silniejszym, tak ż
 
 Po spożyciu z wielkim apetytem posiłku, przyrządzonego nam przez Henryka, zużyliśmy resztę dnia na skubanie kormoranów, któreśmy następnie pozawieszali parami na najwyższych gałęziach drzew okolicznych, dla uchronienia ich o ile możności od much, które, według dokonanych przez nas spostrzeżeń, nie latały nigdy bardzo wysoko, zapewne z przyczyny wiatrów. Pod tym względem osiągnęliśmy jak największe powodzenie, ale za to wkrótce spostrzegliśmy inną niedogodność takiego ich pomieszczenia, która nam przedtem wcale nie przyszła do głowy. Bystrookie jastrzębie natychmiast spostrzegły przynętę, którąśmy jakby umyślnie dla nich tam umieścili, i tłumnie się do niej zbiegły. Posiadawszy na sąsiednich drzewach, pożądliwem okiem zdawały się spoglądać na naszą zwierzynę, jakby oczekując tylko stosownej chwili do rzucenia się na tak łakomy kąsek. Pośpieszyliśmy się więc ze zdjęciem ptaków z gałęzi, przez co ci rabusie pozbawieni zostali zdobyczy, którą już pewno za swoją uważali.
 
-Za zbliżeniem się jastrzębi wszyscy pięknopiórzy śpiewacy, którzy zwykle zgromadzali się w bliskości naszej siedziby, uprzyjemniając nam prace swymi popisami, usunęli się gdzieś w najgęstsze
-
-<!-- page 111 -->
-
-zarośla, skąd nas tylko dochodziły jakieś ostre a krótkie ich krzyki, wydawane jakby dla wzajemnego ostrzeżenia się o obecności srogiego nieprzyjaciela. Te to okrzyki ostrzegły nas jeszcze dość wcześnie o niebezpieczeństwie.
+Za zbliżeniem się jastrzębi wszyscy pięknopiórzy śpiewacy, którzy zwykle zgromadzali się w bliskości naszej siedziby, uprzyjemniając nam prace swymi popisami, usunęli się gdzieś w najgęstsze<!-- page 111 -->zarośla, skąd nas tylko dochodziły jakieś ostre a krótkie ich krzyki, wydawane jakby dla wzajemnego ostrzeżenia się o obecności srogiego nieprzyjaciela. Te to okrzyki ostrzegły nas jeszcze dość wcześnie o niebezpieczeństwie.
 
 <!-- page 112 -->
 
-# ROZDZIAŁ IX.
+## ROZDZIAŁ IX.
 
-## RZEŹ NIEWINIĄTEK. — NASZE SPRZĘTY DOMOWE. — PRZYJĘCIE STAŁEGO TRYBU ŻYCIA. — NAUKA WIECZORNA. — ZABAWY.
+### RZEŹ NIEWINIĄTEK. — NASZE SPRZĘTY DOMOWE. — PRZYJĘCIE STAŁEGO TRYBU ŻYCIA. — NAUKA WIECZORNA. — ZABAWY.
 
 **Poniedziałek, 8.** Cały ranek spędziliśmy na wycinaniu śród zarośli i znoszeniu na wzgórek sztuk drzewa, potrzebnych nam na podłogę, którą zamierzyliśmy ułożyć w naszej chatce. W południe zaczął padać ulewny deszcz, który ustał dopiero wieczorem; ale od czasu pokrycia dachu na domku, mogliśmy wygodnie w jego wnętrzu prowadzić dalej roboty, które poprzednio każdy deszcz nam przerywał.
 
@@ -1086,37 +857,19 @@ W sobotę po południu towarzysze moi uzbroili się w pałki, ja zaś w swą fuz
 
 Znaleźliśmy po drodze bardzo piękną, prawie kwadratową buchtę, przy otworze nieco rozszerzoną. W dwu jej kątach uchodziły do morza obfite strumienie. Spostrzegliśmy w tem miejscu kilka dzikich kaczek, które w porównaniu z innymi ptakami wyspy okazywały nadzwyczajną bojaźliwość. Wnosiliśmy z tego, że muszą one mieć jakichś wrogów, za których poczytywaliśmy lwy morskie. Wkrótce jednak przekonaliśmy się o fałszywości naszego przypuszczenia, albowiem pojawiło się naraz kilka fok, które bujając po zatoce, nie zaczepiały kaczek i żadnej bojaźni w nich nie wywoływały. Tymczasem za naszem zbliżaniem się ptaki te natychmiast odlatywały dalej.
 
-Ukryliśmy się zatem na czas jakiś w zaroślach, spodziewając się tym sposobem zachęcić kaczki do zbliżenia się ku nam, i nie napróżno na nie oczekiwaliśmy. Po bardzo bowiem krótkim przeciągu
-
-<!-- page 114 -->
-
-czasu wróciły nad zatokę i zaczęły plądrować dziobami przy ujściu jednego ze strumieni, polując na drobne zwierzątka wodne. Podsunąłem się wtedy ku nim ostrożnie na odległość strzału i kiedym wypalił, aż trzy padły bez życia. Nie warte były jednak tak kosztownego w naszych warunkach bytu naboju prochu, należały bowiem do bardzo drobnego gatunku. Przyrzekłem też sobie odtąd na lepszą sposobność chować niewielkie zapasy amunicyi.
+Ukryliśmy się zatem na czas jakiś w zaroślach, spodziewając się tym sposobem zachęcić kaczki do zbliżenia się ku nam, i nie napróżno na nie oczekiwaliśmy. Po bardzo bowiem krótkim przeciągu<!-- page 114 --> czasu wróciły nad zatokę i zaczęły plądrować dziobami przy ujściu jednego ze strumieni, polując na drobne zwierzątka wodne. Podsunąłem się wtedy ku nim ostrożnie na odległość strzału i kiedym wypalił, aż trzy padły bez życia. Nie warte były jednak tak kosztownego w naszych warunkach bytu naboju prochu, należały bowiem do bardzo drobnego gatunku. Przyrzekłem też sobie odtąd na lepszą sposobność chować niewielkie zapasy amunicyi.
 
 Przebywszy z łatwością strumień z powodu słabego przypływu, przy czem zamoczyliśmy się zaledwie do kolan, przybyliśmy w dalszym ciągu pochodu na dosyć rozległą równinę, pokrytą żwirem, która była pierwszą w tym rodzaju, napotkaną przez nas na wyspie. Pole to ciągnęło się wzdłuż jednego brzegu zatoki na przestrzeni może ze dwustu metrów.
 
 Mogliśmy więc choć raz zrobić kilkaset kroków po gruncie płaskim i równym. Dotychczas zaś od samego dnia rozbicia zawsze nam przychodziło wchodzić pod górę, zsuwać się na dół, drapać się na skały lub przedzierać się przez pnie drzew, tutaj zaś po raz pierwszy mogliśmy się posuwać swobodnie, bez wysileń, słowem iść, we właściwem tego wyrazu znaczeniu. Trudno opisać przyjemność, jaką nam sprawiało przebieganie tej równiny krokiem pewnym i jednostajnym. Jakiegoż to niewysłowionego powabu nabierają najzwyczajniejsze rzeczy, gdy się ich jest przez długi czas pozbawionym!
 
-Kiedyśmy doszli na drugi koniec równiny, ujrzeliśmy nagle wielkiego lwa morskiego, wynurzającego się z wody i śpieszącego wprost ku nam z głośnym rykiem. Na tak niespodziewany napad poodsuwaliśmy się jeden od drugiego, a foka zatrzymała się natychmiast, jakby rozmyślając, na którego naprzód się rzucić. Jerzy, stojący najbliżej zwierza, korzystając z chwili gdy tenże zwrócił oczy na mnie, podsunął się doń w zamiarze uderzenia pałką. Lew, zdziwiony śmiałością naszego towarzysza, zwrócił się natychmiast ku niemu i już był gotów do poczęstowania go zębami, gdy Jerzy wymierzył mu potężny cios pałką między same oczy. Ogłuszone zwierzę upadło plackiem na żwir; przez chwilę mocno biło w ziemię
-
-<!-- page 115 -->
-
-<!-- page 116 -->
-
-![Zwierz, zdziwiony, obraca się.](img/10_zwierz.jpg)
-
-<!-- page 117 -->
-
-przedniemi płetwami, ale wkrótce zaprzestało tych ruchów, skończyło bowiem życie.
+Kiedyśmy doszli na drugi koniec równiny, ujrzeliśmy nagle wielkiego lwa morskiego, wynurzającego się z wody i śpieszącego wprost ku nam z głośnym rykiem. Na tak niespodziewany napad poodsuwaliśmy się jeden od drugiego, a foka zatrzymała się natychmiast, jakby rozmyślając, na którego naprzód się rzucić. Jerzy, stojący najbliżej zwierza, korzystając z chwili gdy tenże zwrócił oczy na mnie, podsunął się doń w zamiarze uderzenia pałką. Lew, zdziwiony śmiałością naszego towarzysza, zwrócił się natychmiast ku niemu i już był gotów do poczęstowania go zębami, gdy Jerzy wymierzył mu potężny cios pałką między same oczy. Ogłuszone zwierzę upadło plackiem na żwir; przez chwilę mocno biło w ziemię<!-- page 117 -->przedniemi płetwami, ale wkrótce zaprzestało tych ruchów, skończyło bowiem życie.
 
 Mając zamiar zabić lwa morskiego, jakeśmy się o tem później przekonali, nie tyle starać się należy o moc jak o trafność uderzenia. Należy zawsze wymierzać cios w miejsce najsłabsze, a mianowicie między oczy, jak to bardzo zręcznie uczynił tym razem Jerzy.
 
 Faktem dobrze znanym naturalistom, który jednak nas z początku bardzo dziwił, jest niezmierna obfitość, i to bardzo gorącej, krwi u fok. Kiedyśmy postanowili upuścić krew z naszej zdobyczy, wytrysnął z jej rany potężny strumień krwi, który przez długi czas sączył się po żwirze ku morzu i na znacznej przestrzeni zarumienił wody zatoki.
 
-Zaledwieśmy się z jedną sztuką załatwili, ujrzeliśmy naraz aż trzy samice, wychodzące z wody i wydające przeciągłe ryki, na których odgłos odezwało się zaraz z pobliskich zarośli kilka słabych beków. Usłyszawszy to, opuściliśmy natychmiast starą fokę, a poszliśmy natomiast w zarośla za głosem młodych i wkrótce spostrzegliśmy wszystkie trzy, spoczywające razem pod pochyłym pniem drzewa. Jedna z nich, wychyliwszy się prawie zupełnie ze swej osłony, odpowiadała z całych sił na wołanie matki, gdy tymczasem dwie inne, bojaźliwsze nieco, wysuwały tylko zza niej swe głowy. Zobaczywszy nas, wszystkie trzy cofnęły się najprzód pod przykrywający je pień, lecz nagle pod wpływem instynktu zachowawczego, słusznie uważając nas za swych wrogów, opuściły śpiesznie swe schronienie i zaczęły uciekać, jak tylko mogły najprędzej. Pomimo dość znacznej szybkości ich biegu, potrafiliśmy je w niedługim czasie dogonić, ponieważ zarośla były w tem miejscu dość rzadkie i nie tamowały nam swobody ruchów. Nie zapomnę nigdy żałosnego i prawdziwie wzruszającego wyrazu oczu tych zwierząt. Odgadując niezawodnie nasze zamiary, zatrzymały się razem u stóp jednego z większych drzew i spoglądały na nas jakimś łzawym wzrokiem, jakby istotnie chciały w nas obudzić litość i wyjednać sobie przebaczenie. Zostaliśmy rzeczywiście temi spojrzeniami
-
-<!-- page 118 -->
-
-wzruszeni i mieliśmy wielką ochotę darować im życie, lecz niestety potrzeba pokarmu kazała nam słuchać rozumu, nie uczucia. Nie bez przykrego jakiegoś uczucia, a nawet rzec by można, nie bez wyrzutów sumienia, spełniliśmy tę przykrą egzekucję, prawdziwą rzeź niewiniątek.
+Zaledwieśmy się z jedną sztuką załatwili, ujrzeliśmy naraz aż trzy samice, wychodzące z wody i wydające przeciągłe ryki, na których odgłos odezwało się zaraz z pobliskich zarośli kilka słabych beków. Usłyszawszy to, opuściliśmy natychmiast starą fokę, a poszliśmy natomiast w zarośla za głosem młodych i wkrótce spostrzegliśmy wszystkie trzy, spoczywające razem pod pochyłym pniem drzewa. Jedna z nich, wychyliwszy się prawie zupełnie ze swej osłony, odpowiadała z całych sił na wołanie matki, gdy tymczasem dwie inne, bojaźliwsze nieco, wysuwały tylko zza niej swe głowy. Zobaczywszy nas, wszystkie trzy cofnęły się najprzód pod przykrywający je pień, lecz nagle pod wpływem instynktu zachowawczego, słusznie uważając nas za swych wrogów, opuściły śpiesznie swe schronienie i zaczęły uciekać, jak tylko mogły najprędzej. Pomimo dość znacznej szybkości ich biegu, potrafiliśmy je w niedługim czasie dogonić, ponieważ zarośla były w tem miejscu dość rzadkie i nie tamowały nam swobody ruchów. Nie zapomnę nigdy żałosnego i prawdziwie wzruszającego wyrazu oczu tych zwierząt. Odgadując niezawodnie nasze zamiary, zatrzymały się razem u stóp jednego z większych drzew i spoglądały na nas jakimś łzawym wzrokiem, jakby istotnie chciały w nas obudzić litość i wyjednać sobie przebaczenie. Zostaliśmy rzeczywiście temi spojrzeniami<!-- page 118 --> wzruszeni i mieliśmy wielką ochotę darować im życie, lecz niestety potrzeba pokarmu kazała nam słuchać rozumu, nie uczucia. Nie bez przykrego jakiegoś uczucia, a nawet rzec by można, nie bez wyrzutów sumienia, spełniliśmy tę przykrą egzekucję, prawdziwą rzeź niewiniątek.
 
 Niepodobieństwem byłoby zabrać odrazu na barki starego lwa i trzy młode, a ponieważ pierwszy wydzielał z siebie woń prawie odrażającą i nie zapowiadał przez to wielkiego przysmaku ze swego mięsa, poświęciliśmy go więc dla młodych, które nas na kilka dni uwolniły od kłopotania się o pożywienie.
 
@@ -1124,11 +877,7 @@ Niepodobieństwem byłoby zabrać odrazu na barki starego lwa i trzy młode, a p
 
 Podczas ostatniej swej wycieczki na Graftona, Musgrave, Alick i Jerzy, oprócz desek, które były głównym celem ich podróży, przywieźli też ze sobą kwadratową skrzynię, tak od zewnątrz jak i od wewnątrz obitą blachą żelazną i podzieloną na dwie przegrody. Skrzynia ta przytwierdzona była do jednej ze ścian kajuty i służyła nam do chowania mąki i biskwitów przed kilkoma szczurami, które nam towarzyszyły w podróży. Dwa wieka, osadzone na zawiasach, przytwierdzonych z drugiej strony do przegrody skrzyni, i stanowiące razem płaszczyznę nieco większą od powierzchni samej skrzyni, tworzyły po przykryciu ceratą wyborny stół.
 
-Sprzęt ten umieściliśmy przy północnej ścianie chatki pod jednem z trzech okienek. Miał on służyć za biurko dla mnie i dla Musgrave'a. Ponad tak zaimprowizowanym stołem umieściliśmy chronometr, narzędzia żeglarskie i biblijoteczkę. Ostatni wyraz wydać się może nie pretensyjonalnym; ponieważeśmy posiadali trzy tylko czy cztery tomy, a mianowicie: Pismo Święte, Raj utracony Miltona i jeden czy dwa romansy angielskie, którym do całości brakło niejednej stronnicy. Dwa dzienniki, przez nas spisywane, zajęły miejsce obok książek. Do ozdoby mieszkania przyczy-
-
-<!-- page 119 -->
-
-niło się jeszcze zwierciadło, a raczej małe lusterko w mahoniowych ramach, zawieszone przy oknie.
+Sprzęt ten umieściliśmy przy północnej ścianie chatki pod jednem z trzech okienek. Miał on służyć za biurko dla mnie i dla Musgrave'a. Ponad tak zaimprowizowanym stołem umieściliśmy chronometr, narzędzia żeglarskie i biblijoteczkę. Ostatni wyraz wydać się może nie pretensyjonalnym; ponieważeśmy posiadali trzy tylko czy cztery tomy, a mianowicie: Pismo Święte, Raj utracony Miltona i jeden czy dwa romansy angielskie, którym do całości brakło niejednej stronnicy. Dwa dzienniki, przez nas spisywane, zajęły miejsce obok książek. Do ozdoby mieszkania przyczy<!-- page 119 -->niło się jeszcze zwierciadło, a raczej małe lusterko w mahoniowych ramach, zawieszone przy oknie.
 
 Po obu stronach biurka, w rogach izby, Musgrave i ja poustawialiśmy swoje łóżka, pierwsze od strony drzwi, drugie obok komina. Muszę przyznać, że były one bardzo grubym wyrobem, stanowiły je bowiem poprostu dwie podłużne skrzynie, osadzone na czterech nogach, dla przewiewu powietrza od spodu. Skrzynie te były napełnione suchym mchem, któryśmy od czasu do czasu odświeżali. Nie wyrównywając bynajmniej pościeli z pierza lub włosia, mech ten stanowił jednak powłokę nieskończenie miększą od desek, które nam służyły za posłanie pod namiotem.
 
@@ -1152,7 +901,7 @@ Tego rodzaju myśli cisnęły mi się do głowy przez długi czas, kiedym się d
 
 Główne obowiązki tego głowy rodziny miały być następujące:
 
-**1-o.** Postępowaniem łagodnem, nie wykluczającem jednak stanowczości, utrzymywać porządek i zgodę pomiędzy członkami naszego kółka.
+**1-ód.** Postępowaniem łagodnem, nie wykluczającem jednak stanowczości, utrzymywać porządek i zgodę pomiędzy członkami naszego kółka.
 
 <!-- page 121 -->
 
@@ -1168,11 +917,7 @@ Takowy projekt ustawy przyjęty został przez towarzyszów, którzy podobnie jak
 
 **6-te.** Kółko ma prawo pozbawić władzy raz obranego głowę i wybrania innego w razie nadużycia przezeń władzy lub też używania jej w widokach osobistych lub otwarcie samolubnych.
 
-Poprawka takowa była bardzo roztropnem ograniczeniem głowy w razie okazywania przezeń zachcianek despotycznych, opanowujących bardzo często umysł przewodników, wybranych na skutek zaufania równych mu współobywateli; zastosowanie zaś tego środka było bardzo łatwem, a skuteczność jego niezawodna, ponieważ przełożony naszej małej rzeczypospolitej nie mógł posiadać siły zbrojnej do popierania swych zachcianek. Uważam jednak za konieczne nadmienić przy tej sposobności, że przez cały czas nasze-
-
-<!-- page 122 -->
-
-go pobytu na wyspie, nigdy nie byliśmy zmuszeni stosowania tego artykułu w praktyce.
+Poprawka takowa była bardzo roztropnem ograniczeniem głowy w razie okazywania przezeń zachcianek despotycznych, opanowujących bardzo często umysł przewodników, wybranych na skutek zaufania równych mu współobywateli; zastosowanie zaś tego środka było bardzo łatwem, a skuteczność jego niezawodna, ponieważ przełożony naszej małej rzeczypospolitej nie mógł posiadać siły zbrojnej do popierania swych zachcianek. Uważam jednak za konieczne nadmienić przy tej sposobności, że przez cały czas nasze<!-- page 122 -->go pobytu na wyspie, nigdy nie byliśmy zmuszeni stosowania tego artykułu w praktyce.
 
 Bez żadnej zwłoki ustawa powyższa spisana została na jednej z czystych kartek papieru, wklejonych w Biblię Musgrave'a. Miała ona być odczytywana w każdą niedzielę przed wspólną modlitwą, teraz zaś wszyscy po kolei, kładąc rękę na świętej księdze, przysięgaliśmy na posłuszeństwo i szanowanie naszej konstytucyi. Akt ten został dopełniony z największą powagą i przejęciem się ważnością chwili, nie był on bowiem żadną czczą formalnością, ale uroczystem zatwierdzeniem tego dobrowolnego naszego zobowiązania się, do którego braliśmy Boga na świadka.
 
@@ -1182,11 +927,7 @@ Od tej chwili zabierał on zawsze pierwsze miejsce przy stole i został zwolnion
 
 Pragnąc złożyć dowód dobrej woli i dać przykład posłuszeństwa nowemu porządkowi rzeczy, zażądałem rozpoczęcia kolei odemnie i rzeczywiście wziąłem się do pełnienia obowiązków gospodarskich przez ciąg pierwszego tygodnia, gdy tymczasem Musgrave z fuzyją na ramieniu, w towarzystwie trzech pozostałych towarzyszów, uzbrojonych w pałki i noże, wybrali się na polowanie. Gdy przyszła kolej na śniadanie, zabrałem się do mycia statków i nakrycia do stołu.
 
-Mówiąc o myciu statków, nie przesadzam bynajmniej, i, choćby mi przyszło narazić się na śmiech czytelnika, gotówem jeszcze powtórzyć, żem spełniał swe zadanie z największą starannością i uwagą. Przejęcie się tą czynnością będzie może łatwiej zrozumianem, skoro się czytelnicy dowiedzą, żeśmy posiadali tylko pięć talerzy fajansowych, z których jeden był pęknięty i dostawał się zawsze sprawującemu obowiązki gospodarza. Strata więc choćby jednego
-
-<!-- page 123 -->
-
-tylko talerza nie mogła być powetowaną, szczególną zaś przykrość przyniosłaby swemu sprawcy. Z tego powodu nigdy chyba żaden, choćby najkosztowniejszy, serwis sewrski lub saski nie doznawał tak troskliwej opieki jak nasz fajans. Muszę też przyznać się do wysokiego stopnia zadowolenia, nie wolnego zapewne od pewnego udziału dumy, na myśl: że czterech ludzi mogło kolejno po tygodniu trzy razy dziennie myć owe pięć talerzy przez półdwudziesta miesiąca, żadnego z nich nie uszkodziwszy.
+Mówiąc o myciu statków, nie przesadzam bynajmniej, i, choćby mi przyszło narazić się na śmiech czytelnika, gotówem jeszcze powtórzyć, żem spełniał swe zadanie z największą starannością i uwagą. Przejęcie się tą czynnością będzie może łatwiej zrozumianem, skoro się czytelnicy dowiedzą, żeśmy posiadali tylko pięć talerzy fajansowych, z których jeden był pęknięty i dostawał się zawsze sprawującemu obowiązki gospodarza. Strata więc choćby jednego<!-- page 123 --> tylko talerza nie mogła być powetowaną, szczególną zaś przykrość przyniosłaby swemu sprawcy. Z tego powodu nigdy chyba żaden, choćby najkosztowniejszy, serwis sewrski lub saski nie doznawał tak troskliwej opieki jak nasz fajans. Muszę też przyznać się do wysokiego stopnia zadowolenia, nie wolnego zapewne od pewnego udziału dumy, na myśl: że czterech ludzi mogło kolejno po tygodniu trzy razy dziennie myć owe pięć talerzy przez półdwudziesta miesiąca, żadnego z nich nie uszkodziwszy.
 
 Nie tyle staranności wymagało zabezpieczenie reszty naszych sprzętów gospodarskich, składającej się z kilku łyżek i widelców żelaznych, trzech również żelaznych kociełków, licząc w to już i wielki kocioł, o którym wyżej wspomniałem, kilku filiżanek z emaliowanej blachy, piecyka do smażenia i małego samowara. Nie mam nawet potrzeby mówić, żeśmy byli zmuszeni obywać się bez obrusa; ale dzięki częstemu użyciu mydła i wody stół nasz był utrzymywany zawsze w nieposzlakowanej czystości.
 
@@ -1194,35 +935,23 @@ Podczas zajmowania się obowiązkami gospodarskimi myślałem i o tem, by do zwy
 
 Ponieważ miejsce było bardzo dogodne, a pora przyjazna, udało mi się przeto od pierwszego razu ułowić kilka ryb, głównie dorszów, które się tu chroniły pomiędzy skały przed fokami, i kilkaset jadalnych ślimaków, zwanych kosmatkami (mytilus).
 
-Myśliwi, powróciwszy z wyprawy, zachwycili się na widok tak niezwykłej obfitości. Tym razem nawet spowszedniały już
-
-<!-- page 124 -->
-
-wszystkim kawałek pieczeni z lwa morskiego został prawie nietknięty, a moja smażona ryba i gotowane ślimaki nadzwyczaj wszystkim smakowały i wszystkie zniknęły. Za mało posiadam skromności, bym potrafił zataić, że niemała ztąd chwała przypadła w udziale autorowi obiadu.
+Myśliwi, powróciwszy z wyprawy, zachwycili się na widok tak niezwykłej obfitości. Tym razem nawet spowszedniały już<!-- page 124 --> wszystkim kawałek pieczeni z lwa morskiego został prawie nietknięty, a moja smażona ryba i gotowane ślimaki nadzwyczaj wszystkim smakowały i wszystkie zniknęły. Za mało posiadam skromności, bym potrafił zataić, że niemała ztąd chwała przypadła w udziale autorowi obiadu.
 
 Wieczorem Musgrave, śmiejąc się, zaproponował obmyślenie nazwiska dla naszej nowej siedziby. Wkrótce zamiast jednego znalazło się aż pięć, przyczem każdy starał się dowieść wyższości proponowanego przez siebie nad innemi. Dla położenia końca rozprawom zaproponowałem wypisanie każdego z nazwisk na oddzielnej karteczce, pozwijanie następnie tych karteczek, wrzucenie w kapelusz i wyciągnięcie jednego losem. Po spisaniu karteczek i wrzuceniu ich do zaimprowizowanej naprędce urny, Jerzy, jako najmłodszy ze wszystkich, wyjął pierwszą lepszą, po otworzeniu której wyczytaliśmy na niej nazwę Epigwait, podawaną przez Musgrave'a. Wyraz ten, zapożyczony z języka czerwonoskórych mieszkańców Ameryki Północnej, odpowiada mniej więcej naszemu pobrzeżu, a raczej oznacza miejsce, położone nad brzegiem morza. Nazwa ta została tedy przyjęta i dlatego w dalszym ciągu używać jej będę, mając na myśli nasz domek, lub raczej wzgórze, na którem został wzniesiony.
 
-Wieczór ten był bardzo obfity w nowe pomysły. Przewidując, że szczególniej w porze zimowej będziemy zmuszeni przepędzać długie godziny w naszym domku z powodu krótkości dnia i ostrego klimatu wysp Auklandzkich, rozmyślaliśmy zawczasu o pożytecznych sposobach przepędzania czasu. Już teraz, chociaż to było lato, z powodu małych rozmiarów okien, byliśmy zmuszeni bardzo wcześnie zapalać lampy, przyczem zamykaliśmy zawsze starannie drzwi dla ochronienia się od napływu much. Po naprawieniu więc uszkodzeń w naszej odzieży, mieliśmy jeszcze do rozporządzenia bardzo wiele czasu, który trzeba przecież było czemkolwiek zapełnić. Wyjawiłem też towarzyszom myśl, która mi już i dawniej przychodziła, by urządzić szkołę wieczorną, czyli o ile możności wzajemnie udzielać sobie wiadomości. Henryk i Alick nie umieli ni czytać, ni pisać,
-
-<!-- page 125 -->
-
-zadaniem więc reszty było nauczyć ich tego; oni znowu, dla wywzajemnienia się, mieli nas uczyć swoich ojczystych języków, których my nie znaliśmy. Jerzy, który odebrał jakie takie początkowe wychowanie, miał dalej pod naszym kierunkiem uczyć się matematyki. Ja znowu oddzielnie miałem wszystkich uczyć języka francuskiego. Propozycyja moja przyjęta została z takim zapałem, że natychmiast trzeba się było zabrać do jej urzeczywistnienia, to też zaraz od dnia tego staliśmy się wszyscy wzajemnie nauczycielami i uczniami. Te nowe stosunki jeszcze bardziej zbratały nas ze sobą, a podnosząc jednych i czasowo zniżając drugich pod względem poziomu wykształcenia, zaprowadziły między nami najzupełniejszą równość.
+Wieczór ten był bardzo obfity w nowe pomysły. Przewidując, że szczególniej w porze zimowej będziemy zmuszeni przepędzać długie godziny w naszym domku z powodu krótkości dnia i ostrego klimatu wysp Auklandzkich, rozmyślaliśmy zawczasu o pożytecznych sposobach przepędzania czasu. Już teraz, chociaż to było lato, z powodu małych rozmiarów okien, byliśmy zmuszeni bardzo wcześnie zapalać lampy, przyczem zamykaliśmy zawsze starannie drzwi dla ochronienia się od napływu much. Po naprawieniu więc uszkodzeń w naszej odzieży, mieliśmy jeszcze do rozporządzenia bardzo wiele czasu, który trzeba przecież było czemkolwiek zapełnić. Wyjawiłem też towarzyszom myśl, która mi już i dawniej przychodziła, by urządzić szkołę wieczorną, czyli o ile możności wzajemnie udzielać sobie wiadomości. Henryk i Alick nie umieli ni czytać, ni pisać, <!-- page 125 -->zadaniem więc reszty było nauczyć ich tego; oni znowu, dla wywzajemnienia się, mieli nas uczyć swoich ojczystych języków, których my nie znaliśmy. Jerzy, który odebrał jakie takie początkowe wychowanie, miał dalej pod naszym kierunkiem uczyć się matematyki. Ja znowu oddzielnie miałem wszystkich uczyć języka francuskiego. Propozycyja moja przyjęta została z takim zapałem, że natychmiast trzeba się było zabrać do jej urzeczywistnienia, to też zaraz od dnia tego staliśmy się wszyscy wzajemnie nauczycielami i uczniami. Te nowe stosunki jeszcze bardziej zbratały nas ze sobą, a podnosząc jednych i czasowo zniżając drugich pod względem poziomu wykształcenia, zaprowadziły między nami najzupełniejszą równość.
 
 Do pożytku postanowiliśmy jeszcze dołączyć i przyjemność; zdawało nam się bowiem, że pewne rozrywki nie będą wcale rzeczą zbyteczną przy naszem jednostajnem życiu, to też postanowiliśmy sobie urządzić jakieś gry, co rzeczywiście uskuteczniliśmy dnia następnego.
 
 Z kawałka deski, przez wyświdrowanie kilku dziurek i wstawienie w nie artystycznie wystruganych kołków, Musgrave przygotował nam rzecz niezbędną do tak zwanej gry w samotnika. Ja znowu na nieco większym kawałku deski narysowałem warcabnicę i pomalowałem następnie jej pola na czarno i na biało, użyszy do tego wapna i sadzy roztartych z tłuszczem fok. Potem z dwu cienkich klepek, białej i czerwonej, przy pomocy swego scyzoryka, wykroiłem i same warcaby.
 
-Skorom już wspomniał o swym scyzoryku, to trzeba i coś więcej o nim powiedzieć! Jest to dług wdzięczności, koniecznie mu odemnie należny, ten bowiem stary towarzysz oddał mi bardzo wiele usług. Nie rozstawałem się z nim nigdy przez cały czas trudnienia się poszukiwaniem złota, a tym sposobem przebiegł on wraz ze mną znaczną przestrzeń lądu australskiego. Znalazłem go potem pewnego dnia w stanie opłakanym w kuferku, do którego się dostał podczas pobytu w Sydney. Był cały rdzą pokryty. Od chwili jednak znalezienia go rdza ani na chwilę nie mogła się już na nim pokazać, nie było bowiem dnia, a nawet rzec można godziny, w ciągu
-
-<!-- page 126 -->
-
-którejby pozostawał w spoczynku, posługując nawet czasem do niełada jakiej roboty. Był on zaopatrzony w małą piłkę, która także rzadko kiedy próżnowała. Przy budowie domku, robocie łóżek i innych sprzętów przerzynała ona takie deski, z jakiemi pewno nigdy nie spodziewała się mieć co do czynienia; a jednak przebyła szczęśliwie te ciężkie próby, nie straciwszy ani jednego zęba. Ileż to jednak innych posług prócz krajania i piłowania ów poczciwy scyzoryk był używany! Służył on mi za nóż ogrodniczy, za tasak, za nożyczki, za pilnik, szydło, i któżby zliczył, na jakie jeszcze użytki? Miał do czynienia z najrozmaitszymi materyjałami, a jednak wyszedł zwycięzko ze wszystkich prób i nie został wcale uszkodzony. Jakże doskonale musiał zostać zahartowanym ów kawałek stali, z którego był wyrobiony! Teraz przecie zszedł nakoniec na chleb łaskawy, tak słusznie należny wszystkim dobrym sługom; spoczywa bowiem w jednej z szuflad mego biurka wraz z kilkoma innemi pamiątkami moich podróży. Od czasu do czasu jednak oglądam go, mam dziwną przyjemność w pobawieniu się nim trochę, otwieraniu i zamykaniu jego ostrzów. Bez żadnej wątpliwości nie ustąpiłbym go za dziesięć, a choćby za dwadzieścia razy więcej ważącą bryłę złota.
+Skorom już wspomniał o swym scyzoryku, to trzeba i coś więcej o nim powiedzieć! Jest to dług wdzięczności, koniecznie mu odemnie należny, ten bowiem stary towarzysz oddał mi bardzo wiele usług. Nie rozstawałem się z nim nigdy przez cały czas trudnienia się poszukiwaniem złota, a tym sposobem przebiegł on wraz ze mną znaczną przestrzeń lądu australskiego. Znalazłem go potem pewnego dnia w stanie opłakanym w kuferku, do którego się dostał podczas pobytu w Sydney. Był cały rdzą pokryty. Od chwili jednak znalezienia go rdza ani na chwilę nie mogła się już na nim pokazać, nie było bowiem dnia, a nawet rzec można godziny, w ciągu<!-- page 126 --> którejby pozostawał w spoczynku, posługując nawet czasem do niełada jakiej roboty. Był on zaopatrzony w małą piłkę, która także rzadko kiedy próżnowała. Przy budowie domku, robocie łóżek i innych sprzętów przerzynała ona takie deski, z jakiemi pewno nigdy nie spodziewała się mieć co do czynienia; a jednak przebyła szczęśliwie te ciężkie próby, nie straciwszy ani jednego zęba. Ileż to jednak innych posług prócz krajania i piłowania ów poczciwy scyzoryk był używany! Służył on mi za nóż ogrodniczy, za tasak, za nożyczki, za pilnik, szydło, i któżby zliczył, na jakie jeszcze użytki? Miał do czynienia z najrozmaitszymi materyjałami, a jednak wyszedł zwycięzko ze wszystkich prób i nie został wcale uszkodzony. Jakże doskonale musiał zostać zahartowanym ów kawałek stali, z którego był wyrobiony! Teraz przecie zszedł nakoniec na chleb łaskawy, tak słusznie należny wszystkim dobrym sługom; spoczywa bowiem w jednej z szuflad mego biurka wraz z kilkoma innemi pamiątkami moich podróży. Od czasu do czasu jednak oglądam go, mam dziwną przyjemność w pobawieniu się nim trochę, otwieraniu i zamykaniu jego ostrzów. Bez żadnej wątpliwości nie ustąpiłbym go za dziesięć, a choćby za dwadzieścia razy więcej ważącą bryłę złota.
 
 <!-- page 127 -->
 
-# ROZDZIAŁ X.
+## ROZDZIAŁ X.
 
-## OSEŁKA. — KARTY. — POKUSA. — ZWIEDZENIE WYSPY ÓSEMKOWEJ. — PATRYARCHA FOK.
+### OSEŁKA. — KARTY. — POKUSA. — ZWIEDZENIE WYSPY ÓSEMKOWEJ. — PATRYARCHA FOK.
 
 Podczas pierwszego tygodnia, gdym codziennie budził towarzyszów o szóstej rano, mruczeli wszyscy zrazu na mą niewczesną gorliwość; wstawali jednak wszyscy, a wkrótce dobry ten zwyczaj stanowczo został wprowadzony.
 
@@ -1232,19 +961,13 @@ Pierwszeństwo przed każdem innem drzewem oddawaliśmy pewnemu gatunkowi żelaz
 
 Przez rąbanie tego drzewa siekiera nasza tak się poszczerbiła, żeśmy jej już prawie używać nie mogli. Codzienna tedy poranna pańszczyzna stawała się coraz uciążliwszą; musieliśmy się codzień bardziej mozolić nad wykonaniem małej stosunkowo roboty. Koniecznem więc było wynaleźć sposób na zaradzenie złemu.
 
-Rozbitki na Auklandach.
-
 <!-- page 128 -->
 
 Po daremnem szukaniu pomiędzy nadbrzeżnemi skałami jakiegokolwiek kamienia, zdatnego do ostrzenia, przypomniałem sobie kiedyś kawały piaskowca, zrzucone przed wyjazdem z Sydney'u na dno Graftona jako balast. Skorzystałem więc zaraz z pierwszego znaczniejszego odpływu, aby zrobić jeszcze jedną wycieczkę na rozbity statek. Przy pomocy pozostałej tam jeszcze liny, dostałem się na dno okrętu i tam, do połowy pogrążony w wodzie, szukałem przez długi czas napróżno upragnionego przedmiotu, albowiem podczas przypływu i odpływu morza, fale, przenikając do wnętrza statku, naniosły tam taką ilość błota, że poszukiwania moje zostały bardzo utrudnione. Potrafiłem jednak nareszcie znaleźć jeden kawał dla mnie odpowiedni; przywiązałem go do liny, a wydostawszy się sam po niej na pokład, wyciągnąłem tam następnie i upragnioną bryłę, którą potem zaniosłem na brzeg i do domu.
 
 Przed opuszczeniem ofiary burzy wyrwałem jeszcze z jednej ze ścian pręt żelazny, który z powodu zardzewienia bardzo słabo trzymał się w drzewie. Rozgrzawszy ów pręt do czerwoności, nadałem mu następnie przy pomocy płaskiej strony siekiery kształt dłuta, a następnie tem narzędziem i młotkiem obrobiłem ów kamień nakształt kółka szlifierskiego. Najtrudniejsza sprawa była z przebiciem przez środek otworu, dla osadzenia owego koła na drewnianej osi, do której przytwierdziłem korbę. Byłem zmuszony bardzo lekko i ostrożnie uderzać młotkiem, aby przypadkiem nie rozłupać kamienia i nie zniszczyć tym sposobem w mgnieniu oka dzieła kilku dni. Udało mi się jednak w końcu pomyślnie dokonać tej roboty, a wówczas osadziłem mocno koło na osi i zawiesiłem ten przyrząd na pniach dwu, bardzo blisko siebie rosnących młodych drzewek niedaleko od domu. Tym sposobem dostarczyłem naszemu gospodarstwu osełki, na której mogliśmy wygodnie ostrzyć siekierę i wszystkie ostre narzędzia.
 
-Przejęci ciągle myślą wprowadzenia ładu do naszego sposobu życia, umówiliśmy się, że co poniedziałek rano prać będziemy naszą odzież. Co dzień znowu po powrocie z polowania, jeżeli takowe miało miejsce, ubranie miało być łatane i cerowane; bardzo zaś rzad-
-
-<!-- page 129 -->
-
-ko w takich razach naprawa nie była konieczna. To też nic dziwnego, że po pewnym przeciągu czasu stroje nasze przybrały pozór bardzo dziwaczny.
+Przejęci ciągle myślą wprowadzenia ładu do naszego sposobu życia, umówiliśmy się, że co poniedziałek rano prać będziemy naszą odzież. Co dzień znowu po powrocie z polowania, jeżeli takowe miało miejsce, ubranie miało być łatane i cerowane; bardzo zaś rzad<!-- page 129 -->ko w takich razach naprawa nie była konieczna. To też nic dziwnego, że po pewnym przeciągu czasu stroje nasze przybrały pozór bardzo dziwaczny.
 
 Materyja, z której pierwotnie odzież była zrobiona, znikła prawie zupełnie pod mnóstwem łat, ją przykrywających, lub też zastępujących jej miejsce, a suknie nasze składały się z kawałków tkanin różnego rodzaju i wszelkich barw, z widoczną jednak przewagą płótna żaglowego. Wkrótce przecież ujrzeliśmy się w smutnej konieczności oszczędzania i tego ostatniego, przewidując, że może kiedyś przyda się nam, gdy wypadnie konieczność zrobienia żagla.
 
@@ -1252,11 +975,7 @@ Powoli zaczęły się sypać rozmaite próby naszej pomysłowości. Do samotnika
 
 Ponieważ ja byłem sprawcą wszystkiego złego, mnie też przeto wypadało wynaleźć na nie lekarstwo. Pewnego więc wieczora, gdy z powodu gry pomiędzy Musgrave'm i mną przyszło aż do przemówienia się, doczekałem tylko do końca partyi, a potem, nic nikomu o tem nie mówiąc, rzuciłem karty w ogień. Owa, zniszczona teraz, kość niezgody zrobiona była przezemnie z kartek dawnego dziennika okrętowego, przy pomocy klajstru z mąki.
 
-Przypominam sobie przy tej sposobności, że resztą klajstru, pozostałą na dnie naczynia, podzieliłem się z Musgrave'm, i przyznać
-
-<!-- page 130 -->
-
-muszę, że nigdy w życiu żadne łakocie nie wydawały mi się równie smacznemi. Klajster ten prawie zupełnie przypominał smak chleba.
+Przypominam sobie przy tej sposobności, że resztą klajstru, pozostałą na dnie naczynia, podzieliłem się z Musgrave'm, i przyznać<!-- page 130 --> muszę, że nigdy w życiu żadne łakocie nie wydawały mi się równie smacznemi. Klajster ten prawie zupełnie przypominał smak chleba.
 
 Zostałem wprawdzie srodze ukarany za moje łakomstwo, albowiem przez kilka dni następnych czułem wciąż w ustach przedziwny ów smak i tantalowe cierpiałem męki na widok woreczka z mąką, wiszącego nad mojem łóżkiem. Zwalczać musiałem bezustannie pokusę zrobienia z niej chleba lub lemieszki i dogodzenia tym sposobem choć raz żołądkowi; ale był to przedmiot nietykalny i pomimo pokus potrafiłem go uszanować. Gdybym był przeciwnie uległ pokusie, to ów dowód mej słabości mógłby za sobą pociągnąć najsmutniejsze następstwa. Byłbym przez to niezawodnie stracił szacunek towarzyszów, dając im przykład samolubstwa i łakomstwa, i zasiałbym śród naszego gronka ziarno niezgody i upadku.
 
@@ -1264,17 +983,12 @@ W sobotę wieczorem nie tylko żem zdał gospodarstwo Jerzemu, jako memu następ
 
 **Wtorek, 15 Marca.** Czas, dosyć brzydki przez cały przeszły tydzień, zmienił się na nieco przyjemniejszy. Obecnie mamy wiatr Pn.Z., ale słaby. Spuściliśmy łódź na wodę i przy pomocy wioseł dostaliśmy się na wyspę Ósemkową.
 
-Przybiwszy do brzegu i wyciągnąwszy łódź na ląd, weszliśmy w zarośla, opatrzeni w swoje nieodstępne pałki. Po chwili dostaliśmy się do małej polanki, w samym środku wyspy położonej, i uderzeni tam zostaliśmy odrazu dosyć wprawdzie dawnymi śladami obozowiska. Nie mieliśmy odtąd żadnej wątpliwości, że odnoga Carnleya była czasami nawiedzaną przez wielorybołowców. Przekonanie takie sprawiło nam żywą przyjemność; ukazało nam bowiem promyk nadziei, że kiedyś możemy się dostać na pokład jakiego statku, tru-
-
-<!-- page 131 -->
+Przybiwszy do brzegu i wyciągnąwszy łódź na ląd, weszliśmy w zarośla, opatrzeni w swoje nieodstępne pałki. Po chwili dostaliśmy się do małej polanki, w samym środku wyspy położonej, i uderzeni tam zostaliśmy odrazu dosyć wprawdzie dawnymi śladami obozowiska. Nie mieliśmy odtąd żadnej wątpliwości, że odnoga Carnleya była czasami nawiedzaną przez wielorybołowców. Przekonanie takie sprawiło nam żywą przyjemność; ukazało nam bowiem promyk nadziei, że kiedyś możemy się dostać na pokład jakiego statku, tru<!-- page 131 -->
+<!-- page 133 -->dniącego się podobnym połowem. Załoga, która tam ongi obozowała, zawinęła aż tutaj niezawodnie dla fok. W jednem miejscu jama, w torfiastej ziemi wyżłobiona, wskazywała miejsce ogniska, przy którem grzali się owi myśliwcy; z głębokości zaś wydrążenia mogliśmy wnosić, że bawili tu oni ze dwa tygodnie.
 
 <!-- page 132 -->
 
 ![Lew morski i jego rodzina](img/11_lew.jpg)
-
-<!-- page 133 -->
-
-dniącego się podobnym połowem. Załoga, która tam ongi obozowała, zawinęła aż tutaj niezawodnie dla fok. W jednem miejscu jama, w torfiastej ziemi wyżłobiona, wskazywała miejsce ogniska, przy którem grzali się owi myśliwcy; z głębokości zaś wydrążenia mogliśmy wnosić, że bawili tu oni ze dwa tygodnie.
 
 Przepatrując starannie ziemię, spostrzegłem na niej coś różowawego, czego nie omieszkałem podnieść. Był to pilnik trójkątny, pokryty grubą warstwą rdzy, najwymowniejszy i niezaprzeczony dowód pobytu niegdyś w tem miejscu ludzi cywilizowanych.
 
@@ -1296,17 +1010,11 @@ W tej chwili wpadliśmy nagle w sam środek całej gromady i, korzystając z pop
 
 Tymczasem jednak rozpaczliwe krzyki matek, które nie mogły znaleźć swych dzieci, wraz z przeraźliwymi rykami starego lwa, doprowadzonego do wściekłości pod wpływem zapachu krwi, dochodziły aż do nas, obudzając w sercach naszych niekłamany żal, że nieubłagana konieczność zmusiła nas tak srodze dać się we znaki biednym zwierzętom.
 
-Wkrótce potem spostrzegliśmy samice, które widocznie biegły w ślad za nami, ukazujące się z tej strony wyspy w towarzystwie owego starego lwa. Cała ta gromada rzuciła się do wody w tem samem miejscu, gdzieśmy wylądowali, i popędziła wpław za nami. Przez długi czas zażarte lwice ścigały łódź, unoszącą martwe ich potomstwo. Jedna z nich, rozwścieczona przez podrażnienie miłości macierzyńskiej, zaczęła się rzucać ku łodzi, jakby chciała dostać się
-
-<!-- page 135 -->
+Wkrótce potem spostrzegliśmy samice, które widocznie biegły w ślad za nami, ukazujące się z tej strony wyspy w towarzystwie owego starego lwa. Cała ta gromada rzuciła się do wody w tem samem miejscu, gdzieśmy wylądowali, i popędziła wpław za nami. Przez długi czas zażarte lwice ścigały łódź, unoszącą martwe ich potomstwo. Jedna z nich, rozwścieczona przez podrażnienie miłości macierzyńskiej, zaczęła się rzucać ku łodzi, jakby chciała dostać się<!-- page 135 --><!-- page 137 --> jej wnętrza, a woda, podrzucana przez ciężkie jej ciało, zaczęła nas na dobre oblewać.
 
 ![Wystrzeliłem ku niej z fuzyi prawie na ślepo](img/12_wystrzelilem.jpg)
 
 <!-- page 136 -->
-
-<!-- page 137 -->
-
-jej wnętrza, a woda, podrzucana przez ciężkie jej ciało, zaczęła nas na dobre oblewać.
 
 W obawie, aby jej się przypadkiem nie udało dostać do łodzi, a przez to naruszyć jej równowagę, wystrzeliłem ku niej z fuzyi prawie na ślepo. Niespodziewany huk wystrzału tak przeraził foki, że cała gromada zawróciła się i przestała nas ścigać.
 
@@ -1314,9 +1022,9 @@ Przychylny wiatr przyspieszał naszą podróż, to też w niespełna godzinę pr
 
 <!-- page 138 -->
 
-# ROZDZIAŁ XI.
+## ROZDZIAŁ XI.
 
-## URZĄDZENIE DRUGIEGO SYGNAŁU. — NOWA POTRAWA. — DLACZEGO WYRZEKŁEM SIĘ PIWA. — NASZE PAPUGI. — PSY NA WYSPIE.
+### URZĄDZENIE DRUGIEGO SYGNAŁU. — NOWA POTRAWA. — DLACZEGO WYRZEKŁEM SIĘ PIWA. — NASZE PAPUGI. — PSY NA WYSPIE.
 
 Polowanie nasze poszło nader pomyślnie, mieliśmy więcej zwierzyny, niżeśmy jej spożyć mogli, zanim psuć się zacznie. Pomyśleliśmy więc o odpowiedniem zakonserwowaniu połowy naszej zdobyczy, tem bardziej, żeśmy nie byli pewni, czy za nadejściem zimy nie będziemy czasem czuli niedostatku żywności.
 
@@ -1336,11 +1044,7 @@ Pod koniec następnego tygodnia, jak tylko można było z jakiem takiem bezpiecz
 
 Rankiem 24 marca, zostawiwszy w domu Norwegczyka, na którego w tym tygodniu przypadała kolej służby wewnętrznej, spuściliśmy łódź na wodę i rozwinęliśmy żagiel, a ponieważ wiatr był przychylny, przeto bardzo prędko dostaliśmy się do celu wyprawy.
 
-Z sygnału naszego znaleźliśmy tylko żerdź, stojącą, jakeśmy ją umocowali, lecz flagi ani śladu nie było; widocznie wiatr gdzieś
-
-<!-- page 140 -->
-
-daleko ją poniósł. O kilka kroków dalej, leżała butelka, prawie zupełnie zagrzebana w ziemi, ale niestłuczona.
+Z sygnału naszego znaleźliśmy tylko żerdź, stojącą, jakeśmy ją umocowali, lecz flagi ani śladu nie było; widocznie wiatr gdzieś <!-- page 140 -->daleko ją poniósł. O kilka kroków dalej, leżała butelka, prawie zupełnie zagrzebana w ziemi, ale niestłuczona.
 
 W przewidywaniu konieczności naprawy sygnału, a nawet urządzenia nowego, wzięliśmy ze sobą kilka desek, zbitych ze sobą w kształcie tarczy i pobielonych wapnem, rozrobionem w oleju z fok.
 
@@ -1354,21 +1058,13 @@ Nazajutrz, ponieważ wiatr był również bardzo pomyślny, postanowiliśmy korz
 
 Łowy nie tylko że i tym razem poszły pomyślnie, ale nadto uprzyjemnione zostały śmieszną wprawdzie przygodą, która jednak mogłaby była przybrać bardzo niebezpieczny obrót, gdyby mi się nie było powiodło w porę temu zapobiec.
 
-Kiedyśmy, o ile można było najciszej, dostali się do polanki, uważanej przez nas niejako za rezydencyję króla Toma, zastaliśmy ją, jak poprzednio, zajętą przez liczne grono młodych fok, oraz pewną liczbę samic pod opieką samego sędziwego monarchy. Poważna ta postać, jak tylko nas spostrzegła, ośmieliła się posunąć naprzeciwko nam, wyszczerzając swe mocno nadwerężone zęby, jakby nas do walki wyzywać chciała. Nie czyhając bynajmniej na jego życie, a będąc tu daleko swobodniejszymi w ruchach aniżeli w zaroślach, potrafiliśmy uniknąć niepotrzebnej walki przez ominięcie go i, nie zważając na jego oburzenie i ryki, sprawiliśmy porządne spustoszenie mię-
-
-<!-- page 141 -->
-
-dzy młodą rzeszą. Podczas jednakże, gdyśmy ciągnęli nasze ofiary ku łódce, stary lew i towarzyszące mu samice nacierały na nas zbliska daleko odważniej niż za pierwszym naszym napadem, tak dalece, że Jerzy, obciążony ogromnym łupem, znalazł się nagle w ciasnem przejściu oko w oko z ogromną lwicą. Niepodobna mu było z powodu ciasnoty usunąć się ani na prawo ani na lewo, a nie czas już było cofać się w tył dla obrania innej drogi. Idąc za instynktownym popędem, Jerzy rzucił nagle swą zdobycz, uchwycił się wielkiej gałęzi, sterczącej mu ponad głową, i jednym susem dostał się na nią, zanim rozwścieczone zwierzę potrafiło go uchwycić ostrymi zębami. Lwica jednak, widocznie gorąco pragnąc się pomścić, z głową do góry wyniesioną i oczyma utkwionemi w swego wroga, usadowiła się spokojnie pod gałęzią. Kilka minut trwała ta wzajemna obserwacyja człowieka z foką, podczas której żaden z zapaśników nie zrobił najmniejszego ruchu, ale nie wiem doprawdy, jakby biedny Jerzy potrafił się spuścić ze swego napowietrznego stanowiska, gdybym szczęśliwym strzałem z fuzyi nie był powalił o ziemię rozjuszonego zwierza.
+Kiedyśmy, o ile można było najciszej, dostali się do polanki, uważanej przez nas niejako za rezydencyję króla Toma, zastaliśmy ją, jak poprzednio, zajętą przez liczne grono młodych fok, oraz pewną liczbę samic pod opieką samego sędziwego monarchy. Poważna ta postać, jak tylko nas spostrzegła, ośmieliła się posunąć naprzeciwko nam, wyszczerzając swe mocno nadwerężone zęby, jakby nas do walki wyzywać chciała. Nie czyhając bynajmniej na jego życie, a będąc tu daleko swobodniejszymi w ruchach aniżeli w zaroślach, potrafiliśmy uniknąć niepotrzebnej walki przez ominięcie go i, nie zważając na jego oburzenie i ryki, sprawiliśmy porządne spustoszenie mię<!-- page 141 -->dzy młodą rzeszą. Podczas jednakże, gdyśmy ciągnęli nasze ofiary ku łódce, stary lew i towarzyszące mu samice nacierały na nas zbliska daleko odważniej niż za pierwszym naszym napadem, tak dalece, że Jerzy, obciążony ogromnym łupem, znalazł się nagle w ciasnem przejściu oko w oko z ogromną lwicą. Niepodobna mu było z powodu ciasnoty usunąć się ani na prawo ani na lewo, a nie czas już było cofać się w tył dla obrania innej drogi. Idąc za instynktownym popędem, Jerzy rzucił nagle swą zdobycz, uchwycił się wielkiej gałęzi, sterczącej mu ponad głową, i jednym susem dostał się na nią, zanim rozwścieczone zwierzę potrafiło go uchwycić ostrymi zębami. Lwica jednak, widocznie gorąco pragnąc się pomścić, z głową do góry wyniesioną i oczyma utkwionemi w swego wroga, usadowiła się spokojnie pod gałęzią. Kilka minut trwała ta wzajemna obserwacyja człowieka z foką, podczas której żaden z zapaśników nie zrobił najmniejszego ruchu, ale nie wiem doprawdy, jakby biedny Jerzy potrafił się spuścić ze swego napowietrznego stanowiska, gdybym szczęśliwym strzałem z fuzyi nie był powalił o ziemię rozjuszonego zwierza.
 
 Po tej przygodzie dostaliśmy się już szczęśliwie na wybrzeże, do którego fokom, z powodu jakby wału z okruchów skał, nie bardzo łatwo było się dostać; powrzucaliśmy nasze lwy do łodzi, która zaledwie pomieścić je mogła, było ich bowiem jedenaście, i puściliśmy się w kierunku Epigwaitu.
 
 Dziewięć z owych jedenastu fok zostało posolone i zachowane na czas krótkich i niepogodnych dni zimowych, których nadejścia rychło śmy się spodziewali; dwie zaś pozostałe zostały natychmiast skonsumowane.
 
-Lecz wyłącznie zwierzęce pożywienie, na które byliśmy skazani, oprócz odrazy, jaką w nas obudzało skutkiem swego oleistego smaku, było niezdrowem dla Europejczyków, przyzwyczajonych od dzieciństwa do pokarmów mieszanych, śród których chleb, potrawy mączne i roślinne bardzo ważną odgrywają rolę; to też cierpieliśmy na tem bardzo. Kilkakrotnie już próbowaliśmy urozmaicać naszą strawę korzonkami roślin, zapełniających wyspę, żadna z nich jednak
-
-<!-- page 142 -->
-
-nie przypadała nam do smaku. Ileż to razy zdarzyło mi się słyszeć pragnienie Henryka, aby mógł zebrać choć wszystkie obierzyny od kartofli, które w czasie podróży wyrzucał w morze jako zupełnie niepotrzebne.
+Lecz wyłącznie zwierzęce pożywienie, na które byliśmy skazani, oprócz odrazy, jaką w nas obudzało skutkiem swego oleistego smaku, było niezdrowem dla Europejczyków, przyzwyczajonych od dzieciństwa do pokarmów mieszanych, śród których chleb, potrawy mączne i roślinne bardzo ważną odgrywają rolę; to też cierpieliśmy na tem bardzo. Kilkakrotnie już próbowaliśmy urozmaicać naszą strawę korzonkami roślin, zapełniających wyspę, żadna z nich jednak <!-- page 142 -->nie przypadała nam do smaku. Ileż to razy zdarzyło mi się słyszeć pragnienie Henryka, aby mógł zebrać choć wszystkie obierzyny od kartofli, które w czasie podróży wyrzucał w morze jako zupełnie niepotrzebne.
 
 Nie zrażając się jednak niepowodzeniem, ciągle zajęci byliśmy myślą wyszukania na wyspie jakiej jadalnej rośliny. Jakoż pewnego dnia spostrzegliśmy w miejscu bagnistem jakiś krzew o lejkowato zwiniętych okrągłych liściach, wielkości zwykłego talerza, pokrywających bardzo gęsto szczególniej wierzchołki długich, rurkowatych łodyg. Pień tej rośliny nie wznosił się pionowo, ale czepiał się ziemi licznymi korzonkami przybyszowymi. Z pośród gęstwiny liści na wiosnę występowała długa szypułka, uwieńczona bukietem licznych, białych, trzypłatkowych kwiatów, których miejsce nieco później zastępowało zbite grono czarnych nasion. Rdzeń łodygi tej rośliny składał się z soczystego i słodkiego miąższu, przerośniętego jednak drzewiastemi włóknami, wymagającemi pewnych przygotowań dla zrobienia użytku na pokarm z miąższu. Roślinie tej nadaliśmy nazwę cukrówki (sacchary).
 
@@ -1376,11 +1072,7 @@ Postanowiłem tedy z kawałka blachy żelaznej, oderwanej z pokładu Graftona, z
 
 Przy pomocy tego narzędzia starliśmy na miazgę kilka kawałków łodygi naszej cukrówki, a następnie przesmażyliśmy ją na tłuszczu z fok.
 
-Nowa ta potrawa, dosyć zresztą w smaku zbliżona do trocin, której podanie odbyło się z pewną uroczystością, na nieszczęście nie urzeczywistniła pokładanych w niej nadziei. Mogliśmy ją spożywać zaledwie po nalaniu wrzątkiem, a pomimo tej niebardzo wygodnej operacyi przewaga części drzewiastych czyniła ją bardzo niestrawnym posiłkiem. Pomimo tego wszystkiego kilku z nas obstawało za jej utrzymaniem, a nawet z czasem potrafiło się do niej
-
-<!-- page 143 -->
-
-przyzwyczaić. Co do mnie jednak, to nie mogłem przemóc pod tym względem swej natury.
+Nowa ta potrawa, dosyć zresztą w smaku zbliżona do trocin, której podanie odbyło się z pewną uroczystością, na nieszczęście nie urzeczywistniła pokładanych w niej nadziei. Mogliśmy ją spożywać zaledwie po nalaniu wrzątkiem, a pomimo tej niebardzo wygodnej operacyi przewaga części drzewiastych czyniła ją bardzo niestrawnym posiłkiem. Pomimo tego wszystkiego kilku z nas obstawało za jej utrzymaniem, a nawet z czasem potrafiło się do niej <!-- page 143 -->przyzwyczaić. Co do mnie jednak, to nie mogłem przemóc pod tym względem swej natury.
 
 Za to jednak starałem się wyciągnąć inne korzyści z cukrowych własności tej rośliny. Utarłem jej raz dosyć znaczną ilość i, wrzuciwszy do kociełka z wodą gorącą, wystawiłem ów odwar na fermentacyję.
 
@@ -1400,11 +1092,7 @@ Daliśmy im do jedzenia nasion naszej cukrówki, starannie najprzód pognieciony
 
 Samiec wyuczył się wkrótce wymawiać kilka wyrazów angielskich i od samego rana zaczynał swe szczebiotanie, które nas bardzo bawiło.
 
-Co dzień w godzinie obiadowej obie papużki zwykłe były używać kąpieli. W tym celu stawialiśmy im zawsze pod gałęzią pudełko blaszane, napełnione wodą. Ptaki te jednak były bardzo wybredne. Woda musiała być zawsze świeża i zupełnie czysta; inaczej nie chciały wcale używać kąpieli. Po wyjściu z kąpieli zbliżały się do komina dla wysuszenia się przy ogniu. Łażąc po brzegu ogniska, obracały się to w tę, to w ową stronę z najpoważniejszą we świecie miną, a po wysuszeniu się, co zwykle następowało jeszcze przed
-
-<!-- page 145 -->
-
-skończeniem przez nas obiadu, przelatywały obie na nasz stół, i Boss, takie bowiem było imię samca, doskonałą angielszczyzną domagał się przynależnej im porcyi pieczeni.
+Co dzień w godzinie obiadowej obie papużki zwykłe były używać kąpieli. W tym celu stawialiśmy im zawsze pod gałęzią pudełko blaszane, napełnione wodą. Ptaki te jednak były bardzo wybredne. Woda musiała być zawsze świeża i zupełnie czysta; inaczej nie chciały wcale używać kąpieli. Po wyjściu z kąpieli zbliżały się do komina dla wysuszenia się przy ogniu. Łażąc po brzegu ogniska, obracały się to w tę, to w ową stronę z najpoważniejszą we świecie miną, a po wysuszeniu się, co zwykle następowało jeszcze przed <!-- page 145 -->skończeniem przez nas obiadu, przelatywały obie na nasz stół, i Boss, takie bowiem było imię samca, doskonałą angielszczyzną domagał się przynależnej im porcyi pieczeni.
 
 Lecz niestety! Pewnego razu sam Henryk, spiesząc się bardzo, postawił pełen wody kocioł na nieszczęśliwego Bossa i zgniótł go na miazgę, a w tydzień później i samiczka zdechła z tęsknoty za nim. My sami byliśmy również niewymownie zmartwieni stratą tych pięknych ptaków, któreśmy bardzo polubili.
 
@@ -1424,19 +1112,13 @@ Zaopatrzeni w te niezbędne przedmioty, puściliśmy się wszyscy trzej wybrzeż
 
 Zbliżywszy się do miejsca, w którem zniknęły, dostrzegliśmy na miękkiej ziemi wyraźne ślady ich nóg; jedne z nich były większe, drugie znacznie mniejsze.
 
-Podążyliśmy ich tropem, kierując się wciąż za większymi śla-
-
-<!-- page 147 -->
-
-dami, i byliśmy już prawie pewni zdobycia dwu nowych towarzyszów, wiernych przyjaciół, z których będziemy mieli pomoc i rozrywkę, gdy nagle ślady zniknęły. Na szczęście jednak reszta dnia pełna była pomyślnych przygód, tak że wkrótce zapomnieliśmy zupełnie o pierwszem niepowodzeniu. Napotkaliśmy lwicę ze lwiątkiem i zabiliśmy oboje, upolowawszy prócz tego dwanaście sztuk ptactwa. Z powodu wielkiego ciężaru fok byliśmy zmuszeni poćwiartować je na miejscu, po dokonaniu czego i podzieleniu łupów na równe części, podążyliśmy ku Epigwait, gdzieśmy niezmiernie strudzeni dopiero pod wieczór stanęli.
-
-Rozbitki na Auklandach.
+Podążyliśmy ich tropem, kierując się wciąż za większymi śla<!-- page 147 -->dami, i byliśmy już prawie pewni zdobycia dwu nowych towarzyszów, wiernych przyjaciół, z których będziemy mieli pomoc i rozrywkę, gdy nagle ślady zniknęły. Na szczęście jednak reszta dnia pełna była pomyślnych przygód, tak że wkrótce zapomnieliśmy zupełnie o pierwszem niepowodzeniu. Napotkaliśmy lwicę ze lwiątkiem i zabiliśmy oboje, upolowawszy prócz tego dwanaście sztuk ptactwa. Z powodu wielkiego ciężaru fok byliśmy zmuszeni poćwiartować je na miejscu, po dokonaniu czego i podzieleniu łupów na równe części, podążyliśmy ku Epigwait, gdzieśmy niezmiernie strudzeni dopiero pod wieczór stanęli.
 
 <!-- page 148 -->
 
-# ROZDZIAŁ XII.
+## ROZDZIAŁ XII.
 
-## NOC SPĘDZONA NA DWORZE. — PRÓBA GARBOWANIA SKÓR FOCZYCH.
+### NOC SPĘDZONA NA DWORZE. — PRÓBA GARBOWANIA SKÓR FOCZYCH.
 
 **1 Maja.** Zima coraz bardziej się zbliża i chłód zaczyna nam mocno dokuczać. Lwy morskie coraz rzadziej napotykać się dają, a stąd przyszłość zaczyna nam się przedstawiać w coraz smutniejszych barwach, ukazując w oddali widmo głodu, który coraz szybciej zbliżać się zdaje. Gdybyż przynajmniej pogoda była znośną! Moglibyśmy jeszcze dalej zapuścić się w naszych poszukiwaniach. W obecnych jednak okolicznościach ukradkiem tylko można spróbować wycieczki na zatokę.
 
@@ -1444,11 +1126,7 @@ Dzisiaj postanowiliśmy zostawić w domu Henryka, na którego przypada tygodniow
 
 Już około południa dotarliśmy do małego międzymorza, łączącego z wyspą półwysep Musgrave'a. Był to cel naszej wyprawy, grunt tu był niski, łatwo dostępny, spodziewaliśmy się zatem spotkać tu dosyć lwów morskich.
 
-Spocząwszy chwilę na pniu drzewa, rozpoczęliśmy obławę po całej okolicy. Nie było zakątka ziemi, któregobyśmy drobiazgo-
-
-<!-- page 149 -->
-
-wo nie przejrzeli, trud jednakże był daremny, nie znaleźliśmy ani jednej foki.
+Spocząwszy chwilę na pniu drzewa, rozpoczęliśmy obławę po całej okolicy. Nie było zakątka ziemi, któregobyśmy drobiazgo<!-- page 149 -->wo nie przejrzeli, trud jednakże był daremny, nie znaleźliśmy ani jednej foki.
 
 Zarówno zmęczeni jak i zniechęceni bezowocnem poszukiwaniem, rozpoczęliśmy naradę nad tem, co nam przedsięwziąć wypada. Pierwszym naszym zamiarem było puszczenie się z powrotem dla dostania się jak najprędzej do Epigwait; ale nawet przy największym pośpiechu nie mogliśmy zajść tam przed nocą. A potem, na cóż się zdało wracać z próżnemi rękoma? Zaszedłszy więc już tak daleko, trzeba było puścić się na drugą stronę półwyspu i zobaczyć, czy tam czasem nie uda nam się znaleźć tego, czegośmy dotąd napróżno szukali.
 
@@ -1460,37 +1138,21 @@ W tem miejscu, z kwaśnemi minami i zupełną próżnią w żołądku, usiedliś
 
 Z godzina może upłynęła, zanim mogliśmy to zrobić; a nazbierawszy wówczas dosyć znaczną liczbę mięczaków, pożarliśmy je chciwie bez żadnej przyprawy. Biedny Musgrave srodze przypłacił tę ucztę dzikich, dostał bowiem strasznych boleści.
 
-Noc się zbliżała, ciemności i zimno coraz groźniejszemi się stawały. Niepodobna było myśleć o powrocie do domu pośród naj-
-
-<!-- page 150 -->
-
-zupełniejszej ciemności, tem bardziej, że drogę tę pierwszy raz dopiero zdarzyło nam się przebywać. Trzeba więc było pozostać na miejscu i cierpliwie dnia oczekiwać. Przytuliwszy się do siebie, by tym sposobem wzajemnie chronić się nieco od zimna, doskwierającego nam coraz bardziej, myśląc wciąż o Henryku, który sam pozostał w domu i bardzo musiał być o nas niespokojny, coraz bardziej upadając na siłach i umyśle, z Musgrave'm cierpiącym nieznośne boleści, przepędziliśmy tak całą, długą, bo szesnastogodzinną noc jesienną na powietrzu, za jedyną osłonę mając skałę, oddzielającą nas od morza, a tym sposobem łagodzącą nieco działanie wiatru.
+Noc się zbliżała, ciemności i zimno coraz groźniejszemi się stawały. Niepodobna było myśleć o powrocie do domu pośród naj<!-- page 150 -->zupełniejszej ciemności, tem bardziej, że drogę tę pierwszy raz dopiero zdarzyło nam się przebywać. Trzeba więc było pozostać na miejscu i cierpliwie dnia oczekiwać. Przytuliwszy się do siebie, by tym sposobem wzajemnie chronić się nieco od zimna, doskwierającego nam coraz bardziej, myśląc wciąż o Henryku, który sam pozostał w domu i bardzo musiał być o nas niespokojny, coraz bardziej upadając na siłach i umyśle, z Musgrave'm cierpiącym nieznośne boleści, przepędziliśmy tak całą, długą, bo szesnastogodzinną noc jesienną na powietrzu, za jedyną osłonę mając skałę, oddzielającą nas od morza, a tym sposobem łagodzącą nieco działanie wiatru.
 
 Przeszła nareszcie ta noc okropna i między siódmą a ósmą rano dostrzegliśmy pierwszy brzask jutrzenki. Wiatr ustał, lecz za to otoczyła nas nadzwyczaj gęsta mgła, do której wkrótce przyłączył się drobny, lecz zimny deszczyk. Głód, głód nieopisany, zaczął nas trapić na nowo, a my, nie mogąc się oprzeć jego wszechwładnym rozkazom, zziębnięci i przemokli, opuściliśmy nasze schronienie, by, korzystając z niskiego stanu wody, zdobyć trochę ślimaków. Tym razem byliśmy jednak daleko umiarkowańsi i po zaspokojeniu pierwszego tylko głodu puściliśmy się z powrotem ku domowi.
 
-Musgrave i ja szliśmy przodem, dwaj majtkowie za nami. Mówiliśmy bardzo mało; myśli krążące po naszych głowach nie mogły pokrzepić innych na duchu, nic więc dziwnego, żeśmy nie mieli ochoty zwierzać się z niemi. Już eśmy dochodzili do głazów, gdy nagle lekki szelest w zaroślach zwrócił uwagę naszą w tę stronę. Zatrzymaliśmy się na chwilę dla lepszego zmiarkowania się, skąd szmer ten pochodził. Jerzy i Alick, przyśpieszywszy kroku, wkrótce też przy nas stanęli. Szelest na jakiś czas ustał, tak żeśmy już sądzili, że nas słuch omylił, gdy nagle rozległ się na nowo. Ja trzymałem fuzyję w pogotowiu, towarzysze podnieśli pałki. Po niejakim czasie naprzeciw nas ukazała się z gęstwiny głowa młodej lwicy, zamierzającej zapewne zejść do wody. Musiała ona dopiero w nocy wyjść na brzeg, gdyż dnia poprzedniego nie mogliśmy znaleźć najmniejszego śladu. Spostrzegłszy nas, foka zatrzymała się na chwi-
-
-<!-- page 151 -->
-
-lę, jakby wahając się, czy ma iść dalej naprzód, czy też schronić się napowrót w zarośla. Obawiając się, by nie wybrała zarośli i nie zniknęła nam z oczu, dałem ognia, a kula przeszyła jej głowę.
+Musgrave i ja szliśmy przodem, dwaj majtkowie za nami. Mówiliśmy bardzo mało; myśli krążące po naszych głowach nie mogły pokrzepić innych na duchu, nic więc dziwnego, żeśmy nie mieli ochoty zwierzać się z niemi. Już eśmy dochodzili do głazów, gdy nagle lekki szelest w zaroślach zwrócił uwagę naszą w tę stronę. Zatrzymaliśmy się na chwilę dla lepszego zmiarkowania się, skąd szmer ten pochodził. Jerzy i Alick, przyśpieszywszy kroku, wkrótce też przy nas stanęli. Szelest na jakiś czas ustał, tak żeśmy już sądzili, że nas słuch omylił, gdy nagle rozległ się na nowo. Ja trzymałem fuzyję w pogotowiu, towarzysze podnieśli pałki. Po niejakim czasie naprzeciw nas ukazała się z gęstwiny głowa młodej lwicy, zamierzającej zapewne zejść do wody. Musiała ona dopiero w nocy wyjść na brzeg, gdyż dnia poprzedniego nie mogliśmy znaleźć najmniejszego śladu. Spostrzegłszy nas, foka zatrzymała się na chwi<!-- page 151 -->lę, jakby wahając się, czy ma iść dalej naprzód, czy też schronić się napowrót w zarośla. Obawiając się, by nie wybrała zarośli i nie zniknęła nam z oczu, dałem ognia, a kula przeszyła jej głowę.
 
 Może w półgodziny potem, rozradowani zdobyczą, choć uginając się pod jej ciężarem, z którego na każdego przypadło po ćwierci, nie czując nawet znużenia, ruszyliśmy dobrym krokiem w kierunku Epigwait, i doszliśmy tam około południa, po trzydziestogodzinnej nieobecności. Henryk, zobaczywszy nas, zapłakał z radości, biedny ten chłopak przepędził bowiem noc w najokropniejszej trwodze, przechodząc po kolei myślą wszystkie nieszczęścia, jakich ofiarą stać się mogliśmy.
 
 Zaledwieśmy jednak zadosyćuczynili jednej naglącej potrzebie, chociaż wprawdzie najgorszej, bo ciągle się odnawiającej potrzebie pokarmu, gdy nagle zjawiła się inna, również prędkiego wymagająca starania. Wspominałem już o tem, że opuszczając Sydney w ciągu lata i to na niedługą podróż, nie zaopatrzyliśmy się w odpowiedni zapas ubrania. Odzież moich towarzyszów już w chwili wyjazdu z Sydney była na pół zużytą, i ja tylko jeden miałem wówczas zupełnie nowy garnitur, do którego należała piękna para butów z wysokiemi cholewami, prawie zupełnie nienoszona z powodu długiej choroby i przymusowego podczas rekonwalescencyi odpoczynku. Zbliżał się więc czas, gdy moi towarzysze, którzy tak na wyspie Campbell, jak i na Auklandach drapać się musieli ustawicznie po skałach i zaroślach, ujrzeć się nakoniec musieli bez obuwia. Lecz jak było temu zaradzić? Próbowali oni już nieraz zastąpić swoje buty łapciami z foczej skóry, ale robota takowych wcale im się nie powodziła. Skóra taka, jako wcale nieprzygotowana, będąc ustawicznie wystawioną na wpływ wilgoci, miękła, nasiąkała wodą i gniła, a ostre skały nadbrzeżne zdzierały ją w ciągu kilku dni. Trzeba by więc było tak często odświeżać podobne obuwie, że skóry zwierząt przez nas zjadanych na przygotowanie go wystarczyćby nie mogły.
 
-Przyszła mi więc myśl garbowania tej skóry przed użyciem. Po zbadaniu w tym celu własności kory rozmaitych drzew, na wys-
-
-<!-- page 152 -->
-
-pie rosnących, doszedłem do przekonania, że kora żelazodrzewu była do tego najodpowiedniejsza. Jej własności mocno ściągające zdawały się świadczyć o znacznej ilości garbnika, w skład jej wchodzącej, pomimo tego, że kora ta, jakem, zdaje się, już o tem wspominał, wcale nie była grubą. Zdarłem więc sobie znaczną ilość tej kory, posiekałem ją drobno, zagotowałem w wodzie, i gdy już odwar wydawał mi się dosyć mocnym, napełniłem nim beczkę, stojącą obok tej, w której filtrowałem mydło. W innej beczce przygotowałem roztwór wapna, otrzymanego z muszel, i pogrążyłem w takowej kąpieli kilka skór foczych, wybrawszy do tego zarazem najgrubsze i najcieńsze ze wszystkich, jakieśmy posiadali. Za pomocą zawartych w tym roztworze alkaliów zamierzyłem zniszczyć materyje tłuste, któremi te skóry mocno były przejęte, zanim jeszcze przystąpię do właściwego garbowania.
+Przyszła mi więc myśl garbowania tej skóry przed użyciem. Po zbadaniu w tym celu własności kory rozmaitych drzew, na wys<!-- page 152 -->pie rosnących, doszedłem do przekonania, że kora żelazodrzewu była do tego najodpowiedniejsza. Jej własności mocno ściągające zdawały się świadczyć o znacznej ilości garbnika, w skład jej wchodzącej, pomimo tego, że kora ta, jakem, zdaje się, już o tem wspominał, wcale nie była grubą. Zdarłem więc sobie znaczną ilość tej kory, posiekałem ją drobno, zagotowałem w wodzie, i gdy już odwar wydawał mi się dosyć mocnym, napełniłem nim beczkę, stojącą obok tej, w której filtrowałem mydło. W innej beczce przygotowałem roztwór wapna, otrzymanego z muszel, i pogrążyłem w takowej kąpieli kilka skór foczych, wybrawszy do tego zarazem najgrubsze i najcieńsze ze wszystkich, jakieśmy posiadali. Za pomocą zawartych w tym roztworze alkaliów zamierzyłem zniszczyć materyje tłuste, któremi te skóry mocno były przejęte, zanim jeszcze przystąpię do właściwego garbowania.
 
 Potrzymawszy je przez dwa tygodnie w wapiennej kąpieli, wyjąłem je stamtąd dla zupełnego oczyszczenia, które bardzo łatwo uskuteczniłem na warsztacie, zrobionym z pozostałych nam jeszcze desek, przybitych mocnymi kołkami do trzech mocnych poprzecznic. Tym sposobem najgrubsze skóry odarliśmy zupełnie z sierści, nie tykając takowej bynajmniej na cieńszych, z których zamierzaliśmy sobie później porobić ubranie, mające zastąpić łachmany, obecnie na ciele dźwigane. Z tłuszczów skórnych, przez połączenie się z wapnem, utworzył się na nich pewien rodzaj osadu mydlanego, któregośmy się łatwo pozbyli przez moczenie skór przez kilka godzin w bieżącej wodzie strumyka. Następnie po wydobyciu z nich resztek wapna, skóry włożone zostały pod prasę, którą stanowiły deski, obciążone kamieniami. Po kilkakrotnem powtórzeniu tej ostatniej operacyi, wszystkie skóry pogrążone zostały w kąpieli garbnikowej. Pomimo, żeśmy się jak najczęściej starali odmieniać płyn, grubsze skóry zostały dopiero pod koniec zimy, to jest we cztery miesiące, dobrze wygarbowane.
 
-**20 maja.** Przez ostatnie trzy tygodnie byliśmy dosyć szczęśliwi pod względem żywności. Tego dnia nadewszystko z powodu nader niskiego stanu wody ułowiliśmy dosyć ślimaków i nieco ryb,
-
-<!-- page 153 -->
-
-zostawionych przy odpływie na skałach, a prócz tego zabiliśmy trzy foki, które wybrały się na nocleg w okolice Epigwaitu.
+**20 maja.** Przez ostatnie trzy tygodnie byliśmy dosyć szczęśliwi pod względem żywności. Tego dnia nadewszystko z powodu nader niskiego stanu wody ułowiliśmy dosyć ślimaków i nieco ryb,<!-- page 153 --> zostawionych przy odpływie na skałach, a prócz tego zabiliśmy trzy foki, które wybrały się na nocleg w okolice Epigwaitu.
 
 Pogoda jest niestała, ale w ogóle czas zimny i wilgotny. Termometr zwykle w południe pokazywał trzy stopnie ponad zerem, a w nocy i w cieniu opadał często i poniżej zera.
 
@@ -1498,17 +1160,13 @@ W cieniu! Co za szyderstwo! Czyż nie zawsze jesteśmy w nim pogrążeni? Słoń
 
 Była jednakże jedna rzecz, która tak na mnie, jak i na moich towarzyszów wywierała jeszcze przykrzejsze wrażenie, jakiś szczególny rodzaj trwożliwego przygnębienia. Mam tu na myśli jednostajny i wiecznotrwały łoskot fal, rozbijających się o wybrzeże, w niewielkiej odległości od naszej chatki, tem bardziej, że łączy się on zawsze z szumem wichru, wstrząsającego liście drzew okolicznych, i bezustannie przywodzi nam na myśl nasze srogie przeznaczenie. Skutkiem tych bezustannych łoskotów mieliśmy bardzo często nerwy mocno rozdrażnione; częstokroć zdawała się nas opanowywać jak najczarniejsza melancholija, zarazem gwałtowna i ponura, i jestem pewny, że bylibyśmy już dotychczas ulegli jakimś głuchym porywom hipokondryi, gdyby nie ustawiczna praca, do której nas okoliczności zmuszały, tak, żeśmy nie mieli czasu myśleć o naszem nieszczęściu.
 
-Praca! Wówczas dopiero poznałem całą jej wartość i zasługi. Jakież to dobrodziejstwo Boga! Jakie szczęście dla człowieka, że, posiadając rozum, wyobraźnię i tyle ustawicznie czynnych władz, zmuszony jest pracą zarabiać na wyżywienie! Gdyby nie ten hamulec, na jakież rozdroża musiałby się zabłąkać? Gdyby nie ta osłona, stałby się niezawodnie łupem albo głupiej i ohydnej mar-
-
-<!-- page 154 -->
-
-twoty, albo najsromotniejszych występków. Wszyscy podziwiają wzniosłe prawa rządzące wszechświatem; ja nierównie więcej uwielbiam inne prawo, nie mniej od tamtych wzniosłe, prawo potrzeb, zmuszających człowieka do bezustannej pracy, czyniącej zadość potrzebom, a którego naturalnym wynikiem jest życie zdrowe, uczciwe, słowem szczęście człowieka. Uwielbiam je z bezstronnego stanowiska obserwatora, kocham je i błogosławię mu, bo tylko jemu zawdzięczam ocalenie.
+Praca! Wówczas dopiero poznałem całą jej wartość i zasługi. Jakież to dobrodziejstwo Boga! Jakie szczęście dla człowieka, że, posiadając rozum, wyobraźnię i tyle ustawicznie czynnych władz, zmuszony jest pracą zarabiać na wyżywienie! Gdyby nie ten hamulec, na jakież rozdroża musiałby się zabłąkać? Gdyby nie ta osłona, stałby się niezawodnie łupem albo głupiej i ohydnej mar<!-- page 154 -->twoty, albo najsromotniejszych występków. Wszyscy podziwiają wzniosłe prawa rządzące wszechświatem; ja nierównie więcej uwielbiam inne prawo, nie mniej od tamtych wzniosłe, prawo potrzeb, zmuszających człowieka do bezustannej pracy, czyniącej zadość potrzebom, a którego naturalnym wynikiem jest życie zdrowe, uczciwe, słowem szczęście człowieka. Uwielbiam je z bezstronnego stanowiska obserwatora, kocham je i błogosławię mu, bo tylko jemu zawdzięczam ocalenie.
 
 <!-- page 155 -->
 
-# ROZDZIAŁ XIII.
+## ROZDZIAŁ XIII.
 
-## ŚNIEG. — LWY MORSKIE EMIGRUJĄ. — ŚMIERĆ JEGO KRÓLEWSKIEJ MOŚCI KRÓLA TOMA. — ZORZA POŁUDNIOWA. — TRZĘSIENIE ZIEMI.
+### ŚNIEG. — LWY MORSKIE EMIGRUJĄ. — ŚMIERĆ JEGO KRÓLEWSKIEJ MOŚCI KRÓLA TOMA. — ZORZA POŁUDNIOWA. — TRZĘSIENIE ZIEMI.
 
 **Poniedziałek, 23 maja.** Gruba powłoka śniegu pokrywa ziemię; liście zawsze zielone flory południowej giną pod warstwą nagromadzonych kłaczków śnieżnych; drzewa, krzewy, zioła przeobraziły się w białe bukiety. Przyroda przystroiła się jakby na uroczystość, ale jakżeż ponurym jest strój ten oślepiający! Można by powiedzieć, że to uroczystość śmierci.
 
@@ -1516,11 +1174,7 @@ Cisza nadzwyczajna panuje na ziemi i wodzie. Powierzchnia zatoki zaledwie się m
 
 Atmosfera jest tak przejrzystą, że dokładnie rozróżnić można horyzonty oddalone, które zwykle uchodzą naszemu wzrokowi; odległości zdają się być skrócone, przedmioty wszystkie dziwnie zbliżone.
 
-Burza, monarchini tych miejsc, złożyła swą władzę. Chwilami cisza jest bezwzględnym panem tych samotni. W pewnych od-
-
-<!-- page 156 -->
-
-stępach czasu daje się jedynie słyszeć słaby, lękliwy krzyk ptaka, lub ryk oddalony jakiej foki.
+Burza, monarchini tych miejsc, złożyła swą władzę. Chwilami cisza jest bezwzględnym panem tych samotni. W pewnych od<!-- page 156 --> stępach czasu daje się jedynie słyszeć słaby, lękliwy krzyk ptaka, lub ryk oddalony jakiej foki.
 
 Zmiana, która się dokonała w nocy, była tak nagła, tak zupełna, obraz który się przedstawia naszym oczom jest tak nowym, że rozpatrując go, staliśmy długo nieruchomi, osłupiali.
 
@@ -1534,11 +1188,7 @@ W kilka chwil później łatwo nam było zrozumieć z ich ruchów, że zwierzęt
 
 Lwy morskie emigrowały! Nie mogę wypowiedzieć, jak na ten widok serce się nam ścisnęło. Podpora to życia naszego, pokarm nasz codzienny, od nas się oddalał.
 
-Szybko, jakby jednym rzutem, poskoczyliśmy ku brzegowi, wiosłowaliśmy szybko, aby się dostać do wyspy Ósemkowej, w nadziei, że zastaniemy tam jeszcze kilku opieszalców, gdyż zasób nasz mięsa świeżego był niemal wyczerpanym. Ale poszukiwania nasze były daremne, brzeg był pusty; nawet król Tom się nie zjawił i przypu-
-
-<!-- page 157 -->
-
-szczaliśmy, że opuścił ulubione swe schronienie. Trzeba nam było wrócić do Epigwait z pustemi rękoma.
+Szybko, jakby jednym rzutem, poskoczyliśmy ku brzegowi, wiosłowaliśmy szybko, aby się dostać do wyspy Ósemkowej, w nadziei, że zastaniemy tam jeszcze kilku opieszalców, gdyż zasób nasz mięsa świeżego był niemal wyczerpanym. Ale poszukiwania nasze były daremne, brzeg był pusty; nawet król Tom się nie zjawił i przypu<!-- page 157 -->szczaliśmy, że opuścił ulubione swe schronienie. Trzeba nam było wrócić do Epigwait z pustemi rękoma.
 
 Byliśmy smutni, zgnębieni. Widzieliśmy przed sobą kilka miesięcy głodu i nędzy. Czy zdołamy to przenieść?
 
@@ -1604,11 +1254,9 @@ Już nie położyliśmy się powtórnie. Oczekiwaliśmy dnia, siedząc dokoła k
 
 Wyrazy te, stosujące się tak dobrze do niebezpieczeństwa, z któregośmy uszli, wróciły spokój i nadzieję w serca nasze.
 
----
-
-*(¹) Psalm CIII, 8, 10, 11.*
-*(²) Jezajasz XLIX, 15.*
-*(³) Jezajasz LIV, 10.*
+> *(¹) Psalm CIII, 8, 10, 11.*
+> *(²) Jezajasz XLIX, 15.*
+> *(³) Jezajasz LIV, 10.*
 
 
 <!-- page 161 -->
@@ -1619,9 +1267,9 @@ Wyrazy te, stosujące się tak dobrze do niebezpieczeństwa, z któregośmy uszl
 
 <!-- page 163 -->
 
-# ROZDZIAŁ XIV.
+## ROZDZIAŁ XIV.
 
-## WYCIECZKA DO ODNOGI ZACHODNIEJ. — ODKRYCIE DAWNEGO OBOZOWISKA. — SZCZĄTKI OKRĘTU.
+### WYCIECZKA DO ODNOGI ZACHODNIEJ. — ODKRYCIE DAWNEGO OBOZOWISKA. — SZCZĄTKI OKRĘTU.
 
 Doszliśmy już prawie do dni najkrótszych w roku. Słońce nie wschodzi przed wpół do dziewiątej, a zachodzi między trzecią a czwartą po południu.
 
@@ -1663,13 +1311,7 @@ Dajemy tej zatoce nazwę Camp-Cove, to jest przystań obozowa.
 
 Załatwiwszy się z kaczkami, które się nam wydają wyborne, rozwijamy żagiel i przebiegamy odnogę zachodnią. Dotąd nie napotkaliśmy ani jednej foki, ale zbliżając się do wyspy Pomnikowej, spostrzegamy fokę, płynącą obok wyspy Adama, o kilkaset metrów od cieśniny.
 
-Jest to stary samiec, również szanowny jak król Tom. Z ruchów jego pojmujemy, że szuka miejsca, przyjaznego do wydostania się
-
-Rozbitki na Auklandach.
-
-<!-- page 166 -->
-
-na ląd. Z obawy, aby go nie przestraszyć, zwijamy szybko żagiel i zatrzymujemy bieg statku, opierając się na wiosłach.
+Jest to stary samiec, również szanowny jak król Tom. Z ruchów jego pojmujemy, że szuka miejsca, przyjaznego do wydostania się <!-- page 166 -->na ląd. Z obawy, aby go nie przestraszyć, zwijamy szybko żagiel i zatrzymujemy bieg statku, opierając się na wiosłach.
 
 Zwierzę wychodzi z wody, przesuwa się lekko między dwiema skałami i zwraca się ku wysokim ziołom, rosnącym przy brzegach lasu i oznaczającym granice wielkich przypływów morza. Wybrzeże jest nierówne, kamieniste, foka wydaje się zmęczoną i zatrzymuje się dla wypoczynku. Nagle, podniósłszy głowę i spojrzawszy ponad wysoki kamień, dostrzega nas, robi lekki ruch wsteczny: czyż chce wrócić do morza i ujść przed nami?
 
@@ -1705,9 +1347,9 @@ Jakaż to pociecha dla tych, co cierpieli, a nawet dla tych, co cierpią, jeżel
 
 <!-- page 169 -->
 
-# ROZDZIAŁ XV.
+## ROZDZIAŁ XV.
 
-## NĘDZA. — NA DNIE OTCHŁANI. — POWRÓT OBFITOŚCI. — CHWILA SZCZĘŚCIA.
+### NĘDZA. — NA DNIE OTCHŁANI. — POWRÓT OBFITOŚCI. — CHWILA SZCZĘŚCIA.
 
 Wkrótce potem byliśmy znowu doprowadzeni do tego, żeśmy gryźli ostatni nasz kawałek wędzonki zjełczałej i nie wiedzieli, zkąd zdobędziemy posiłek na jutro.
 
@@ -1733,11 +1375,7 @@ Puściliśmy się natychmiast w drogę po samicę pod dowództwem Alicka, który
 
 Musgrave z Norwegczykiem szli przodem. Postępowałem za nimi w odległości stu metrów, a Jerzy szedł ostatni, o jakie pięćdziesiąt kroków za mną.
 
-W połowie prawie drogi, nieco przed zatoką kaczek, znajduje się urwisko, które zachodzi ostro w morze. U jego podnóża
-
-<!-- page 171 -->
-
-leżą szczątki ostrych skał; morze, okrywające je w czasie wysokich przypływów, uczyniło je śliskiemi, pozostawiając na nich warstwę roślin morskich.
+W połowie prawie drogi, nieco przed zatoką kaczek, znajduje się urwisko, które zachodzi ostro w morze. U jego podnóża<!-- page 171 --> leżą szczątki ostrych skał; morze, okrywające je w czasie wysokich przypływów, uczyniło je śliskiemi, pozostawiając na nich warstwę roślin morskich.
 
 Aby uniknąć trudnego tego przejścia, wszedłem w gęstwinę, gdzie Jerzy posunął się za mną. Musgrave i Alick postępowali dalej brzegiem morskim.
 
@@ -1763,17 +1401,11 @@ Po upływie dziesięciu minut usłyszałem głos Jerzego, który ze swego stanow
 
 Zarzuciwszy na szyję rzemień swego kija, czepiając się obu rąk korzeni i plątorośli, które zwieszały się w przepaść, w miejscu gdzie foka spadła, ześliznąłem się na kilka stóp od dna i puściwszy się, dostałem się na dno bez żadnego wypadku.
 
-Byłem w ciemności. Macając ściany rowu, nogi mając zanurzone w wodzie zlodowaciałej, szedłem za śladem zwierzęcia. Po upływie kilku chwil, zacząłem widzieć nieco jaśniej. W pobliżu mostu, jak to już zauważyłem, przepaść była szersza i znacznie głębsza niż w miejscu, gdzie zstąpiłem. Znalazłem tam splot plątorośli i wiszących korzeni, które zamykały jakby zasłoną wejście do tego ścieku. Schyliłem się, aby przejść pod tym splotem i zrobiłem kilka kroków naprzód. Byłem w zupełnej ciemności; przenikał tylko tam słaby blask przez otwór wąski i niski, który wychodził na bagno. Przestrzeń była tu znacznie obszerniejszą i dwie ściany, zbliżone ku górze, na dole znacznie się rozchodziły. Wpośrodku hałaśliwie spływała po pochyłości mała strużka przezroczystej wo-
-
-<!-- page 173 -->
+Byłem w ciemności. Macając ściany rowu, nogi mając zanurzone w wodzie zlodowaciałej, szedłem za śladem zwierzęcia. Po upływie kilku chwil, zacząłem widzieć nieco jaśniej. W pobliżu mostu, jak to już zauważyłem, przepaść była szersza i znacznie głębsza niż w miejscu, gdzie zstąpiłem. Znalazłem tam splot plątorośli i wiszących korzeni, które zamykały jakby zasłoną wejście do tego ścieku. Schyliłem się, aby przejść pod tym splotem i zrobiłem kilka kroków naprzód. Byłem w zupełnej ciemności; przenikał tylko tam słaby blask przez otwór wąski i niski, który wychodził na bagno. Przestrzeń była tu znacznie obszerniejszą i dwie ściany, zbliżone ku górze, na dole znacznie się rozchodziły. Wpośrodku hałaśliwie spływała po pochyłości mała strużka przezroczystej wo<!-- page 173 --><!-- page 175 -->dy, zdążając do wyjścia, u którego na jednym z brzegów dostrzegłem lwa nieruchomego: zapewne widział on Jerzego, który strzegł wyjścia i miał się na ostrożności.
 
 ![Kij mój świszczy i spada na jego głowę.](img/14_kij.jpg)
 
 <!-- page 174 -->
-
-<!-- page 175 -->
-
-dy, zdążając do wyjścia, u którego na jednym z brzegów dostrzegłem lwa nieruchomego: zapewne widział on Jerzego, który strzegł wyjścia i miał się na ostrożności.
 
 Było tam dosyć światła, abym mógł pilnować ruchów swego przeciwnika, który, skoro tylko usłyszał me kroki, obrócił się, wydał ryk gniewny i rzucił się na mnie wściekle. Na szczęście byłem od strony cienia i miałem przez to wyższość nad nim. W każdym razie rozumiałem, że mogłem raz tylko uderzyć i że należało uderzyć celnie; inaczej, nie zostawiłby mi czasu do nowych uderzeń i byłbym na jego łasce.
 
@@ -1785,11 +1417,7 @@ To zrobiwszy, byłem sam zmuszony położyć się na brzuchu w zlodowaciałej wo
 
 Wyciągnąwszy zwierzynę naszą z bagniska, którego powierzchnia pokrytą była cienką warstwą lodu, rozcięliśmy ją rychło na cztery ćwierci, z których dwie zawiesiliśmy na gałęziach drzewa; obładowani dwiema innemi, wróciliśmy do Epigwait.
 
-Noc już nadeszła, a towarzysze nasi, Musgrave i Alick, jeszcze nie wrócili. Zapewne oczekiwali nas i byli o nas niespokojni. Zmieniwszy suknie i zaopatrzywszy się w małą latarnię o szybach rogowych, którąśmy przynieśli z Graftona, poszliśmy na ich spo-
-
-<!-- page 176 -->
-
-tkanie. Przybywszy do zatoki kaczek, niedaleko od pierwszego strumyka, usłyszeliśmy krzyk: oni to na nasz widok, a raczej na widok zapalonej latarni naszej, wydali okrzyk radosny. Pomimo całego pośpiechu, ciemność ich zaskoczyła, a obawiając się narażać na skałach urwiska lub w zaroślach gęstwiny, postanowili przepędzić noc w tem miejscu. Pokazali nam miejsce, gdzie mieli usiąść po złożeniu swego ciężaru, pod ogromnym pniem wydrążonym, prawie wywróconym, któryby w czasie deszczu mógł stanowić pewną osłonę.
+Noc już nadeszła, a towarzysze nasi, Musgrave i Alick, jeszcze nie wrócili. Zapewne oczekiwali nas i byli o nas niespokojni. Zmieniwszy suknie i zaopatrzywszy się w małą latarnię o szybach rogowych, którąśmy przynieśli z Graftona, poszliśmy na ich spo<!-- page 176 -->tkanie. Przybywszy do zatoki kaczek, niedaleko od pierwszego strumyka, usłyszeliśmy krzyk: oni to na nasz widok, a raczej na widok zapalonej latarni naszej, wydali okrzyk radosny. Pomimo całego pośpiechu, ciemność ich zaskoczyła, a obawiając się narażać na skałach urwiska lub w zaroślach gęstwiny, postanowili przepędzić noc w tem miejscu. Pokazali nam miejsce, gdzie mieli usiąść po złożeniu swego ciężaru, pod ogromnym pniem wydrążonym, prawie wywróconym, któryby w czasie deszczu mógł stanowić pewną osłonę.
 
 Ponieważ byli na wskroś przejęci zimnem, zapaliliśmy pęk krzaków; a skorośmy wszyscy się nieco rozgrzali, ruszyliśmy drogą ku domowi, z Jerzym na czele, który niósł latarnię; przybyliśmy dopiero o dziewiątej.
 
@@ -1799,17 +1427,13 @@ Na stole wieczerza jest przygotowana ze starannością troskliwszą niż zazwycz
 
 Dzielny Harry! Widocznie chciał on nadać cechę uroczystości temu dniowi, gdy po niedostatku i nędzy, obfitość i zabezpieczenie do nas wróciły. Zadowolenie, jakie nam sprawia widok tych przygotowań, a które on czyta w naszych twarzach, zdaje się go zachwycać.
 
-Ale niedługo pozostaliśmy biernymi widzami tego zachwycającego obrazu; otaczamy stół, siadamy z pośpiechem, z widelcami i nożami w rękach, zabieramy się do dzielnego zaatakowania pieczeni... Musgrave tylko, poważny, niemal uroczysty, pozostał stojącym. Pojmujemy go i podnosząc się natychmiast, łączymy się
-
-<!-- page 177 -->
-
-z nim w dziękczynieniach, jakie zasyła Opatrzności, która tak widocznie wysłuchała wczorajszych modłów naszych. W istocie, czyż mogła udzielić odpowiedź prędszą, prostszą, szczodrobliwszą na naszą prośbę? Serca nasze przepełniają się wzruszeniem i wdzięcznością.
+Ale niedługo pozostaliśmy biernymi widzami tego zachwycającego obrazu; otaczamy stół, siadamy z pośpiechem, z widelcami i nożami w rękach, zabieramy się do dzielnego zaatakowania pieczeni... Musgrave tylko, poważny, niemal uroczysty, pozostał stojącym. Pojmujemy go i podnosząc się natychmiast, łączymy się<!-- page 177 --> z nim w dziękczynieniach, jakie zasyła Opatrzności, która tak widocznie wysłuchała wczorajszych modłów naszych. W istocie, czyż mogła udzielić odpowiedź prędszą, prostszą, szczodrobliwszą na naszą prośbę? Serca nasze przepełniają się wzruszeniem i wdzięcznością.
 
 <!-- page 178 -->
 
-# ROZDZIAŁ XVI.
+## ROZDZIAŁ XVI.
 
-## PIECZARA. — JESTEŚMY ZASKOCZENI PRZEZ MGŁĘ. — ZWIEDZENIE ZATOKI ŚRODKOWEJ. — PORZECZKI. — POMYSŁ NIEWYKONALNY.
+### PIECZARA. — JESTEŚMY ZASKOCZENI PRZEZ MGŁĘ. — ZWIEDZENIE ZATOKI ŚRODKOWEJ. — PORZECZKI. — POMYSŁ NIEWYKONALNY.
 
 Trzy dni silnego mrozu, następnie trzy dni bezustannej burzy, uraganu, wiejącego kolejno ze wszystkich okolic nieba z gwałtownością przerażającą, na szkodę biednych drzew wybrzeża — oto historyja ostatniego tygodnia.
 
@@ -1819,17 +1443,11 @@ Przybywszy, po niewypowiedzianych mozołach, na szczyt góry, zachwyceni zostali
 
 Naprzeciwko nas i w małej odległości sterczał szczyt, w którym zagłębioną była ciemna pieczara; towarzysze nasi nie mieli czasu jej zwiedzić; myśmy doszli do niej po pochodzie długim i dosyć niebezpiecznym, po wąskiej krawędzi góry.
 
-Pieczara ta, widziana zbliska, wydała się nam dawnym kraterem, którego jedna ściana upadła, druga pozostała, pochylona, niby półsklepienie ponad otchłanią. Naokoło rozrzucone są żużle, a na brzegu najmniej wyniesionym rozróżnić jeszcze można łożysko po-
-
-<!-- page 179 -->
+Pieczara ta, widziana zbliska, wydała się nam dawnym kraterem, którego jedna ściana upadła, druga pozostała, pochylona, niby półsklepienie ponad otchłanią. Naokoło rozrzucone są żużle, a na brzegu najmniej wyniesionym rozróżnić jeszcze można łożysko po<!-- page 179 -->
+<!-- page 181 -->toku lawy, które dochodzi do głębokiej doliny, położonej u podnóża stoku przeciwległego temu, który się znajduje naprzeciw portu Carnleya.
 
 <!-- page 180 -->
-
 ![Położenie nasze stało się bardzo krytycznem.](img/15_krytycznem.jpg)
-
-<!-- page 181 -->
-
-toku lawy, które dochodzi do głębokiej doliny, położonej u podnóża stoku przeciwległego temu, który się znajduje naprzeciw portu Carnleya.
 
 Zszedłszy wewnątrz pieczary, mogliśmy ją do woli obejrzeć; szkliste wejrzenie jej ścian nie pozostawiło nam żadnej wątpliwości co do jej wulkanicznego pochodzenia.
 
@@ -1879,11 +1497,7 @@ Też same przemiany nędzy i względnej obfitości, a tem samem zniechęcenia i 
 
 Nakoniec nadszedł październik i podniósł nieco naszą odwagę. Najtęższa zima przeszła, była to epoka, w której można było, w której należało wysłać z Sydney okręt na poszukiwanie nas, czyto by ta pomoc wyszła od naszych spólników, czy też od rządu.
 
-Oczekiwanie nasze było jak najżywsze. Musgrave proponował nawet ustawienie straży na półwyspie, noszącym jego nazwisko; skoroby tylko dostrzegła okręt wpływający do portu, miała zapalić przygotowany naprzód stos na najbardziej wyniesionym wierzchoł-
-
-<!-- page 185 -->
-
-ku; ogień ściągnąłby uwagę załogi, a wtedy spuszczonoby natychmiast łódź na morze dla zabrania tego z nas, któryby był wówczas na straży, i któryby wtedy jako sternik powiódł okręt do Camp Cove, gdzieby był bezpiecznym, poczem udałby się do Epigwait dla zawiadomienia swych towarzyszów, ci wsiedliby na pokład okrętu, i wtedy wszyscy razem rzucilibyśmy pożegnanie, wieczne pożegnanie, Auklandom.
+Oczekiwanie nasze było jak najżywsze. Musgrave proponował nawet ustawienie straży na półwyspie, noszącym jego nazwisko; skoroby tylko dostrzegła okręt wpływający do portu, miała zapalić przygotowany naprzód stos na najbardziej wyniesionym wierzchoł<!-- page 185 -->ku; ogień ściągnąłby uwagę załogi, a wtedy spuszczonoby natychmiast łódź na morze dla zabrania tego z nas, któryby był wówczas na straży, i któryby wtedy jako sternik powiódł okręt do Camp Cove, gdzieby był bezpiecznym, poczem udałby się do Epigwait dla zawiadomienia swych towarzyszów, ci wsiedliby na pokład okrętu, i wtedy wszyscy razem rzucilibyśmy pożegnanie, wieczne pożegnanie, Auklandom.
 
 Czwartego listopada, z umysłem wypełnionym tym projektem, czyli raczej tem marzeniem, udaliśmy się na łodzi szukać miejsca, gdzieby jeden z nas mógł się umieścić. Okrążywszy półwysep i przekonawszy się, że sygnał nasz jeszcze istnieje, poszliśmy wzdłuż skalistego wybrzeża, które się znajduje naprzeciw wejścia do portu. Tam, po małej przystani, której obeszliśmy brzegi, przybyliśmy do urwiska schodzącego w zatokę. Położenie było przedziwne. Wdarliśmy się na urwisko, z którego widziano nie tylko port Carnleya, ale poza nim, pomiędzy dwoma przylądkami, sterczącemi u wejścia, i pełne morze.
 
@@ -1892,8 +1506,6 @@ Znaleźliśmy więc miejsce; ale teraz, gdy szło o wykonanie naszego zamiaru, p
 Nadto, trzebaby było wystawić chatę, lepiankę jakąkolwiek, dla ochrony naszego towarzysza, a z doświadczenia już znaliśmy trudność, powolność podobnej roboty. Musielibyśmy więc tu przychodzić, tak daleko od swego obozu, codziennie w ciągu kilku tygodni. A któżby podtrzymywał nasze istnienie, gdy wszystkie chwile w tej porze niedostatku wystarczały zaledwie do zapewnienia naszego bytu?
 
 Oczywiście, był to plan niewykonalny; było to urojenie, powzięte w chwili złudzenia; należało się go wyrzec.
-
-Rozbitki na Auklandach.
 
 <!-- page 186 -->
 
@@ -2172,7 +1784,6 @@ Zebrawszy się po raz ostatni w pięciu w naszym domku, błagaliśmy Boga razem,
 
 W chwilę potem, uściskaliśmy się na brzegu, a Musgrave, Alick i ja rozwinęliśmy żagle.
 
-
 <!-- page 215 -->
 
 ![Chwilę potem uściskaliśmy się na brzegu](img/17_potem.jpg)
@@ -2377,9 +1988,9 @@ Anglik utrzymywał, że on sam tylko był winien, Portugalczyk przeczył mu i os
 
 <!-- page 239 -->
 
-# ROZDZIAŁ XXIII.
+## ROZDZIAŁ XXIII.
 
-**ODJAZD DO SYDNEY. — WYPOCZYNEK W PORT-CHALMERS. — WYTŁOMACZENIE TAJEMNICY Z PORT-ROSS. — POWRÓT MÓJ DO FRANCYI.**
+### ODJAZD DO SYDNEY. — WYPOCZYNEK W PORT-CHALMERS. — WYTŁOMACZENIE TAJEMNICY Z PORT-ROSS. — POWRÓT MÓJ DO FRANCYI.**
 
 Następnego zaraz dnia po swym powrocie do Invercargill, Musgrave zdał raport urzędowy rządowi prowincyi, który tym razem uważał za swój obowiązek wysłanie statków dla zbadania Auklandów. Przesłano natychmiast do Otago rozkaz przygotowania parowca South-Land, który się znajdował na kotwicy w tym porcie. Ale wyprawa ta opóźniła się tak dalece, że, jak to zobaczymy dalej, dała się wyprzedzić innej, wysłanej z Melbourne.
 
@@ -2395,9 +2006,9 @@ Zaproponowano Musgrave'owi towarzyszenie kapitanowi Norman, w charakterze sterni
 
 W tydzień przeto po wyładowaniu swojem odpłynął do Auklandów, ale tym razem znajdował się na okręcie pierwszorzędnym, dowodzonym przez wybornych oficerów, posiadającym liczną załogę i mającym w żaglach i parze podwójny środek stawienia czoła niebezpieczeństwom tej podróży. Przez trzy tygodnie zwiedzano z najtroskliwszą uwagą trzy wyspy grupy i nie znaleziono nic, coby wskazywało obecność rozbitków na którejkolwiek z nich. Zbadanie wysp Campbell, Bounty i Antypod nie wydało lepszych rezultatów. Wtedy kapitan Norman zwrócił się z powrotem do Melbourne; ale po drodze zatrzymał się w Port-Chalmers dla odnowienia zasobu węgla.
 
-Rzecz dziwna, ja to oświeciłem Musgrave'a co do tajemniczej historyi trupa z Port-Ross. Przypadek dostarczył mi wyjaśnienie. Przed dwoma dniami przybyła poczta z Anglii do Dunedin, stolicy prowincyi Otago, w pobliżu Port-Chalmers. Wystarałem się o dziennik angielski, i przebiegając go, wpadłem na artykuł zatytułowany: „Sprawozdanie z rozbicia okrętu Invercauld na wyspach Auklandzkich przez kapitana Dalgarno". Odczytałem to opowiadanie z żywem wzruszeniem[^1]. Oto jego treść.
+Rzecz dziwna, ja to oświeciłem Musgrave'a co do tajemniczej historyi trupa z Port-Ross. Przypadek dostarczył mi wyjaśnienie. Przed dwoma dniami przybyła poczta z Anglii do Dunedin, stolicy prowincyi Otago, w pobliżu Port-Chalmers. Wystarałem się o dziennik angielski, i przebiegając go, wpadłem na artykuł zatytułowany: „Sprawozdanie z rozbicia okrętu Invercauld na wyspach Auklandzkich przez kapitana Dalgarno". Odczytałem to opowiadanie z żywem wzruszeniem(\*). Oto jego treść.
 
-[^1]: Na końcu dzieła podajemy to sprawozdanie w tłumaczeniu polskiem.
+> (\*): Na końcu dzieła podajemy to sprawozdanie w tłumaczeniu polskiem.
 
 <!-- page 242 -->
 
@@ -2435,11 +2046,9 @@ Zmuszony byłem czekać, dopóki pora nie będzie przyjazna do opłynięcia przy
 
 <!-- page 246 -->
 
-# DODATEK.
+## DODATEK.
 
-## I.
-
-### Sprawozdanie z rozbicia się okrętu Invercauld na wyspach Auklandzkich, przez kapitana Dalgarno.
+### I. Sprawozdanie z rozbicia się okrętu Invercauld na wyspach Auklandzkich, przez kapitana Dalgarno.
 
 „Odpłynęliśmy z Melbourne do Valparaiso 21 lutego 1864 roku na okręcie Invercauld, obejmującym 1100 beczek objętości. Załoga nasza składała się z dwudziestu pięciu osób, licząc w to oficerów. Nie mieliśmy pasażerów.
 
@@ -2501,7 +2110,7 @@ W chwilę później wstąpiliśmy na pokład okrętu. Zostaliśmy tam przyjęci 
 
 <!-- page 251 -->
 
-## Rozbicie okrętu Generał-Grant. — Sześćdziesiąt ośm osób ginie. — Dziesięć ocalonych przebywa przez ośmnaście miesięcy na bezludnej wyspie.
+### II. Rozbicie okrętu Generał-Grant. — Sześćdziesiąt ośm osób ginie. — Dziesięć ocalonych przebywa przez ośmnaście miesięcy na bezludnej wyspie.
 
 *(Wyciąg z Sydney-Herald).*
 
@@ -2513,7 +2122,7 @@ Sprawozdanie następne o zatonięciu okrętu Generał-Grant ukazało się w dzie
 
 „Przypuszczają, że najkosztowniejsza część ładunku Generała-Granta będzie mogła być ocalona, gdyż woda wypełniająca grotę jest niekiedy względnie spokojną, strata okrętu przypisywaną jest temu, że kotwice i łańcuchy były przytłoczone towarami na spodzie okrętu.
 
-### SPRAWOZDANIE OCALONYCH.
+#### SPRAWOZDANIE OCALONYCH.
 
 „Generał Grant, mający 1200 beczek objętości, pod kapitanem Williamem Herby Longhin, opuścił zatokę Hobsona 4 maja 1866, z zupełnym kompletem podróżnych. Nic szczególnego aż do 13. Tego dnia, około 10, oznajmiono bliskość lądu, o którym przypuszczano, że jest wyspą Zawodu. Płynęliśmy w kierunku wschodnio-północnym, wiatr wiał prawie z południo-zachodu. Noc była bardzo ciemna. Posuwaliśmy się ku południo-wschodowi prawie przez godzinę, potem biegliśmy znowu na zachód. Około jedenastej mieliśmy Auklandy wprost przed nami. Okręt wtedy zaczął lawirować. Wiatr był słaby, morze niegłębokie i wzburzone; okręt zaledwie pruł wodę, przez dwie godziny posuwaliśmy się bezustannie ku lądowi. Okręt uderzył o skały i utracił żagiel swój trójkątny. Cofał się następnie przez pół mili, aż do wyskakującego cypla lądu, gdzie został oderwany mały maszt i ster. Człowiek umieszczony przy kole miał kilka żeber strzaskanych. Poczem okręt zaczął tonąć tuż obok lądu i nakoniec pogrążył się w grotę, mającą około 250 jardów (228 metrów) długości. Maszt przedni, uderzywszy o sklepienie groty, strzaskał się i pociągnął za sobą inne maszty. W tym samym czasie oderwało się kilka wielkich głazów od skały, które wyrwały dno w przedniej części statku. Okręt pozostał w tem <!-- page 253 --> położeniu rozpacznem przez całą noc, nie przestając uderzać o skały i mając 25 sążni wody w tylnej swej części. Z brzaskiem dnia zaczęliśmy przygotowywać łodzie. Aż do tej chwili nie przestał panować najzupełniejszy porządek. Z powodu przypływu, fal, wiatru, który się zerwał i stawał coraz gwałtowniejszym, i wody, która zalewała pomost, damy podróżne zeszły do łodzi. Pani Jewel, właścicielka hotelu, jakkolwiek utrzymywana sznurem, wpadła w wodę. Teer ją schwycił, ale morze było tak wzburzone, że nie mógł jej dostać na pokład. Jewel (jej mąż) wyskoczył z okrętu, popłynął ku łodziom i zdołał tam umieścić swą żonę. Allen i Caughey, pasażerowie, poszli za przykładem Jewela i dostali się do łodzi bez szwanku. Wielka łódź pływała wtedy nad pomostem, a morze zalewało tył okrętu. Mała łódź odpłynęła dla okrążenia skał, a pięciu ludzi wsiadło w inną łódkę. Pierwszy porucznik próbował wrócić do okrętu; w tej chwili wielka łódź, obciążona czterdziestu przynajmniej ludźmi, opuszczała przez tylną część okręt, który się szybko pogrążał. Posunęła się na jakie 50 jardów, ale nie zdołała przepłynąć wejścia do kotliny; wskutek wirów fal, które uderzały o skały, napełniła się wkrótce wodą i zatonęła, a siedzący w niej pozostali przez chwilę w rozpacznej walce z falami. Ashorth, Hayman i Sanguily dotarli wpław do skał i zostali zabrani przez łodzie. Ostatni raz, kiedyśmy ujrzeli kapitana, był uczepiony na tylnym maszcie, wraz z jednym majtkiem obok siebie, i powiewał chustką; w tej chwili okręt skrył się pod wodę. Na znacznej przestrzeni, z każdej strony groty, ściany zupełnie pionowe, dosięgały wysokości kilkuset stóp, w wielu miejscach pochylały się nad przepaścią.
 
@@ -2531,9 +2140,7 @@ Sprawozdanie następne o zatonięciu okrętu Generał-Grant ukazało się w dzie
 
 <!-- page 259 -->
 
-## III.
-
-### Lwy morskie
+### III. Lwy morskie
 
 Mając sposobność, podczas pobytu swego na Auklandach, widzieć z bliska foki grzywiaste czyli lwy morskie, przebywając niejako z niemi w zażyłości, uważam za stosowne podać tu, co doświadczenie nauczyło mnie o naturze i obyczajach tych zwierząt.
 
@@ -2579,7 +2186,7 @@ Młode, jednoroczne foki, zebrane w liczne gromady na tych wysepkach lub przesmy
 
 <!-- page 264 -->
 
-# DOKUMENT NA POPARCIE.
+### DOKUMENT NA POPARCIE.
 
 *PRZEKŁAD Z ANGIELSKIEGO.*
 
@@ -2611,7 +2218,7 @@ Ostatnie cztery przedmioty zrobione zostały przez p. F. E. Raynal.
 
 <!-- page 265 -->
 
-# SPIS PRZEDMIOTÓW.
+## SPIS PRZEDMIOTÓW.
 
 |             | Tytuł                                                                                                             | Str. |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- | ---: |
