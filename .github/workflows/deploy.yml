@@ -1,0 +1,84 @@
+name: Deploy mdBook + PDF to GitHub Pages
+
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -----------------------
+      # Install mdBook
+      # -----------------------
+      - name: Install mdBook
+        run: |
+          mkdir -p bin
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.5.1/mdbook-v0.5.1-x86_64-unknown-linux-gnu.tar.gz \
+          | tar -xz --directory=bin
+
+      # -----------------------
+      # Install Pandoc + LaTeX
+      # -----------------------
+      - name: Install Pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-lang-polish
+
+      # -----------------------
+      # Build mdBook
+      # -----------------------
+      - name: Build mdBook
+        run: |
+          bin/mdbook build
+
+      # -----------------------
+      # Build PDF
+      # -----------------------
+      - name: Build PDF
+        run: |
+          mkdir -p dist
+          pandoc --defaults pandoc.yaml src/rozbitki.md src/ryciny.md -o dist/rozbitki.pdf
+
+      # -----------------------
+      # Prepare Pages directory
+      # -----------------------
+      - name: Prepare deploy directory
+        run: |
+          mkdir -p dist/book/*
+          cp -r book/* dist/
+
+      # -----------------------
+      # Upload artifact
+      # -----------------------
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

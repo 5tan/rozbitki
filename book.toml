@@ -1,0 +1,9 @@
+[book]
+title = "Rozbitki"
+authors = ["F.E. Reynal"]
+description = "dwudziesto-miesięczny pobyt na Wyspach Auklandzkich OPOWIEŚĆ PRAWDZIWA"
+language = "pl"
+
+[output.html]
+git-repository-url = "https://github.com/5tan/rozbitki"
+edit-url-template = "https://github.com/5tan/rozbitki/edit/master/{path}"

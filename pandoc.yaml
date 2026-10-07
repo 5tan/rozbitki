@@ -1,0 +1,19 @@
+from: markdown
+to: pdf
+
+pdf-engine: xelatex
+
+metadata:
+  title: "Rozbitki"
+  subtitle: "albo dwudziesto-miesięczny pobyt na Wyspach Auklandzkich\\OPOWIEŚĆ PRAWDZIWA"
+  author: "F.E. Reynal"
+  date: 1883
+  lang: pl-PL
+
+table-of-contents: true
+
+variables:
+  documentclass: report
+  babel-lang: polish
+  geometry:
+    - margin=3cm
