@@ -10,6 +10,15 @@ metadata:
   date: 1883
   lang: pl-PL
 
+input-files:
+  - src/rozbitki.md
+  - src/ryciny.md
+output-file: dist/rozbitki.pdf
+
+resource-path:
+  - .
+  - src
+
 table-of-contents: true
 
 variables:

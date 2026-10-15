@@ -48,7 +48,7 @@ jobs:
       - name: Build PDF
         run: |
           mkdir -p dist
-          pandoc --defaults pandoc.yaml src/rozbitki.md src/ryciny.md -o dist/rozbitki.pdf
+          pandoc --defaults pandoc.yaml
 
       # -----------------------
       # Prepare Pages directory
