@@ -114,9 +114,7 @@ Taka jest w krótkich słowach historyja smutnych kolei, jakie poprzedziły stra
 
 <!-- page 34 -->
 
-## ROZDZIAŁ I.
-
-### CEL NASZEJ WYPRAWY. — DWUMASZTOWY OKRĘT „GRAFTON” — ODJAZD.
+## ROZDZIAŁ I. CEL NASZEJ WYPRAWY. — DWUMASZTOWY OKRĘT „GRAFTON” — ODJAZD.
 
 Było to w roku 1863. Po długiej kuracyi w Sydney zdołałem nareszcie pozbyć się skutków tylko co opisanego wypadku, ale zniechęcony zanadto skąpo wynagrodzonymi trudami jedenastoletniego pobytu w kopalniach złota, żyłem tylko myślą powrotu do Francyi na łono rodziny. Stanowczo już postanowiłem opuścić Australiję, a nawet robiłem przygotowania do wyjazdu, gdy nagle, uczyniona mi wówczas propozycyja odrazu zmieniła wszystkie moje plany i rzuciła mnie na nowe przygody.
 
@@ -150,9 +148,7 @@ Nie mogę tu pominąć jednego bardzo ważnego dla nas szczegółu. Wziąłem ja
 
 <!-- page 39 -->
 
-## ROZDZIAŁ II.
-
-### TOWARZYSZE PODRÓŻY. — UDERZENIE FALI. — PRZYBYCIE NA WYSPĘ CAMPBELL.
+## ROZDZIAŁ II. TOWARZYSZE PODRÓŻY. — UDERZENIE FALI. — PRZYBYCIE NA WYSPĘ CAMPBELL.
 
 Opuszczając nas, przewodnik portowy w te odezwał się słowa: „God speed you, gentlemen, and take care, we shall soon have a southerly burst”. (Niech was Bóg prowadzi, panowie, ale strzeżcie się, bo wkrótce od południa nadciągnie zawierucha). Jakoż w niespełna godzinę po tem pożegnaniu ujrzeliśmy czarne i groźne jej przednie straże. Zaledwie starczyło nam czasu na postawienie naszej dwumasztówki w gotowości na jej przyjęcie. W jednej chwili nikt z nas nie miał nic na głowie; czapki i kapelusze uleciały na morze jakby na wyścigi, a włosy nasze w jednej chwili zostały najokropniej potargane. Lecz po tym gwałtownym ataku wicher zostawił nas w spokoju, chociaż na południu dokazywał jeszcze przez resztę nocy i cały dzień następny.
 
@@ -251,9 +247,7 @@ Południe. Słońce się ukazało, można było zrobić obserwacyje, które nam 
 
 <!-- page 47 -->
 
-## ROZDZIAŁ III.
-
-### BEZOWOCNOŚĆ POSZUKIWAŃ. — CHOROBA. — OPUSZCZENIE CAMPBELL.
+## ROZDZIAŁ III. BEZOWOCNOŚĆ POSZUKIWAŃ. — CHOROBA. — OPUSZCZENIE CAMPBELL.
 
 Zaledwie zwinięto żagle, natychmiast w towarzystwie Musgrave'a wysiadłem na ląd. Nie widzieliśmy dotąd w zatoce żadnej foki; ale ponieważ byliśmy w samym środku lata, sądziliśmy przeto, że owe zwierzęta, chcąc w chłodzie przepędzić upał dzienny, pochowały się w wysoką trawę lub gęste zarośla, pokrywające wybrzeże.
 
@@ -331,9 +325,7 @@ Już i trzecia po południu. Okrążyliśmy wyspę Adama i mamy przed sobą wysp
 
 <!-- page 56 -->
 
-## ROZDZIAŁ IV.
-
-### UKAZANIE SIĘ FOK. — WYSPY AUKLANDZKIE. — STRASZNA NOC. ROZBICIE.
+## ROZDZIAŁ IV. UKAZANIE SIĘ FOK. — WYSPY AUKLANDZKIE. — STRASZNA NOC. ROZBICIE.
 
 Wiatr dmie wciąż od zachodu; jest on niby lekki, lecz przybiega od strony lądu i od czasu do czasu silniej uderza z zatoki. Statek jednak łatwo lawiruje, mając wszystkie żagle rozwinięte. Po kilku zwrotach dostajemy się między dwa brzegi, gdzie morze jest zupełnie spokojne. Jerzy jest przy sterze; Alick wychylony na zewnątrz i przywiązany do osady drabiny rzuca w morze od czasu do czasu sondę, gdy tymczasem Harry w kuchni gotuje nam obiad. Musgrave przy pomocy lunety śledzi wybrzeże i nagle z twarzą wesołą do mnie podchodzi:
 
@@ -423,9 +415,7 @@ Oczywiście staraliśmy się koniecznie zabrać jeszcze ze sobą wszystko, co na
 
 <!-- page 67 -->
 
-## ROZDZIAŁ V.
-
-### CHWILA ROZPACZY. — BUDOWA SZAŁASU. — WALKA LWÓW MORSKICH. — OBŁAWA NA JEDNO Z TYCH ZWIERZĄT.
+## ROZDZIAŁ V. CHWILA ROZPACZY. — BUDOWA SZAŁASU. — WALKA LWÓW MORSKICH. — OBŁAWA NA JEDNO Z TYCH ZWIERZĄT.
 
 Wiatr dął wciąż gwałtownie, a deszcz ani na chwilę nie ustawał.
 
@@ -521,9 +511,7 @@ Przez ten czas Henryk i ja zajęliśmy się gospodarstwem. Wynieśliśmy poza na
 
 <!-- page 81 -->
 
-## ROZDZIAŁ VI.
-
-### NIEBIESKIE MUCHY. — NASZE PTAKI. — PIERWSZA PIECZEŃ Z FOKI. — PROJEKT ZBUDOWANIA DOMU. — WSPÓLNA MODLITWA.
+## ROZDZIAŁ VI. NIEBIESKIE MUCHY. — NASZE PTAKI. — PIERWSZA PIECZEŃ Z FOKI. — PROJEKT ZBUDOWANIA DOMU. — WSPÓLNA MODLITWA.
 
 Nieznośną plagą wysp Auklandzkich jest niezmierne mnóstwo wielkich much, niebiesko zabarwionych. Mniej delikatne od much europejskich, owady te doskonale znoszą zimno i dlatego przez cały rok wszędzie ich pełno. Nie drętwiejąc nawet na zimę i w tej porze roku składają swe jajeczka, najliczniej jednak rozradzają się w czasie silnej mgły, ulewnych deszczów lub dni wilgotnych. Ponieważ zaś na Auklandach mgły, wilgoć i deszcze panują prawie bezustannie, przeto kraj ten jest prawdziwym rajem dla much. Kawałek gnijącego drzewa, podległy rozkładowi głąb paproci, albo nawet każda roślina, o którą przechodząc otarł się lew morski, nadewszystko zaś miejsce spoczynku tych zwierząt, są ulubionemi dla tych much miejscowościami; zbierają się też w nich masami i tam się lęgną.
 
@@ -585,9 +573,7 @@ Po tem czytaniu wszyscyśmy padli na kolana i z przejęciem odmówili gorącą m
 
 <!-- page 88 -->
 
-## ROZDZIAŁ VII.
-
-### BUDOWA RUSZTOWANIA I KOMINA PRZYSZŁEJ CHATY. — WYCIECZKA W ZACHODNIĄ STRONĘ ZATOKI I DO WYSPY POMNIKOWEJ.
+## ROZDZIAŁ VII. BUDOWA RUSZTOWANIA I KOMINA PRZYSZŁEJ CHATY. — WYCIECZKA W ZACHODNIĄ STRONĘ ZATOKI I DO WYSPY POMNIKOWEJ.
 
 Mieliśmy już materyjały konieczne do rozpoczęcia budowy dogodniejszej siedziby, szło teraz o jak najlepsze ich zużytkowanie. Pod tym względem miałem pewne doświadczenie i mogłem być dosyć pomocnym. Podczas ostatnich lat mego pobytu w Australii, kiedym był zmuszony dłużej na jednem miejscu przebywać, przywykłem zastępować namiot, który dawniej zawsze rozpinałem, przez jakąś trwalszą siedzibę. Budowałem sobie chatę z kłód drzewa, używając kory do krycia dachu. Nie zapominałem nawet o kominie, który zawsze wznosiłem z kamieni i gliny.
 
@@ -667,9 +653,7 @@ Ponieważ przez cały czas podróży z powrotem, dla przeciwnego wiatru, nie mog
 
 <!-- page 98 -->
 
-## ROZDZIAŁ VIII.
-
-### WYKOŃCZENIE NASZEJ CHATKI. — FABRYKACYJA MYDŁA. — NA SZCZYCIE GÓRY. — USTAWIENIE SYGNAŁU. — KORMORANY.
+## ROZDZIAŁ VIII. WYKOŃCZENIE NASZEJ CHATKI. — FABRYKACYJA MYDŁA. — NA SZCZYCIE GÓRY. — USTAWIENIE SYGNAŁU. — KORMORANY.
 
 Nazajutrz po tej wycieczce zabraliśmy się napowrót do budowy domku.
 
@@ -790,9 +774,7 @@ Za zbliżeniem się jastrzębi wszyscy pięknopiórzy śpiewacy, którzy zwykle 
 
 <!-- page 112 -->
 
-## ROZDZIAŁ IX.
-
-### RZEŹ NIEWINIĄTEK. — NASZE SPRZĘTY DOMOWE. — PRZYJĘCIE STAŁEGO TRYBU ŻYCIA. — NAUKA WIECZORNA. — ZABAWY.
+## ROZDZIAŁ IX. RZEŹ NIEWINIĄTEK. — NASZE SPRZĘTY DOMOWE. — PRZYJĘCIE STAŁEGO TRYBU ŻYCIA. — NAUKA WIECZORNA. — ZABAWY.
 
 **Poniedziałek, 8.** Cały ranek spędziliśmy na wycinaniu śród zarośli i znoszeniu na wzgórek sztuk drzewa, potrzebnych nam na podłogę, którą zamierzyliśmy ułożyć w naszej chatce. W południe zaczął padać ulewny deszcz, który ustał dopiero wieczorem; ale od czasu pokrycia dachu na domku, mogliśmy wygodnie w jego wnętrzu prowadzić dalej roboty, które poprzednio każdy deszcz nam przerywał.
 
@@ -902,9 +884,7 @@ Skorom już wspomniał o swym scyzoryku, to trzeba i coś więcej o nim powiedzi
 
 <!-- page 127 -->
 
-## ROZDZIAŁ X.
-
-### OSEŁKA. — KARTY. — POKUSA. — ZWIEDZENIE WYSPY ÓSEMKOWEJ. — PATRYARCHA FOK.
+## ROZDZIAŁ X. OSEŁKA. — KARTY. — POKUSA. — ZWIEDZENIE WYSPY ÓSEMKOWEJ. — PATRYARCHA FOK.
 
 Podczas pierwszego tygodnia, gdym codziennie budził towarzyszów o szóstej rano, mruczeli wszyscy zrazu na mą niewczesną gorliwość; wstawali jednak wszyscy, a wkrótce dobry ten zwyczaj stanowczo został wprowadzony.
 
@@ -969,9 +949,7 @@ Przychylny wiatr przyspieszał naszą podróż, to też w niespełna godzinę pr
 
 <!-- page 138 -->
 
-## ROZDZIAŁ XI.
-
-### URZĄDZENIE DRUGIEGO SYGNAŁU. — NOWA POTRAWA. — DLACZEGO WYRZEKŁEM SIĘ PIWA. — NASZE PAPUGI. — PSY NA WYSPIE.
+## ROZDZIAŁ XI. URZĄDZENIE DRUGIEGO SYGNAŁU. — NOWA POTRAWA. — DLACZEGO WYRZEKŁEM SIĘ PIWA. — NASZE PAPUGI. — PSY NA WYSPIE.
 
 Polowanie nasze poszło nader pomyślnie, mieliśmy więcej zwierzyny, niżeśmy jej spożyć mogli, zanim psuć się zacznie. Pomyśleliśmy więc o odpowiedniem zakonserwowaniu połowy naszej zdobyczy, tem bardziej, żeśmy nie byli pewni, czy za nadejściem zimy nie będziemy czasem czuli niedostatku żywności.
 
@@ -1063,9 +1041,7 @@ Podążyliśmy ich tropem, kierując się wciąż za większymi śla<!-- page 14
 
 <!-- page 148 -->
 
-## ROZDZIAŁ XII.
-
-### NOC SPĘDZONA NA DWORZE. — PRÓBA GARBOWANIA SKÓR FOCZYCH.
+## ROZDZIAŁ XII. NOC SPĘDZONA NA DWORZE. — PRÓBA GARBOWANIA SKÓR FOCZYCH.
 
 **1 Maja.** Zima coraz bardziej się zbliża i chłód zaczyna nam mocno dokuczać. Lwy morskie coraz rzadziej napotykać się dają, a stąd przyszłość zaczyna nam się przedstawiać w coraz smutniejszych barwach, ukazując w oddali widmo głodu, który coraz szybciej zbliżać się zdaje. Gdybyż przynajmniej pogoda była znośną! Moglibyśmy jeszcze dalej zapuścić się w naszych poszukiwaniach. W obecnych jednak okolicznościach ukradkiem tylko można spróbować wycieczki na zatokę.
 
@@ -1111,9 +1087,7 @@ Praca! Wówczas dopiero poznałem całą jej wartość i zasługi. Jakież to do
 
 <!-- page 155 -->
 
-## ROZDZIAŁ XIII.
-
-### ŚNIEG. — LWY MORSKIE EMIGRUJĄ. — ŚMIERĆ JEGO KRÓLEWSKIEJ MOŚCI KRÓLA TOMA. — ZORZA POŁUDNIOWA. — TRZĘSIENIE ZIEMI.
+## ROZDZIAŁ XIII. ŚNIEG. — LWY MORSKIE EMIGRUJĄ. — ŚMIERĆ JEGO KRÓLEWSKIEJ MOŚCI KRÓLA TOMA. — ZORZA POŁUDNIOWA. — TRZĘSIENIE ZIEMI.
 
 **Poniedziałek, 23 maja.** Gruba powłoka śniegu pokrywa ziemię; liście zawsze zielone flory południowej giną pod warstwą nagromadzonych kłaczków śnieżnych; drzewa, krzewy, zioła przeobraziły się w białe bukiety. Przyroda przystroiła się jakby na uroczystość, ale jakżeż ponurym jest strój ten oślepiający! Można by powiedzieć, że to uroczystość śmierci.
 
@@ -1210,9 +1184,7 @@ Wyrazy te, stosujące się tak dobrze do niebezpieczeństwa, z któregośmy uszl
 
 <!-- page 163 -->
 
-## ROZDZIAŁ XIV.
-
-### WYCIECZKA DO ODNOGI ZACHODNIEJ. — ODKRYCIE DAWNEGO OBOZOWISKA. — SZCZĄTKI OKRĘTU.
+## ROZDZIAŁ XIV. WYCIECZKA DO ODNOGI ZACHODNIEJ. — ODKRYCIE DAWNEGO OBOZOWISKA. — SZCZĄTKI OKRĘTU.
 
 Doszliśmy już prawie do dni najkrótszych w roku. Słońce nie wschodzi przed wpół do dziewiątej, a zachodzi między trzecią a czwartą po południu.
 
@@ -1290,9 +1262,7 @@ Jakaż to pociecha dla tych, co cierpieli, a nawet dla tych, co cierpią, jeżel
 
 <!-- page 169 -->
 
-## ROZDZIAŁ XV.
-
-### NĘDZA. — NA DNIE OTCHŁANI. — POWRÓT OBFITOŚCI. — CHWILA SZCZĘŚCIA.
+## ROZDZIAŁ XV. NĘDZA. — NA DNIE OTCHŁANI. — POWRÓT OBFITOŚCI. — CHWILA SZCZĘŚCIA.
 
 Wkrótce potem byliśmy znowu doprowadzeni do tego, żeśmy gryźli ostatni nasz kawałek wędzonki zjełczałej i nie wiedzieli, zkąd zdobędziemy posiłek na jutro.
 
@@ -1370,9 +1340,7 @@ Ale niedługo pozostaliśmy biernymi widzami tego zachwycającego obrazu; otacza
 
 <!-- page 178 -->
 
-## ROZDZIAŁ XVI.
-
-### PIECZARA. — JESTEŚMY ZASKOCZENI PRZEZ MGŁĘ. — ZWIEDZENIE ZATOKI ŚRODKOWEJ. — PORZECZKI. — POMYSŁ NIEWYKONALNY.
+## ROZDZIAŁ XVI. PIECZARA. — JESTEŚMY ZASKOCZENI PRZEZ MGŁĘ. — ZWIEDZENIE ZATOKI ŚRODKOWEJ. — PORZECZKI. — POMYSŁ NIEWYKONALNY.
 
 Trzy dni silnego mrozu, następnie trzy dni bezustannej burzy, uraganu, wiejącego kolejno ze wszystkich okolic nieba z gwałtownością przerażającą, na szkodę biednych drzew wybrzeża — oto historyja ostatniego tygodnia.
 
@@ -1449,9 +1417,7 @@ Powrót nasz był posępny. Zaufanie nasze w ludzi i rzeczy zmniejszyło się. J
 
 <!-- page 187 -->
 
-## ROZDZIAŁ XVII.
-
-### MOJE ĆWICZENIA NA CZELADNIKA SZEWCKIEGO. — PRZYPUSZCZENIA ROZPACZLIWE. — POWRÓT POGODNEJ PORY ROKU. — MOJE BADANIA GEOGRAFICZNE.
+## ROZDZIAŁ XVII. MOJE ĆWICZENIA NA CZELADNIKA SZEWCKIEGO. — PRZYPUSZCZENIA ROZPACZLIWE. — POWRÓT POGODNEJ PORY ROKU. — MOJE BADANIA GEOGRAFICZNE.
 
 Jakimkolwiek był stan naszych umysłów, nowe potrzeby, powstające bezustannie, wywoływały działalność naszych zdolności i naszych ramion, a to, jakem to już powiedział, było naszem zbawieniem.
 
@@ -1522,9 +1488,7 @@ Obserwacyje, jakich mi udzielili, tyczące się położenia portu Carnleya, zgad
 
 <!-- page 196 -->
 
-## ROZDZIAŁ XVIII.
-
-### ZAMIAR OSWOBODZENIA. — WYKONANIE MIECHA KOWALSKIEGO. — POŚWIĘCENIE KAŻDEGO DLA OGÓLNEGO DOBRA.
+## ROZDZIAŁ XVIII. ZAMIAR OSWOBODZENIA. — WYKONANIE MIECHA KOWALSKIEGO. — POŚWIĘCENIE KAŻDEGO DLA OGÓLNEGO DOBRA.
 
 Otóż mamy 25 Grudnia, dzień Bożego Narodzenia, dzień świętej radości dla wszystkich chrześcian, tkliwej uciechy dla wszystkich rodzin.
 
@@ -1586,9 +1550,7 @@ Niedostawało mi już tylko kowadła. Pomyślałem najprzód o użyciu płaskieg
 
 <!-- page 202 -->
 
-## ROZDZIAŁ XIX.
-
-### WYRÓB NASZYCH NARZĘDZI. — PRZYJĘCIE NOWEGO PLANU.
+## ROZDZIAŁ XIX. WYRÓB NASZYCH NARZĘDZI. — PRZYJĘCIE NOWEGO PLANU.
 
 Szesnastego Stycznia, od samego rana, kuźnia nasza zaczęła działać po raz pierwszy. Węgiel palił się iskrząc, a miech, poruszany przez Musgrave'a wydawał szmer dźwięczny, który był dla nas najmilszą w świecie muzyką.
 
@@ -1644,9 +1606,7 @@ W istocie, koniec tylko kolca świderka był złamany. Za pomocą kamienia szlif
 
 <!-- page 208 -->
 
-## ROZDZIAŁ XX.
-
-### WYKOŃCZENIE I SPUSZCZENIE BARKI. — ROZSTANIE.
+## ROZDZIAŁ XX. WYKOŃCZENIE I SPUSZCZENIE BARKI. — ROZSTANIE.
 
 Ku końcowi marca dodaliśmy nowy szkielet w tyle okrętu. Potężna sztuka drzewa, oparta na końcu belki spodniej, kończyła spód zewnętrzny statku i wznosiła się o dwie stopy po nad dawną krawędź. Podtrzymywała krótką i grubą listwę poprzeczną, u której miały się kończyć deski pokładu.
 
@@ -1718,9 +1678,7 @@ W chwilę potem, uściskaliśmy się na brzegu, a Musgrave, Alick i ja rozwinęl
 
 <!-- page 217 -->
 
-## ROZDZIAŁ XXI.
-
-### MĘCZARNIE GŁODOWE. — LĄD! — WYLĄDOWANIE W PORT-ADVENTURE. — PRZENIESIENIE DO INVERCARGILL.
+## ROZDZIAŁ XXI. MĘCZARNIE GŁODOWE. — LĄD! — WYLĄDOWANIE W PORT-ADVENTURE. — PRZENIESIENIE DO INVERCARGILL.
 
 Około jedenastej rano byliśmy między dwoma przylądkami, które stanowią wejście do portu Carnleya. Skorośmy je tylko przebyli, wiatr zimny, ostry, idący prosto od lodów bieguna, nadął żagiel naszej barki, która się zaczęła posuwać szybko, jak mewa, po wielkich falach oceanu Spokojnego.
 
@@ -1806,9 +1764,7 @@ Płynęliśmy dalej w górę rzeki i w godzinę później dobiliśmy do debarkad
 
 <!-- page 229 -->
 
-## ROZDZIAŁ XXII.
-
-### MUSGRAVE WRACA NA AUKLANDY I SPROWADZA DWU NASZYCH TOWARZYSZÓW. — SPRAWOZDANIE Z TEJ PODRÓŻY. TRUP W PORT-ROSS.
+## ROZDZIAŁ XXII. MUSGRAVE WRACA NA AUKLANDY I SPROWADZA DWU NASZYCH TOWARZYSZÓW. — SPRAWOZDANIE Z TEJ PODRÓŻY. TRUP W PORT-ROSS.
 
 Historyja nasza szybko rozgłosiła się po całem mieście i skoro tylko została poznana, znaczna liczba mieszkańców zaczęła nas odwiedzać i okazywać swe współczucie, wyprzedzano się w oddawaniu nam usług. Przyjęliśmy gościnność u p. Collyer, jednego ze znakomitszych mieszkańców, który kazał nam przygotować trzy pokoje w swym domu. Doktór Innes przybył do nas i nie chcąc przyjąć innego wynagrodzenia oprócz naszych dziękczynień, ofiarował nam najgorliwsze swe usługi.
 
@@ -1906,9 +1862,7 @@ Anglik utrzymywał, że on sam tylko był winien, Portugalczyk przeczył mu i os
 
 <!-- page 239 -->
 
-## ROZDZIAŁ XXIII.
-
-### ODJAZD DO SYDNEY. — WYPOCZYNEK W PORT-CHALMERS. — WYTŁOMACZENIE TAJEMNICY Z PORT-ROSS. — POWRÓT MÓJ DO FRANCYI.**
+## ROZDZIAŁ XXIII. ODJAZD DO SYDNEY. — WYPOCZYNEK W PORT-CHALMERS. — WYTŁOMACZENIE TAJEMNICY Z PORT-ROSS. — POWRÓT MÓJ DO FRANCYI.**
 
 Następnego zaraz dnia po swym powrocie do Invercargill, Musgrave zdał raport urzędowy rządowi prowincyi, który tym razem uważał za swój obowiązek wysłanie statków dla zbadania Auklandów. Przesłano natychmiast do Otago rozkaz przygotowania parowca South-Land, który się znajdował na kotwicy w tym porcie. Ale wyprawa ta opóźniła się tak dalece, że, jak to zobaczymy dalej, dała się wyprzedzić innej, wysłanej z Melbourne.
 
